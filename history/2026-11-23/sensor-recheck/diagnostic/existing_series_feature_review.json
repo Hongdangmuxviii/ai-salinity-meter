@@ -1,0 +1,147 @@
+{
+  "anchors": [
+    {
+      "reference_percent": 0.5,
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_0p5_20261123_221338_raw.txt",
+      "temperature_C": {
+        "mean": 19.27,
+        "sample_stdev": 0.03464101615137681
+      },
+      "mean_raw": {
+        "mean": 92.21,
+        "sample_stdev": 0.03999999999999915
+      },
+      "forward": {
+        "mean": 90.40666666666667,
+        "sample_stdev": 0.11060440015357959
+      },
+      "reverse": {
+        "mean": 94.01,
+        "sample_stdev": 0.026457513110651386
+      },
+      "direction_difference": {
+        "mean": -3.6033333333333295,
+        "sample_stdev": 0.13650396819629323
+      },
+      "within_burst_pair_span": {
+        "mean": 8.696666666666667,
+        "sample_stdev": 0.0513160143944674
+      }
+    },
+    {
+      "reference_percent": 1.1,
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_1p1_same_cup_20261123_221952_raw.txt",
+      "temperature_C": {
+        "mean": 19.25,
+        "sample_stdev": 0.0
+      },
+      "mean_raw": {
+        "mean": 92.48666666666666,
+        "sample_stdev": 0.07094598884597644
+      },
+      "forward": {
+        "mean": 92.88333333333333,
+        "sample_stdev": 0.10263202878893896
+      },
+      "reverse": {
+        "mean": 92.09,
+        "sample_stdev": 0.03999999999999915
+      },
+      "direction_difference": {
+        "mean": 0.7933333333333318,
+        "sample_stdev": 0.06429100507328683
+      },
+      "within_burst_pair_span": {
+        "mean": 8.146666666666661,
+        "sample_stdev": 0.056862407030772784
+      }
+    },
+    {
+      "reference_percent": 2.0,
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_2p0_same_cup_20261123_222834_raw.txt",
+      "temperature_C": {
+        "mean": 19.27,
+        "sample_stdev": 0.03464101615137681
+      },
+      "mean_raw": {
+        "mean": 92.76,
+        "sample_stdev": 0.07211102550927333
+      },
+      "forward": {
+        "mean": 94.26,
+        "sample_stdev": 0.08888194417315819
+      },
+      "reverse": {
+        "mean": 91.25666666666667,
+        "sample_stdev": 0.055075705472860816
+      },
+      "direction_difference": {
+        "mean": 3.0033333333333303,
+        "sample_stdev": 0.03785938897200493
+      },
+      "within_burst_pair_span": {
+        "mean": 7.699999999999998,
+        "sample_stdev": 0.08544003745316912
+      }
+    }
+  ],
+  "later_2p0_recheck": {
+    "reference_percent": 2.0,
+    "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_legacy_recheck_20261123_225302_raw.txt",
+    "temperature_C": {
+      "mean": 19.6,
+      "sample_stdev": 0.03464101615137886
+    },
+    "mean_raw": {
+      "mean": 93.06333333333333,
+      "sample_stdev": 0.08082903768654794
+    },
+    "forward": {
+      "mean": 94.77666666666667,
+      "sample_stdev": 0.10115993936995937
+    },
+    "reverse": {
+      "mean": 91.35,
+      "sample_stdev": 0.06082762530298061
+    },
+    "direction_difference": {
+      "mean": 3.426666666666667,
+      "sample_stdev": 0.04041451884327807
+    },
+    "within_burst_pair_span": {
+      "mean": 7.1933333333333325,
+      "sample_stdev": 0.13051181300300427
+    }
+  },
+  "comparison": {
+    "mean_raw": {
+      "original_0p5_to_2p0_span": 0.5500000000000114,
+      "same_solution_later_recheck_difference": 0.30333333333332746,
+      "absolute_recheck_difference_as_percent_of_anchor_span": 55.15151515151294
+    },
+    "forward": {
+      "original_0p5_to_2p0_span": 3.853333333333339,
+      "same_solution_later_recheck_difference": 0.5166666666666657,
+      "absolute_recheck_difference_as_percent_of_anchor_span": 13.408304498269851
+    },
+    "reverse": {
+      "original_0p5_to_2p0_span": -2.7533333333333303,
+      "same_solution_later_recheck_difference": 0.0933333333333195,
+      "absolute_recheck_difference_as_percent_of_anchor_span": 3.3898305084740774
+    },
+    "direction_difference": {
+      "original_0p5_to_2p0_span": 6.60666666666666,
+      "same_solution_later_recheck_difference": 0.4233333333333369,
+      "absolute_recheck_difference_as_percent_of_anchor_span": 6.407669021190776
+    }
+  },
+  "calibration_validated": false,
+  "interpretation": [
+    "Legacy forward and reverse records carry information hidden by their mean; retain both.",
+    "Direction difference is an exploratory dynamic feature, not a physical resistance estimate.",
+    "Three sequential concentrations and repeat commands do not establish independent accuracy.",
+    "Temperature, elapsed time, unmeasured geometry and electrode history remain possible contributors.",
+    "The new differential protocol has only been tested on the current 2% sample.",
+    "Do not merge voltage metrics from the new protocol with legacy RAW anchors or extrapolate concentration."
+  ]
+}

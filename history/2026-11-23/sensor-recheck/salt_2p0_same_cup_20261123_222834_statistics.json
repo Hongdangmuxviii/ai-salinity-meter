@@ -1,0 +1,41 @@
+{
+  "user_stated_salinity_percent": 2.0,
+  "mean_raw": 92.76,
+  "temperature_mean_C": 19.27,
+  "forward_mean": 94.26,
+  "reverse_mean": 91.2567,
+  "phase_count": 30,
+  "sign_disagreement_count": 15,
+  "trials": [
+    {
+      "trial": 1,
+      "temperature_C": 19.25,
+      "raw": 92.68,
+      "forward": 94.16,
+      "reverse": 91.2,
+      "pair_min": 87.37,
+      "pair_max": 95.16
+    },
+    {
+      "trial": 2,
+      "temperature_C": 19.25,
+      "raw": 92.78,
+      "forward": 94.29,
+      "reverse": 91.26,
+      "pair_min": 87.55,
+      "pair_max": 95.24
+    },
+    {
+      "trial": 3,
+      "temperature_C": 19.31,
+      "raw": 92.82,
+      "forward": 94.33,
+      "reverse": 91.31,
+      "pair_min": 87.64,
+      "pair_max": 95.26
+    }
+  ],
+  "calibration_point_accepted": false,
+  "quantitative_concentration_discrimination_validated": false,
+  "note": "A0/A1 are sampled sequentially. Sign mismatch needs acquisition diagnosis; not proof of instantaneous physical polarity reversal. Reference concentrations are user reported. Immersion geometry not independently measured."
+}

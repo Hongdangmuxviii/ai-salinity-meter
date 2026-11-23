@@ -1,0 +1,16 @@
+{
+  "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\air_after_0p6_20261123_232436_raw.txt",
+  "source_sha256": "6d441a6de0002d145e13e37e6cd31d0f655024284622e7dca774d43a747b74a0",
+  "phase_samples": 30,
+  "dry_state_user_confirmed": true,
+  "salinity_accuracy_validated": false,
+  "mean_balance_residual_V": -9.999999999995962e-05,
+  "mean_legacy_response_is_not_a_hardware_health_check": true,
+  "record_retained": true,
+  "dry_tolerance_V": 0.15,
+  "A0_max_tracking_error_V": 0.001000000000000334,
+  "A1_max_tracking_error_V": 0.001,
+  "drive_validation": true,
+  "classification": "DRY_RESPONSE_MATCHES_DRIVE",
+  "limitation": "A dry pass rules out a persistent mismatch at this time; it does not prove wet accuracy or exclude an intermittent fault."
+}

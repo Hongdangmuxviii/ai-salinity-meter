@@ -1,0 +1,5 @@
+﻿reference_percent,response_index_median,temperature_C,source_kind,source
+0.5,95.21452881618897,19.25,archived_reprocessed,C:\Users\Yeon\Documents\Codex\2026-11-23\sensor-recheck\salt_0p5_20261123_221338_raw.txt
+0.6,96.21234,20.31,fresh_k,C:\Users\Yeon\Documents\Codex\2026-11-24\salinity-calibration\reference_0p6_ready_20261124_001436_raw.txt
+1.1,97.67148906299899,19.25,archived_reprocessed,C:\Users\Yeon\Documents\Codex\2026-11-23\sensor-recheck\salt_1p1_same_cup_20261123_221952_raw.txt
+2.0,99.42491,21.56,fresh_upper_reference_refinement,C:\Users\Yeon\Documents\Codex\2026-11-24\salinity-calibration\on_device_calibration_verify_20261124_002705_raw.txt

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">AI 스마트 염도계 MVP 예상 단면도</title>
+  <desc id="desc">카메라, ToF 거리 센서, MCU와 블루투스 보드, EC 전도도 회로, 온도 센서, EC 전극의 배치를 설명하는 단면도</desc>
+  <defs>
+    <linearGradient id="body" x1="0" x2="1"><stop stop-color="#F8FCFD"/><stop offset="1" stop-color="#DCEFF1"/></linearGradient>
+    <linearGradient id="probe" x1="0" x2="1"><stop stop-color="#B9C7CC"/><stop offset=".45" stop-color="#FAFFFF"/><stop offset="1" stop-color="#91A4AB"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#1D3940" flood-opacity=".16"/></filter>
+    <style>
+      .k{font-family:Arial,'Malgun Gothic',sans-serif;fill:#163640}.title{font-size:42px;font-weight:700}.sub{font-size:20px;fill:#628087}.label{font-size:26px;font-weight:700}.small{font-size:19px;fill:#527078}.call{stroke:#46B7BD;stroke-width:4;fill:none}.dash{stroke:#46B7BD;stroke-width:3;stroke-dasharray:8 8;fill:none}.chip{fill:#E9F9FA;stroke:#46B7BD;stroke-width:2}.node{fill:#46B7BD}.note{font-size:19px;fill:#5C7379}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+  <text x="90" y="90" class="k title">AI 스마트 염도계 · MVP 예상 단면도</text>
+  <text x="90" y="128" class="k sub">전원 모듈은 제외하고, 측정·추정에 필요한 핵심 센서와 보드만 표시</text>
+
+  <!-- product cutaway -->
+  <g filter="url(#shadow)">
+    <path d="M655 190 Q655 145 700 145 L900 145 Q945 145 945 190 L945 560 Q945 610 905 635 L885 648 L885 715 L715 715 L715 648 L695 635 Q655 610 655 560Z" fill="url(#body)" stroke="#8AB3B8" stroke-width="5"/>
+    <path d="M800 145 L900 145 Q945 145 945 190 L945 560 Q945 610 905 635 L885 648 L885 715 L800 715Z" fill="#D4E9EB" opacity=".85"/>
+    <rect x="704" y="192" width="105" height="72" rx="12" fill="#183B45"/>
+    <text x="724" y="238" font-family="Arial" font-size="26" fill="#E8FFFF">0.7%</text>
+    <!-- optical sensors -->
+    <rect x="833" y="192" width="74" height="72" rx="12" fill="#234A54"/>
+    <circle cx="857" cy="228" r="13" fill="#58D0D3"/>
+    <circle cx="887" cy="228" r="13" fill="#A7F0F0"/>
+    <!-- pcb -->
+    <rect x="715" y="320" width="178" height="115" rx="15" fill="#2C7379" stroke="#154A50" stroke-width="4"/>
+    <rect x="737" y="344" width="54" height="42" rx="6" fill="#BFECEF"/>
+    <rect x="807" y="344" width="57" height="18" rx="4" fill="#80DDE0"/>
+    <rect x="807" y="376" width="57" height="18" rx="4" fill="#80DDE0"/>
+    <text x="732" y="416" font-family="Arial" font-size="18" fill="#E9FFFF">MCU · BLE</text>
+    <!-- EC module -->
+    <rect x="715" y="470" width="178" height="73" rx="13" fill="#EAF8F8" stroke="#46B7BD" stroke-width="3"/>
+    <path d="M745 506 h30 m-15 -15 v30 M806 491 v30 M829 491 v30 M852 491 v30" stroke="#28878D" stroke-width="5"/>
+    <text x="720" y="532" font-family="Arial" font-size="17" fill="#286B72">EC 측정 회로</text>
+    <!-- cable -->
+    <path d="M800 543 L800 714" stroke="#3D8990" stroke-width="8"/>
+    <!-- probe -->
+    <rect x="752" y="712" width="96" height="118" rx="42" fill="url(#probe)" stroke="#7B9AA2" stroke-width="4"/>
+    <rect x="770" y="765" width="18" height="40" rx="9" fill="#173E48"/>
+    <rect x="812" y="765" width="18" height="40" rx="9" fill="#173E48"/>
+    <circle cx="800" cy="818" r="10" fill="#E27054"/>
+  </g>
+
+  <!-- scan rays -->
+  <path d="M857 263 L610 600 M887 263 L990 600" class="dash" opacity=".8"/>
+
+  <!-- left labels -->
+  <g class="k">
+    <circle cx="145" cy="230" r="28" class="node"/><text x="135" y="240" font-size="27" fill="white" font-weight="700">1</text>
+    <text x="195" y="222" class="label">카메라</text><text x="195" y="252" class="small">그릇·건더기 영역 인식</text>
+    <path d="M410 236 H585 L857 228" class="call"/><circle cx="857" cy="228" r="7" class="node"/>
+
+    <circle cx="145" cy="375" r="28" class="node"/><text x="135" y="385" font-size="27" fill="white" font-weight="700">2</text>
+    <text x="195" y="367" class="label">ToF 거리 센서</text><text x="195" y="397" class="small">채움 높이·그릇까지 거리 측정</text>
+    <path d="M470 381 H585 L887 228" class="call"/><circle cx="887" cy="228" r="7" class="node"/>
+
+    <circle cx="145" cy="540" r="28" class="node"/><text x="135" y="550" font-size="27" fill="white" font-weight="700">3</text>
+    <text x="195" y="532" class="label">MCU · BLE 보드</text><text x="195" y="562" class="small">센서값 처리·스마트폰 전송</text>
+    <path d="M475 546 H625 L715 377" class="call"/><circle cx="715" cy="377" r="7" class="node"/>
+  </g>
+
+  <!-- right labels -->
+  <g class="k">
+    <circle cx="1120" cy="380" r="28" class="node"/><text x="1110" y="390" font-size="27" fill="white" font-weight="700">4</text>
+    <text x="1170" y="372" class="label">EC 전도도 측정 회로</text><text x="1170" y="402" class="small">전기전도도 → 염도 환산</text>
+    <path d="M1100 386 H1000 L893 506" class="call"/><circle cx="893" cy="506" r="7" class="node"/>
+
+    <circle cx="1120" cy="555" r="28" class="node"/><text x="1110" y="565" font-size="27" fill="white" font-weight="700">5</text>
+    <text x="1170" y="547" class="label">온도 센서</text><text x="1170" y="577" class="small">온도별 전도도 보정</text>
+    <path d="M1100 561 H1000 L800 818" class="call"/><circle cx="800" cy="818" r="7" class="node"/>
+
+    <circle cx="1120" cy="705" r="28" class="node"/><text x="1110" y="715" font-size="27" fill="white" font-weight="700">6</text>
+    <text x="1170" y="697" class="label">EC 전극</text><text x="1170" y="727" class="small">국물과 직접 접촉해 전도도 측정</text>
+    <path d="M1100 711 H1000 L830 785" class="call"/><circle cx="830" cy="785" r="7" class="node"/>
+  </g>
+
+  <rect x="90" y="790" width="530" height="60" rx="18" class="chip"/>
+  <text x="118" y="829" class="k note">AI 보정: 카메라·ToF로 추정한 국물량을 계산식에 반영</text>
+</svg>

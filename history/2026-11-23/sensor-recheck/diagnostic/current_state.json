@@ -1,0 +1,38 @@
+{
+  "firmware": "SALINITY_CAL_4P_V1",
+  "port": "COM4",
+  "baud": 115200,
+  "diagnostic_commands": [
+    "m: calibrated estimate median3",
+    "k: raw current response",
+    "p: calibration table",
+    "t: temperature only"
+  ],
+  "hardware_wiring_changed": false,
+  "last_user_stated_solution_percent": 2.0,
+  "last_temperature_C": 21.69,
+  "interpretation": "Comparative four-point empirical table is stored in MCU flash and read back correctly. Final repeat of the same2% upper reference outputs2.01%. This is calibration fitting and same-reference repeatability only, not independent whole-range accuracy validation. Temperature compensation is NOT implemented. A0 intermittent component cause remains unisolated; its value is excluded from current-based calculation.",
+  "old_raw_metric_not_comparable_to_new_voltage": true,
+  "next_physical_condition": "No further user tests or preparation requested for this calibration configuration. User may remove head and unplug USB as cleanup; saved table remains in flash. Do not request a new mixture or repeat diagnostics without a new reason. Future acquisition requires confirming actual head/sample state.",
+  "drive_state_after_measurement": "INPUT; serial port closed",
+  "latest_raw_log": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\final_calibration_V2_readback_20261124_003113_raw.txt",
+  "fixed_acquisition": "PRIMARY m now means calibrated estimate:3 current-response acquisitions with temperature reads and200ms rest, median3 then piecewise table lookup. k means raw current response. p reads table, t reads temp. Only m/k/t/p exposed. Do NOT stop reading m after the first CURRENT_RESULT: wait for SALINITY_RESULT.",
+  "physical_status": "Original head restored; temporary1k resistor removed from clips. Temperature3wires connected. User confirmed head immersed in preserved2.0% solution. Final commands complete, GPIO drivesINPUT, portclosed.",
+  "reference_meter_removed_confirmed": true,
+  "last_temperature_context": "head in preserved2% reference solution; final calibrated m read",
+  "historical_2p0_fast_probe_mean_V": [
+    0.08309375,
+    0.08303125,
+    0.0836953125
+  ],
+  "final_known_1k_indices": [
+    66.77168,
+    66.77064,
+    66.77402
+  ],
+  "salinity_accuracy_validated": false,
+  "calibration_id": "REF_4P_20261124_V2",
+  "calibration_table_saved_verified": true,
+  "final_report": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\\ubcf4\uc815\ud45c_\uc800\uc7a5\uc644\ub8cc_\uae30\ub85d.txt",
+  "final_estimated_percent": 2.01
+}

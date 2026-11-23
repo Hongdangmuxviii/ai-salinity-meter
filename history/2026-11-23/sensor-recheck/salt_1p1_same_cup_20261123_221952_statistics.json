@@ -1,0 +1,48 @@
+{
+  "condition": "salt_1p1_same_cup",
+  "user_stated_salinity_percent": 1.1,
+  "trials": [
+    {
+      "condition": "salt_1p1_same_cup",
+      "trial": 1,
+      "temperature_C": 19.25,
+      "raw_response": 92.41,
+      "forward_response": 92.77,
+      "reverse_response": 92.05,
+      "pair_min": 86.79,
+      "pair_max": 95.0
+    },
+    {
+      "condition": "salt_1p1_same_cup",
+      "trial": 2,
+      "temperature_C": 19.25,
+      "raw_response": 92.5,
+      "forward_response": 92.91,
+      "reverse_response": 92.09,
+      "pair_min": 86.93,
+      "pair_max": 95.06
+    },
+    {
+      "condition": "salt_1p1_same_cup",
+      "trial": 3,
+      "temperature_C": 19.25,
+      "raw_response": 92.55,
+      "forward_response": 92.97,
+      "reverse_response": 92.13,
+      "pair_min": 87.01,
+      "pair_max": 95.11
+    }
+  ],
+  "mean_raw": 92.4867,
+  "temperature_mean_C": 19.25,
+  "forward_mean": 92.8833,
+  "reverse_mean": 92.09,
+  "preceding_0p5_mean_raw": 92.21,
+  "preceding_0p5_temperature_C": 19.27,
+  "delta_raw_from_0p5": 0.2767,
+  "delta_temperature_C": -0.02,
+  "immersion_depth_mm": null,
+  "calibration_point_accepted": false,
+  "quantitative_concentration_discrimination_validated": false,
+  "note": "Small averaged RAW increase despite higher stated salinity at similar temperature; forward response rose while reverse response fell. Preserve sequential ADC data and inspect excitation/sampling dynamics before fitting a calibration."
+}

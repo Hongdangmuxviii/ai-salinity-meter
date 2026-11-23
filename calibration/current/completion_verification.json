@@ -1,0 +1,19 @@
+{
+  "calibration_id": "REF_4P_20261124_V2",
+  "table_readback_matches": true,
+  "firmware_program": "SALINITY_CAL_4P_V1",
+  "firmware_sha256": "7d8e44a5b9c690d1617aace04cab7dc6d64a7bd8b15880c36947998637a6d2f1",
+  "same_reference_percent": 2.0,
+  "reported_percent": 2.01,
+  "response_index": 99.44128,
+  "temperature_C": 21.69,
+  "status": "ABOVE_REFERENCE_SPAN",
+  "difference_percentage_points": 0.009999999999999787,
+  "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\final_calibration_V2_readback_20261124_003113_raw.txt",
+  "verification_kind": "repeat of upper calibration reference, NOT independent accuracy validation",
+  "temperature_compensated": false,
+  "accuracy_independently_validated": false,
+  "refinement_disclosure": "Initial same-reference repeat read2.12%; its three raw indices were used once to refine the2.0% upper calibration node. This is calibration fitting, not an independent accuracy validation.",
+  "drive_after_command": "INPUT",
+  "serial_port_after_command": "closed"
+}

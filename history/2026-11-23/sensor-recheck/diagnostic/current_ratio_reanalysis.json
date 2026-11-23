@@ -1,0 +1,102 @@
+{
+  "formula": "C=100*(R1+R2)/R2 * (A1-A3)/(A2-A3); R1=R2=1k gives C=200*(A1-A3)/(A2-A3)",
+  "A0_used_in_calculation": false,
+  "assumptions": [
+    "Existing series R1/R2 are matched nominal1k resistors.",
+    "Current through R2 represents the intended two-electrode loop.",
+    "Legacy sequential timing is retained; this is a dynamic response feature."
+  ],
+  "known_1k_expected_index": 66.66666666666667,
+  "known_1k_measured_index_mean": 66.7602323562284,
+  "known_1k_includes_initial_bad_A0_records": true,
+  "salinity_accuracy_validated": false,
+  "normalization": {
+    "low_reference_percent": 0.5,
+    "high_reference_percent": 2.0,
+    "low_index": 95.1904879174091,
+    "high_index": 98.98461036335789,
+    "formula": "z=100*(C-low_index)/(high_index-low_index)",
+    "do_not_extrapolate_or_clip": true
+  },
+  "summaries": [
+    {
+      "condition": "original_0p5",
+      "role": "anchor",
+      "user_reference_percent": 0.5,
+      "temperature_mean_C": 19.27,
+      "current_index_mean": 95.1904879174091,
+      "trial_sample_stdev": 0.10062224976861488,
+      "current_index_min": 95.0800227447584,
+      "current_index_max": 95.27691219127993,
+      "normalized_feature_from_0p5_to_2p0": 0.0,
+      "normalization_is_salinity_percent": false
+    },
+    {
+      "condition": "original_1p1",
+      "role": "anchor",
+      "user_reference_percent": 1.1,
+      "temperature_mean_C": 19.25,
+      "current_index_mean": 97.66169077690029,
+      "trial_sample_stdev": 0.056769065640731704,
+      "current_index_min": 97.60066034127837,
+      "current_index_max": 97.71292292642352,
+      "normalized_feature_from_0p5_to_2p0": 65.1323960862106,
+      "normalization_is_salinity_percent": false
+    },
+    {
+      "condition": "original_2p0",
+      "role": "anchor",
+      "user_reference_percent": 2.0,
+      "temperature_mean_C": 19.27,
+      "current_index_mean": 98.98461036335789,
+      "trial_sample_stdev": 0.039138215178776053,
+      "current_index_min": 98.93966137985046,
+      "current_index_max": 99.01114583388735,
+      "normalized_feature_from_0p5_to_2p0": 100.0,
+      "normalization_is_salinity_percent": false
+    },
+    {
+      "condition": "new_0p6",
+      "role": "new_solution",
+      "user_reference_percent": 0.6,
+      "temperature_mean_C": 19.31,
+      "current_index_mean": 96.33818803179153,
+      "trial_sample_stdev": 0.03551088665455627,
+      "current_index_min": 96.30134184225545,
+      "current_index_max": 96.37219290465119,
+      "normalized_feature_from_0p5_to_2p0": 30.249422118885477,
+      "normalization_is_salinity_percent": false
+    },
+    {
+      "condition": "same_0p6_return",
+      "role": "same_solution_repeat",
+      "user_reference_percent": 0.6,
+      "temperature_mean_C": 19.62,
+      "current_index_mean": 96.18226307250909,
+      "trial_sample_stdev": 0.025017523696094276,
+      "current_index_min": 96.15362727976822,
+      "current_index_max": 96.19987794059023,
+      "normalized_feature_from_0p5_to_2p0": 26.13977722724697,
+      "normalization_is_salinity_percent": false
+    },
+    {
+      "condition": "known_1k_all_trials",
+      "role": "known_resistor",
+      "user_reference_percent": null,
+      "temperature_mean_C": 19.44,
+      "current_index_mean": 66.7602323562284,
+      "trial_sample_stdev": 0.005503137910238354,
+      "current_index_min": 66.75399253875345,
+      "current_index_max": 66.76439295477009,
+      "normalized_feature_from_0p5_to_2p0": null,
+      "normalization_is_salinity_percent": false
+    }
+  ],
+  "limits": [
+    "One repeated preparation is not an independent accuracy study.",
+    "No temperature compensation model has been fitted.",
+    "A0 intermittent behavior is bypassed in the calculation, not declared repaired.",
+    "Electrode polarization remains in the response; no physical resistivity claim is made.",
+    "The newly prepared0.6% records were not used to choose the normalization anchors."
+  ]
+}

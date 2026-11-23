@@ -1,0 +1,207 @@
+{
+  "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_0p6_electrical_c_20261123_233453_raw.txt",
+  "records": 24,
+  "all_configuration_readbacks_match": true,
+  "salinity_calibration_validated": false,
+  "groups": [
+    {
+      "state": "LL",
+      "read_order": "0123",
+      "A0": {
+        "mean_V": 0.647125,
+        "min_V": 0.55125,
+        "max_V": 0.73525
+      },
+      "A1": {
+        "mean_V": 0.05370833333333334,
+        "min_V": 0.000625,
+        "max_V": 0.081625
+      },
+      "A2": {
+        "mean_V": -0.0022916666666666667,
+        "min_V": -0.003375,
+        "max_V": -0.000625
+      },
+      "A3": {
+        "mean_V": 0.0008333333333333333,
+        "min_V": -0.0005,
+        "max_V": 0.001625
+      }
+    },
+    {
+      "state": "LL",
+      "read_order": "3210",
+      "A0": {
+        "mean_V": 0.67475,
+        "min_V": 0.61175,
+        "max_V": 0.78175
+      },
+      "A1": {
+        "mean_V": 0.07191666666666667,
+        "min_V": 0.064875,
+        "max_V": 0.07575
+      },
+      "A2": {
+        "mean_V": -0.0031666666666666666,
+        "min_V": -0.0035,
+        "max_V": -0.00275
+      },
+      "A3": {
+        "mean_V": 0.001958333333333333,
+        "min_V": 0.0015,
+        "max_V": 0.00225
+      }
+    },
+    {
+      "state": "HL",
+      "read_order": "0123",
+      "A0": {
+        "mean_V": 0.6972083333333333,
+        "min_V": 0.591125,
+        "max_V": 0.784625
+      },
+      "A1": {
+        "mean_V": 1.3649166666666666,
+        "min_V": 1.333375,
+        "max_V": 1.382375
+      },
+      "A2": {
+        "mean_V": 3.2325416666666666,
+        "min_V": 3.23175,
+        "max_V": 3.23375
+      },
+      "A3": {
+        "mean_V": 0.036625,
+        "min_V": 0.036,
+        "max_V": 0.037125
+      }
+    },
+    {
+      "state": "HL",
+      "read_order": "3210",
+      "A0": {
+        "mean_V": 0.7049583333333334,
+        "min_V": 0.54025,
+        "max_V": 0.78825
+      },
+      "A1": {
+        "mean_V": 1.308,
+        "min_V": 1.3035,
+        "max_V": 1.3105
+      },
+      "A2": {
+        "mean_V": 3.229875,
+        "min_V": 3.22975,
+        "max_V": 3.23
+      },
+      "A3": {
+        "mean_V": 0.04358333333333333,
+        "min_V": 0.04325,
+        "max_V": 0.043875
+      }
+    },
+    {
+      "state": "LH",
+      "read_order": "0123",
+      "A0": {
+        "mean_V": 0.6522083333333333,
+        "min_V": 0.47125,
+        "max_V": 0.791
+      },
+      "A1": {
+        "mean_V": 1.65825,
+        "min_V": 1.64475,
+        "max_V": 1.66525
+      },
+      "A2": {
+        "mean_V": 0.04479166666666667,
+        "min_V": 0.044375,
+        "max_V": 0.04525
+      },
+      "A3": {
+        "mean_V": 3.2291666666666665,
+        "min_V": 3.228625,
+        "max_V": 3.229625
+      }
+    },
+    {
+      "state": "LH",
+      "read_order": "3210",
+      "A0": {
+        "mean_V": 0.6950416666666667,
+        "min_V": 0.620875,
+        "max_V": 0.798125
+      },
+      "A1": {
+        "mean_V": 1.7584583333333332,
+        "min_V": 1.756125,
+        "max_V": 1.75975
+      },
+      "A2": {
+        "mean_V": 0.04808333333333333,
+        "min_V": 0.047625,
+        "max_V": 0.0485
+      },
+      "A3": {
+        "mean_V": 3.222,
+        "min_V": 3.221875,
+        "max_V": 3.222125
+      }
+    },
+    {
+      "state": "HH",
+      "read_order": "0123",
+      "A0": {
+        "mean_V": 0.780875,
+        "min_V": 0.674125,
+        "max_V": 0.8695
+      },
+      "A1": {
+        "mean_V": 3.405875,
+        "min_V": 3.39575,
+        "max_V": 3.41125
+      },
+      "A2": {
+        "mean_V": 3.2643333333333335,
+        "min_V": 3.264125,
+        "max_V": 3.264625
+      },
+      "A3": {
+        "mean_V": 3.270541666666667,
+        "min_V": 3.270125,
+        "max_V": 3.27075
+      }
+    },
+    {
+      "state": "HH",
+      "read_order": "3210",
+      "A0": {
+        "mean_V": 0.6835833333333333,
+        "min_V": 0.55225,
+        "max_V": 0.79575
+      },
+      "A1": {
+        "mean_V": 3.400375,
+        "min_V": 3.398375,
+        "max_V": 3.401625
+      },
+      "A2": {
+        "mean_V": 3.264125,
+        "min_V": 3.264,
+        "max_V": 3.264375
+      },
+      "A3": {
+        "mean_V": 3.271958333333333,
+        "min_V": 3.271875,
+        "max_V": 3.272
+      }
+    }
+  ],
+  "observations": [
+    "A0 remains approximately0.47..0.87V in every commanded state under the present wet condition.",
+    "A1 follows bothLOW/bothHIGH while A0 does not.",
+    "Read order and ADC MUX/config selection do not explain the discrepancy.",
+    "Dry input tracking was normal; a known dry1k load is the next isolating test.",
+    "A1 in HH reached3.39575..3.41125V, higher than measured GPIO high. No further HH testing is needed for the current diagnosis."
+  ]
+}

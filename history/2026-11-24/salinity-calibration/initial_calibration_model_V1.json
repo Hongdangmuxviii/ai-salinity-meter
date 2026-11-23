@@ -1,0 +1,63 @@
+{
+  "id": "REF_4P_20261124_V1",
+  "kind": "monotonic piecewise-linear empirical lookup",
+  "nodes": [
+    {
+      "reference_percent": 0.5,
+      "index": 95.21452881618897,
+      "temperature_C": 19.25,
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_0p5_20261123_221338_raw.txt",
+      "source_kind": "archived_reprocessed",
+      "trial_indices": [
+        95.0800227447584,
+        95.21452881618897,
+        95.27691219127993
+      ]
+    },
+    {
+      "reference_percent": 0.6,
+      "index": 96.21234,
+      "temperature_C": 20.31,
+      "trial_indices": [
+        95.84127,
+        96.21234,
+        96.22842
+      ],
+      "trial_sample_stdev": 0.2190268757481627,
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\reference_0p6_ready_20261124_001436_raw.txt",
+      "source_kind": "fresh_k"
+    },
+    {
+      "reference_percent": 1.1,
+      "index": 97.67148906299899,
+      "temperature_C": 19.25,
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_1p1_same_cup_20261123_221952_raw.txt",
+      "source_kind": "archived_reprocessed",
+      "trial_indices": [
+        97.60066034127837,
+        97.67148906299899,
+        97.71292292642352
+      ]
+    },
+    {
+      "reference_percent": 2.0,
+      "index": 99.22185,
+      "temperature_C": 21.31,
+      "trial_indices": [
+        99.08878,
+        99.22185,
+        99.24487
+      ],
+      "trial_sample_stdev": 0.08426311312391577,
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\reference_2p0_20261124_001837_raw.txt",
+      "source_kind": "fresh_k"
+    }
+  ],
+  "aggregation": "median of3 identical raw-current acquisitions",
+  "response_formula": "C=200*(A1-A3)/(A2-A3)",
+  "A0_in_calculation": false,
+  "temperature_compensated": false,
+  "accuracy_independently_validated": false,
+  "reference_meter_calibration_traceability": "not supplied",
+  "scope": "Comparative prototype calibration0.5..2.0%; archive0.5/1.1 plus fresh0.6/2.0 references. Recorded temperature conditions differ; no complete temperature correction or independent accuracy claim."
+}

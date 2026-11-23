@@ -1,0 +1,15 @@
+{
+  "status": "table_saved_to_device_and_readback_verified",
+  "calibration_id": "REF_4P_20261124_V2",
+  "kind": "monotonic piecewise-linear empirical lookup",
+  "reference_percents": [
+    0.5,
+    0.6,
+    1.1,
+    2.0
+  ],
+  "final_same_2p0_reference_output": 2.01,
+  "temperature_compensated": false,
+  "accuracy_independently_validated": false,
+  "additional_user_steps_required_for_this_configuration": 0
+}

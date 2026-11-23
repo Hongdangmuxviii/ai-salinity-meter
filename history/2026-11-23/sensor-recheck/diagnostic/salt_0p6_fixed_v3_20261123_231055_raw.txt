@@ -1,0 +1,260 @@
+
+COMMAND=m trial=1 timestamp=2026-11-23T23:10:57.5560695+09:00 user_stated_reference_percent=0.6 newly_prepared=true
+PHASE D0+ A0=0.606 A1=1.335 A2=3.234 A3=0.037 V
+PHASE D1+ A0=0.576 A1=1.529 A2=0.049 A3=3.226 V
+PHASE D0+ A0=0.845 A1=1.456 A2=3.230 A3=0.039 V
+PHASE D1+ A0=0.612 A1=1.570 A2=0.048 A3=3.227 V
+PHASE D0+ A0=0.607 A1=1.488 A2=3.230 A3=0.041 V
+PHASE D1+ A0=0.634 A1=1.592 A2=0.048 A3=3.228 V
+PHASE D0+ A0=0.873 A1=1.505 A2=3.229 A3=0.041 V
+PHASE D1+ A0=0.564 A1=1.602 A2=0.048 A3=3.228 V
+PHASE D0+ A0=0.603 A1=1.514 A2=3.230 A3=0.041 V
+PHASE D1+ A0=0.672 A1=1.609 A2=0.047 A3=3.228 V
+RESULT temp_C=19.31  response=72.96 / 100  D0+=76.41  D1+=69.52  range=70.99..75.34
+
+COMMAND=m trial=2 timestamp=2026-11-23T23:11:01.0769782+09:00 user_stated_reference_percent=0.6 newly_prepared=true
+PHASE D0+ A0=0.676 A1=1.340 A2=3.234 A3=0.037 V
+PHASE D1+ A0=0.530 A1=1.530 A2=0.049 A3=3.226 V
+PHASE D0+ A0=0.675 A1=1.459 A2=3.230 A3=0.040 V
+PHASE D1+ A0=0.813 A1=1.572 A2=0.048 A3=3.227 V
+PHASE D0+ A0=0.744 A1=1.491 A2=3.229 A3=0.041 V
+PHASE D1+ A0=0.539 A1=1.593 A2=0.048 A3=3.227 V
+PHASE D0+ A0=0.702 A1=1.507 A2=3.229 A3=0.041 V
+PHASE D1+ A0=0.781 A1=1.604 A2=0.047 A3=3.228 V
+PHASE D0+ A0=0.711 A1=1.515 A2=3.229 A3=0.041 V
+PHASE D1+ A0=0.549 A1=1.610 A2=0.047 A3=3.228 V
+RESULT temp_C=19.31  response=73.31 / 100  D0+=76.15  D1+=70.47  range=70.72..75.78
+
+COMMAND=m trial=3 timestamp=2026-11-23T23:11:04.5737893+09:00 user_stated_reference_percent=0.6 newly_prepared=true
+PHASE D0+ A0=0.772 A1=1.342 A2=3.233 A3=0.037 V
+PHASE D1+ A0=0.463 A1=1.531 A2=0.050 A3=3.226 V
+PHASE D0+ A0=0.606 A1=1.460 A2=3.230 A3=0.040 V
+PHASE D1+ A0=0.835 A1=1.572 A2=0.049 A3=3.227 V
+PHASE D0+ A0=0.815 A1=1.492 A2=3.229 A3=0.041 V
+PHASE D1+ A0=0.487 A1=1.593 A2=0.047 A3=3.228 V
+PHASE D0+ A0=0.634 A1=1.507 A2=3.230 A3=0.041 V
+PHASE D1+ A0=0.836 A1=1.604 A2=0.047 A3=3.228 V
+PHASE D0+ A0=0.789 A1=1.516 A2=3.229 A3=0.041 V
+PHASE D1+ A0=0.522 A1=1.610 A2=0.047 A3=3.228 V
+RESULT temp_C=19.31  response=73.40 / 100  D0+=76.79  D1+=70.01  range=71.49..75.02
+
+COMMAND=s timestamp=2026-11-23T23:11:07.9804703+09:00 user_stated_reference_percent=0.6
+SWEEP_BEGIN version=SIGNED_DIFF_V3 temp_C=19.31 warmup_pairs=24 retained_pairs=8 idle_us=1000
+SWEEP width_us=6000 offset_us=0 pair=1 phase=D0+ probe_V=-0.902625 sample_start_us=3 sample_end_us=2546 pulse_us=6091
+SWEEP width_us=6000 offset_us=0 pair=1 phase=D1+ probe_V=-0.866750 sample_start_us=2 sample_end_us=2477 pulse_us=6035
+SWEEP width_us=6000 offset_us=0 pair=25 phase=D0+ probe_V=-0.818000 sample_start_us=1 sample_end_us=2478 pulse_us=6079
+SWEEP width_us=6000 offset_us=0 pair=25 phase=D1+ probe_V=-1.028000 sample_start_us=2 sample_end_us=2470 pulse_us=6067
+SWEEP width_us=6000 offset_us=0 pair=26 phase=D0+ probe_V=-0.877625 sample_start_us=2 sample_end_us=2471 pulse_us=6070
+SWEEP width_us=6000 offset_us=0 pair=26 phase=D1+ probe_V=-1.014000 sample_start_us=2 sample_end_us=2476 pulse_us=6072
+SWEEP width_us=6000 offset_us=0 pair=27 phase=D0+ probe_V=-0.974750 sample_start_us=1 sample_end_us=2475 pulse_us=6031
+SWEEP width_us=6000 offset_us=0 pair=27 phase=D1+ probe_V=-0.983750 sample_start_us=1 sample_end_us=2471 pulse_us=6075
+SWEEP width_us=6000 offset_us=0 pair=28 phase=D0+ probe_V=-1.029750 sample_start_us=1 sample_end_us=2474 pulse_us=6074
+SWEEP width_us=6000 offset_us=0 pair=28 phase=D1+ probe_V=-0.939875 sample_start_us=2 sample_end_us=2470 pulse_us=6075
+SWEEP width_us=6000 offset_us=0 pair=29 phase=D0+ probe_V=-1.115500 sample_start_us=2 sample_end_us=2471 pulse_us=6072
+SWEEP width_us=6000 offset_us=0 pair=29 phase=D1+ probe_V=-0.873750 sample_start_us=2 sample_end_us=2474 pulse_us=6076
+SWEEP width_us=6000 offset_us=0 pair=30 phase=D0+ probe_V=-1.072500 sample_start_us=2 sample_end_us=2475 pulse_us=6032
+SWEEP width_us=6000 offset_us=0 pair=30 phase=D1+ probe_V=-0.924000 sample_start_us=2 sample_end_us=2471 pulse_us=6071
+SWEEP width_us=6000 offset_us=0 pair=31 phase=D0+ probe_V=-0.891750 sample_start_us=2 sample_end_us=2470 pulse_us=6071
+SWEEP width_us=6000 offset_us=0 pair=31 phase=D1+ probe_V=-0.970625 sample_start_us=1 sample_end_us=2470 pulse_us=6067
+SWEEP width_us=6000 offset_us=0 pair=32 phase=D0+ probe_V=-0.828000 sample_start_us=1 sample_end_us=2470 pulse_us=6075
+SWEEP width_us=6000 offset_us=0 pair=32 phase=D1+ probe_V=-1.069375 sample_start_us=2 sample_end_us=2472 pulse_us=6076
+SWEEP width_us=6000 offset_us=1500 pair=1 phase=D0+ probe_V=-0.684125 sample_start_us=1501 sample_end_us=4073 pulse_us=6114
+SWEEP width_us=6000 offset_us=1500 pair=1 phase=D1+ probe_V=-1.051625 sample_start_us=1552 sample_end_us=4026 pulse_us=6077
+SWEEP width_us=6000 offset_us=1500 pair=25 phase=D0+ probe_V=-0.966375 sample_start_us=1552 sample_end_us=4020 pulse_us=6075
+SWEEP width_us=6000 offset_us=1500 pair=25 phase=D1+ probe_V=-0.969875 sample_start_us=1547 sample_end_us=4018 pulse_us=6066
+SWEEP width_us=6000 offset_us=1500 pair=26 phase=D0+ probe_V=-1.024625 sample_start_us=1547 sample_end_us=4020 pulse_us=6071
+SWEEP width_us=6000 offset_us=1500 pair=26 phase=D1+ probe_V=-0.883750 sample_start_us=1551 sample_end_us=4025 pulse_us=6075
+SWEEP width_us=6000 offset_us=1500 pair=27 phase=D0+ probe_V=-1.043750 sample_start_us=1551 sample_end_us=4020 pulse_us=6066
+SWEEP width_us=6000 offset_us=1500 pair=27 phase=D1+ probe_V=-0.976875 sample_start_us=1502 sample_end_us=3970 pulse_us=6072
+SWEEP width_us=6000 offset_us=1500 pair=28 phase=D0+ probe_V=-0.850625 sample_start_us=1508 sample_end_us=3977 pulse_us=6075
+SWEEP width_us=6000 offset_us=1500 pair=28 phase=D1+ probe_V=-1.071750 sample_start_us=1551 sample_end_us=4020 pulse_us=6076
+SWEEP width_us=6000 offset_us=1500 pair=29 phase=D0+ probe_V=-0.752875 sample_start_us=1510 sample_end_us=3983 pulse_us=6038
+SWEEP width_us=6000 offset_us=1500 pair=29 phase=D1+ probe_V=-1.139125 sample_start_us=1503 sample_end_us=3972 pulse_us=6069
+SWEEP width_us=6000 offset_us=1500 pair=30 phase=D0+ probe_V=-0.796000 sample_start_us=1505 sample_end_us=3973 pulse_us=6080
+SWEEP width_us=6000 offset_us=1500 pair=30 phase=D1+ probe_V=-1.128875 sample_start_us=1504 sample_end_us=3977 pulse_us=6076
+SWEEP width_us=6000 offset_us=1500 pair=31 phase=D0+ probe_V=-0.893750 sample_start_us=1501 sample_end_us=3969 pulse_us=6081
+SWEEP width_us=6000 offset_us=1500 pair=31 phase=D1+ probe_V=-1.058375 sample_start_us=1502 sample_end_us=3972 pulse_us=6071
+SWEEP width_us=6000 offset_us=1500 pair=32 phase=D0+ probe_V=-0.986875 sample_start_us=1503 sample_end_us=3972 pulse_us=6072
+SWEEP width_us=6000 offset_us=1500 pair=32 phase=D1+ probe_V=-0.925250 sample_start_us=1505 sample_end_us=3973 pulse_us=6077
+SWEEP width_us=6000 offset_us=3000 pair=1 phase=D0+ probe_V=-0.777250 sample_start_us=3051 sample_end_us=5612 pulse_us=6101
+SWEEP width_us=6000 offset_us=3000 pair=1 phase=D1+ probe_V=-1.062875 sample_start_us=3012 sample_end_us=5486 pulse_us=6038
+SWEEP width_us=6000 offset_us=3000 pair=25 phase=D0+ probe_V=-0.815000 sample_start_us=3051 sample_end_us=5519 pulse_us=6071
+SWEEP width_us=6000 offset_us=3000 pair=25 phase=D1+ probe_V=-1.149500 sample_start_us=3004 sample_end_us=5477 pulse_us=6081
+SWEEP width_us=6000 offset_us=3000 pair=26 phase=D0+ probe_V=-0.695125 sample_start_us=3008 sample_end_us=5481 pulse_us=6032
+SWEEP width_us=6000 offset_us=3000 pair=26 phase=D1+ probe_V=-1.184250 sample_start_us=3050 sample_end_us=5523 pulse_us=6073
+SWEEP width_us=6000 offset_us=3000 pair=27 phase=D0+ probe_V=-0.678000 sample_start_us=3008 sample_end_us=5476 pulse_us=6077
+SWEEP width_us=6000 offset_us=3000 pair=27 phase=D1+ probe_V=-1.218125 sample_start_us=3051 sample_end_us=5519 pulse_us=6067
+SWEEP width_us=6000 offset_us=3000 pair=28 phase=D0+ probe_V=-0.816375 sample_start_us=3051 sample_end_us=5520 pulse_us=6076
+SWEEP width_us=6000 offset_us=3000 pair=28 phase=D1+ probe_V=-1.125500 sample_start_us=3002 sample_end_us=5471 pulse_us=6072
+SWEEP width_us=6000 offset_us=3000 pair=29 phase=D0+ probe_V=-0.931750 sample_start_us=3014 sample_end_us=5482 pulse_us=6034
+SWEEP width_us=6000 offset_us=3000 pair=29 phase=D1+ probe_V=-0.947625 sample_start_us=3012 sample_end_us=5480 pulse_us=6081
+SWEEP width_us=6000 offset_us=3000 pair=30 phase=D0+ probe_V=-0.965250 sample_start_us=3051 sample_end_us=5519 pulse_us=6068
+SWEEP width_us=6000 offset_us=3000 pair=30 phase=D1+ probe_V=-0.911000 sample_start_us=3002 sample_end_us=5475 pulse_us=6076
+SWEEP width_us=6000 offset_us=3000 pair=31 phase=D0+ probe_V=-0.977750 sample_start_us=3001 sample_end_us=5474 pulse_us=6075
+SWEEP width_us=6000 offset_us=3000 pair=31 phase=D1+ probe_V=-1.050375 sample_start_us=3050 sample_end_us=5523 pulse_us=6072
+SWEEP width_us=6000 offset_us=3000 pair=32 phase=D0+ probe_V=-0.787250 sample_start_us=3045 sample_end_us=5513 pulse_us=6062
+SWEEP width_us=6000 offset_us=3000 pair=32 phase=D1+ probe_V=-1.152625 sample_start_us=3005 sample_end_us=5478 pulse_us=6082
+SWEEP width_us=8000 offset_us=0 pair=1 phase=D0+ probe_V=-0.728375 sample_start_us=3 sample_end_us=2568 pulse_us=8116
+SWEEP width_us=8000 offset_us=0 pair=1 phase=D1+ probe_V=-0.891125 sample_start_us=2 sample_end_us=2480 pulse_us=8051
+SWEEP width_us=8000 offset_us=0 pair=25 phase=D0+ probe_V=-1.027125 sample_start_us=2 sample_end_us=2471 pulse_us=8036
+SWEEP width_us=8000 offset_us=0 pair=25 phase=D1+ probe_V=-0.884625 sample_start_us=2 sample_end_us=2471 pulse_us=8042
+SWEEP width_us=8000 offset_us=0 pair=26 phase=D0+ probe_V=-1.105125 sample_start_us=2 sample_end_us=2471 pulse_us=8033
+SWEEP width_us=8000 offset_us=0 pair=26 phase=D1+ probe_V=-0.864875 sample_start_us=2 sample_end_us=2471 pulse_us=8051
+SWEEP width_us=8000 offset_us=0 pair=27 phase=D0+ probe_V=-1.171125 sample_start_us=2 sample_end_us=2474 pulse_us=8040
+SWEEP width_us=8000 offset_us=0 pair=27 phase=D1+ probe_V=-0.844000 sample_start_us=1 sample_end_us=2475 pulse_us=8053
+SWEEP width_us=8000 offset_us=0 pair=28 phase=D0+ probe_V=-1.110000 sample_start_us=2 sample_end_us=2473 pulse_us=8051
+SWEEP width_us=8000 offset_us=0 pair=28 phase=D1+ probe_V=-0.911500 sample_start_us=2 sample_end_us=2475 pulse_us=8046
+SWEEP width_us=8000 offset_us=0 pair=29 phase=D0+ probe_V=-1.069000 sample_start_us=2 sample_end_us=2470 pulse_us=8034
+SWEEP width_us=8000 offset_us=0 pair=29 phase=D1+ probe_V=-0.933375 sample_start_us=2 sample_end_us=2475 pulse_us=8047
+SWEEP width_us=8000 offset_us=0 pair=30 phase=D0+ probe_V=-1.045875 sample_start_us=2 sample_end_us=2471 pulse_us=8046
+SWEEP width_us=8000 offset_us=0 pair=30 phase=D1+ probe_V=-0.976500 sample_start_us=1 sample_end_us=2470 pulse_us=8080
+SWEEP width_us=8000 offset_us=0 pair=31 phase=D0+ probe_V=-1.015375 sample_start_us=1 sample_end_us=2477 pulse_us=8048
+SWEEP width_us=8000 offset_us=0 pair=31 phase=D1+ probe_V=-0.976750 sample_start_us=2 sample_end_us=2471 pulse_us=8054
+SWEEP width_us=8000 offset_us=0 pair=32 phase=D0+ probe_V=-0.995750 sample_start_us=1 sample_end_us=2470 pulse_us=8036
+SWEEP width_us=8000 offset_us=0 pair=32 phase=D1+ probe_V=-1.039500 sample_start_us=2 sample_end_us=2472 pulse_us=8040
+SWEEP width_us=8000 offset_us=2000 pair=1 phase=D0+ probe_V=-0.760500 sample_start_us=2024 sample_end_us=4585 pulse_us=8074
+SWEEP width_us=8000 offset_us=2000 pair=1 phase=D1+ probe_V=-0.883250 sample_start_us=2018 sample_end_us=4487 pulse_us=8043
+SWEEP width_us=8000 offset_us=2000 pair=25 phase=D0+ probe_V=-1.071625 sample_start_us=2019 sample_end_us=4488 pulse_us=8046
+SWEEP width_us=8000 offset_us=2000 pair=25 phase=D1+ probe_V=-0.874625 sample_start_us=2018 sample_end_us=4491 pulse_us=8036
+SWEEP width_us=8000 offset_us=2000 pair=26 phase=D0+ probe_V=-1.019750 sample_start_us=2018 sample_end_us=4487 pulse_us=8082
+SWEEP width_us=8000 offset_us=2000 pair=26 phase=D1+ probe_V=-0.949000 sample_start_us=2014 sample_end_us=4482 pulse_us=8033
+SWEEP width_us=8000 offset_us=2000 pair=27 phase=D0+ probe_V=-0.997875 sample_start_us=2025 sample_end_us=4494 pulse_us=8039
+SWEEP width_us=8000 offset_us=2000 pair=27 phase=D1+ probe_V=-1.040375 sample_start_us=2017 sample_end_us=4485 pulse_us=8041
+SWEEP width_us=8000 offset_us=2000 pair=28 phase=D0+ probe_V=-0.920500 sample_start_us=2017 sample_end_us=4486 pulse_us=8031
+SWEEP width_us=8000 offset_us=2000 pair=28 phase=D1+ probe_V=-1.103750 sample_start_us=2024 sample_end_us=4498 pulse_us=8045
+SWEEP width_us=8000 offset_us=2000 pair=29 phase=D0+ probe_V=-0.875000 sample_start_us=2017 sample_end_us=4486 pulse_us=8043
+SWEEP width_us=8000 offset_us=2000 pair=29 phase=D1+ probe_V=-1.131750 sample_start_us=2025 sample_end_us=4498 pulse_us=8048
+SWEEP width_us=8000 offset_us=2000 pair=30 phase=D0+ probe_V=-0.802375 sample_start_us=2016 sample_end_us=4484 pulse_us=8040
+SWEEP width_us=8000 offset_us=2000 pair=30 phase=D1+ probe_V=-1.147750 sample_start_us=2022 sample_end_us=4495 pulse_us=8042
+SWEEP width_us=8000 offset_us=2000 pair=31 phase=D0+ probe_V=-0.800500 sample_start_us=2019 sample_end_us=4487 pulse_us=8039
+SWEEP width_us=8000 offset_us=2000 pair=31 phase=D1+ probe_V=-1.093125 sample_start_us=2024 sample_end_us=4493 pulse_us=8047
+SWEEP width_us=8000 offset_us=2000 pair=32 phase=D0+ probe_V=-0.847000 sample_start_us=2021 sample_end_us=4498 pulse_us=8048
+SWEEP width_us=8000 offset_us=2000 pair=32 phase=D1+ probe_V=-1.075625 sample_start_us=2022 sample_end_us=4490 pulse_us=8044
+SWEEP width_us=8000 offset_us=4000 pair=1 phase=D0+ probe_V=-0.858500 sample_start_us=4034 sample_end_us=6601 pulse_us=8072
+SWEEP width_us=8000 offset_us=4000 pair=1 phase=D1+ probe_V=-0.909625 sample_start_us=4043 sample_end_us=6517 pulse_us=8055
+SWEEP width_us=8000 offset_us=4000 pair=25 phase=D0+ probe_V=-0.900500 sample_start_us=4040 sample_end_us=6509 pulse_us=8049
+SWEEP width_us=8000 offset_us=4000 pair=25 phase=D1+ probe_V=-1.112375 sample_start_us=4042 sample_end_us=6516 pulse_us=8047
+SWEEP width_us=8000 offset_us=4000 pair=26 phase=D0+ probe_V=-0.838125 sample_start_us=4033 sample_end_us=6504 pulse_us=8033
+SWEEP width_us=8000 offset_us=4000 pair=26 phase=D1+ probe_V=-1.201500 sample_start_us=4038 sample_end_us=6507 pulse_us=8037
+SWEEP width_us=8000 offset_us=4000 pair=27 phase=D0+ probe_V=-0.743000 sample_start_us=4037 sample_end_us=6505 pulse_us=8042
+SWEEP width_us=8000 offset_us=4000 pair=27 phase=D1+ probe_V=-1.251500 sample_start_us=4035 sample_end_us=6504 pulse_us=8039
+SWEEP width_us=8000 offset_us=4000 pair=28 phase=D0+ probe_V=-0.652375 sample_start_us=4037 sample_end_us=6510 pulse_us=8041
+SWEEP width_us=8000 offset_us=4000 pair=28 phase=D1+ probe_V=-1.188375 sample_start_us=4047 sample_end_us=6516 pulse_us=8051
+SWEEP width_us=8000 offset_us=4000 pair=29 phase=D0+ probe_V=-0.677375 sample_start_us=4039 sample_end_us=6508 pulse_us=8042
+SWEEP width_us=8000 offset_us=4000 pair=29 phase=D1+ probe_V=-1.165250 sample_start_us=4045 sample_end_us=6518 pulse_us=8052
+SWEEP width_us=8000 offset_us=4000 pair=30 phase=D0+ probe_V=-0.725000 sample_start_us=4041 sample_end_us=6509 pulse_us=8040
+SWEEP width_us=8000 offset_us=4000 pair=30 phase=D1+ probe_V=-1.144500 sample_start_us=4039 sample_end_us=6507 pulse_us=8036
+SWEEP width_us=8000 offset_us=4000 pair=31 phase=D0+ probe_V=-0.831000 sample_start_us=4040 sample_end_us=6508 pulse_us=8044
+SWEEP width_us=8000 offset_us=4000 pair=31 phase=D1+ probe_V=-1.077625 sample_start_us=4048 sample_end_us=6521 pulse_us=8052
+SWEEP width_us=8000 offset_us=4000 pair=32 phase=D0+ probe_V=-0.934000 sample_start_us=4032 sample_end_us=6501 pulse_us=8032
+SWEEP width_us=8000 offset_us=4000 pair=32 phase=D1+ probe_V=-0.990500 sample_start_us=4038 sample_end_us=6514 pulse_us=8045
+SWEEP width_us=20000 offset_us=0 pair=1 phase=D0+ probe_V=-0.977500 sample_start_us=3 sample_end_us=2561 pulse_us=20116
+SWEEP width_us=20000 offset_us=0 pair=1 phase=D1+ probe_V=-0.698625 sample_start_us=1 sample_end_us=2479 pulse_us=20046
+SWEEP width_us=20000 offset_us=0 pair=25 phase=D0+ probe_V=-1.214500 sample_start_us=2 sample_end_us=2471 pulse_us=20046
+SWEEP width_us=20000 offset_us=0 pair=25 phase=D1+ probe_V=-0.887375 sample_start_us=2 sample_end_us=2471 pulse_us=20040
+SWEEP width_us=20000 offset_us=0 pair=26 phase=D0+ probe_V=-1.203000 sample_start_us=2 sample_end_us=2477 pulse_us=20053
+SWEEP width_us=20000 offset_us=0 pair=26 phase=D1+ probe_V=-0.686625 sample_start_us=1 sample_end_us=2470 pulse_us=20037
+SWEEP width_us=20000 offset_us=0 pair=27 phase=D0+ probe_V=-1.235125 sample_start_us=2 sample_end_us=2470 pulse_us=20033
+SWEEP width_us=20000 offset_us=0 pair=27 phase=D1+ probe_V=-0.888625 sample_start_us=2 sample_end_us=2470 pulse_us=20055
+SWEEP width_us=20000 offset_us=0 pair=28 phase=D0+ probe_V=-1.174125 sample_start_us=1 sample_end_us=2470 pulse_us=20035
+SWEEP width_us=20000 offset_us=0 pair=28 phase=D1+ probe_V=-0.725875 sample_start_us=1 sample_end_us=2475 pulse_us=20040
+SWEEP width_us=20000 offset_us=0 pair=29 phase=D0+ probe_V=-1.262500 sample_start_us=2 sample_end_us=2479 pulse_us=20041
+SWEEP width_us=20000 offset_us=0 pair=29 phase=D1+ probe_V=-0.830750 sample_start_us=2 sample_end_us=2471 pulse_us=20045
+SWEEP width_us=20000 offset_us=0 pair=30 phase=D0+ probe_V=-1.171500 sample_start_us=2 sample_end_us=2476 pulse_us=20052
+SWEEP width_us=20000 offset_us=0 pair=30 phase=D1+ probe_V=-0.771500 sample_start_us=1 sample_end_us=2470 pulse_us=20041
+SWEEP width_us=20000 offset_us=0 pair=31 phase=D0+ probe_V=-1.262375 sample_start_us=2 sample_end_us=2475 pulse_us=20051
+SWEEP width_us=20000 offset_us=0 pair=31 phase=D1+ probe_V=-0.801250 sample_start_us=2 sample_end_us=2470 pulse_us=20040
+SWEEP width_us=20000 offset_us=0 pair=32 phase=D0+ probe_V=-1.158000 sample_start_us=2 sample_end_us=2470 pulse_us=20046
+SWEEP width_us=20000 offset_us=0 pair=32 phase=D1+ probe_V=-0.790625 sample_start_us=2 sample_end_us=2471 pulse_us=20041
+SWEEP width_us=20000 offset_us=3000 pair=1 phase=D0+ probe_V=-0.925000 sample_start_us=3002 sample_end_us=5566 pulse_us=20070
+SWEEP width_us=20000 offset_us=3000 pair=1 phase=D1+ probe_V=-0.712375 sample_start_us=3050 sample_end_us=5525 pulse_us=20041
+SWEEP width_us=20000 offset_us=3000 pair=25 phase=D0+ probe_V=-1.175750 sample_start_us=3003 sample_end_us=5472 pulse_us=20034
+SWEEP width_us=20000 offset_us=3000 pair=25 phase=D1+ probe_V=-0.898250 sample_start_us=3051 sample_end_us=5519 pulse_us=20036
+SWEEP width_us=20000 offset_us=3000 pair=26 phase=D0+ probe_V=-0.886125 sample_start_us=3003 sample_end_us=5471 pulse_us=20034
+SWEEP width_us=20000 offset_us=3000 pair=26 phase=D1+ probe_V=-0.984125 sample_start_us=3004 sample_end_us=5473 pulse_us=20035
+SWEEP width_us=20000 offset_us=3000 pair=27 phase=D0+ probe_V=-1.141250 sample_start_us=3006 sample_end_us=5479 pulse_us=20043
+SWEEP width_us=20000 offset_us=3000 pair=27 phase=D1+ probe_V=-0.854375 sample_start_us=3050 sample_end_us=5527 pulse_us=20055
+SWEEP width_us=20000 offset_us=3000 pair=28 phase=D0+ probe_V=-0.914875 sample_start_us=3000 sample_end_us=5472 pulse_us=20056
+SWEEP width_us=20000 offset_us=3000 pair=28 phase=D1+ probe_V=-0.999875 sample_start_us=3003 sample_end_us=5471 pulse_us=20031
+SWEEP width_us=20000 offset_us=3000 pair=29 phase=D0+ probe_V=-1.122750 sample_start_us=3005 sample_end_us=5473 pulse_us=20040
+SWEEP width_us=20000 offset_us=3000 pair=29 phase=D1+ probe_V=-0.811500 sample_start_us=3001 sample_end_us=5469 pulse_us=20041
+SWEEP width_us=20000 offset_us=3000 pair=30 phase=D0+ probe_V=-0.957250 sample_start_us=3003 sample_end_us=5476 pulse_us=20033
+SWEEP width_us=20000 offset_us=3000 pair=30 phase=D1+ probe_V=-1.035375 sample_start_us=3011 sample_end_us=5480 pulse_us=20062
+SWEEP width_us=20000 offset_us=3000 pair=31 phase=D0+ probe_V=-1.117375 sample_start_us=3006 sample_end_us=5475 pulse_us=20046
+SWEEP width_us=20000 offset_us=3000 pair=31 phase=D1+ probe_V=-0.740125 sample_start_us=3005 sample_end_us=5482 pulse_us=20040
+SWEEP width_us=20000 offset_us=3000 pair=32 phase=D0+ probe_V=-1.044250 sample_start_us=3003 sample_end_us=5472 pulse_us=20035
+SWEEP width_us=20000 offset_us=3000 pair=32 phase=D1+ probe_V=-1.040625 sample_start_us=3006 sample_end_us=5474 pulse_us=20035
+SWEEP width_us=20000 offset_us=6000 pair=1 phase=D0+ probe_V=-0.654250 sample_start_us=6019 sample_end_us=8586 pulse_us=20083
+SWEEP width_us=20000 offset_us=6000 pair=1 phase=D1+ probe_V=-1.126000 sample_start_us=6003 sample_end_us=8472 pulse_us=20048
+SWEEP width_us=20000 offset_us=6000 pair=25 phase=D0+ probe_V=-0.894250 sample_start_us=6015 sample_end_us=8484 pulse_us=20036
+SWEEP width_us=20000 offset_us=6000 pair=25 phase=D1+ probe_V=-0.820250 sample_start_us=6005 sample_end_us=8479 pulse_us=20053
+SWEEP width_us=20000 offset_us=6000 pair=26 phase=D0+ probe_V=-1.069250 sample_start_us=6042 sample_end_us=8511 pulse_us=20036
+SWEEP width_us=20000 offset_us=6000 pair=26 phase=D1+ probe_V=-1.075125 sample_start_us=6008 sample_end_us=8476 pulse_us=20040
+SWEEP width_us=20000 offset_us=6000 pair=27 phase=D0+ probe_V=-0.797375 sample_start_us=6006 sample_end_us=8474 pulse_us=20035
+SWEEP width_us=20000 offset_us=6000 pair=27 phase=D1+ probe_V=-0.865000 sample_start_us=6006 sample_end_us=8477 pulse_us=20039
+SWEEP width_us=20000 offset_us=6000 pair=28 phase=D0+ probe_V=-1.086875 sample_start_us=6006 sample_end_us=8479 pulse_us=20036
+SWEEP width_us=20000 offset_us=6000 pair=28 phase=D1+ probe_V=-1.048875 sample_start_us=6011 sample_end_us=8480 pulse_us=20065
+SWEEP width_us=20000 offset_us=6000 pair=29 phase=D0+ probe_V=-0.738375 sample_start_us=6049 sample_end_us=8520 pulse_us=20040
+SWEEP width_us=20000 offset_us=6000 pair=29 phase=D1+ probe_V=-0.927750 sample_start_us=6010 sample_end_us=8483 pulse_us=20056
+SWEEP width_us=20000 offset_us=6000 pair=30 phase=D0+ probe_V=-1.036125 sample_start_us=6006 sample_end_us=8474 pulse_us=20051
+SWEEP width_us=20000 offset_us=6000 pair=30 phase=D1+ probe_V=-1.021125 sample_start_us=6016 sample_end_us=8489 pulse_us=20056
+SWEEP width_us=20000 offset_us=6000 pair=31 phase=D0+ probe_V=-0.729875 sample_start_us=6006 sample_end_us=8474 pulse_us=20040
+SWEEP width_us=20000 offset_us=6000 pair=31 phase=D1+ probe_V=-0.994750 sample_start_us=6005 sample_end_us=8474 pulse_us=20036
+SWEEP width_us=20000 offset_us=6000 pair=32 phase=D0+ probe_V=-1.014375 sample_start_us=6000 sample_end_us=8476 pulse_us=20050
+SWEEP width_us=20000 offset_us=6000 pair=32 phase=D1+ probe_V=-0.991875 sample_start_us=6006 sample_end_us=8474 pulse_us=20038
+SWEEP width_us=20000 offset_us=9000 pair=1 phase=D0+ probe_V=-0.845750 sample_start_us=9021 sample_end_us=11587 pulse_us=20081
+SWEEP width_us=20000 offset_us=9000 pair=1 phase=D1+ probe_V=-1.081375 sample_start_us=9004 sample_end_us=11473 pulse_us=20042
+SWEEP width_us=20000 offset_us=9000 pair=25 phase=D0+ probe_V=-0.682625 sample_start_us=9005 sample_end_us=11475 pulse_us=20051
+SWEEP width_us=20000 offset_us=9000 pair=25 phase=D1+ probe_V=-1.211625 sample_start_us=9001 sample_end_us=11474 pulse_us=20040
+SWEEP width_us=20000 offset_us=9000 pair=26 phase=D0+ probe_V=-0.846000 sample_start_us=9010 sample_end_us=11481 pulse_us=20051
+SWEEP width_us=20000 offset_us=9000 pair=26 phase=D1+ probe_V=-0.945750 sample_start_us=9050 sample_end_us=11519 pulse_us=20080
+SWEEP width_us=20000 offset_us=9000 pair=27 phase=D0+ probe_V=-0.723125 sample_start_us=9006 sample_end_us=11474 pulse_us=20054
+SWEEP width_us=20000 offset_us=9000 pair=27 phase=D1+ probe_V=-1.193000 sample_start_us=9051 sample_end_us=11526 pulse_us=20049
+SWEEP width_us=20000 offset_us=9000 pair=28 phase=D0+ probe_V=-0.815000 sample_start_us=9018 sample_end_us=11487 pulse_us=20054
+SWEEP width_us=20000 offset_us=9000 pair=28 phase=D1+ probe_V=-0.927250 sample_start_us=9006 sample_end_us=11474 pulse_us=20041
+SWEEP width_us=20000 offset_us=9000 pair=29 phase=D0+ probe_V=-0.797000 sample_start_us=9052 sample_end_us=11520 pulse_us=20035
+SWEEP width_us=20000 offset_us=9000 pair=29 phase=D1+ probe_V=-1.177250 sample_start_us=9011 sample_end_us=11479 pulse_us=20051
+SWEEP width_us=20000 offset_us=9000 pair=30 phase=D0+ probe_V=-0.751625 sample_start_us=9005 sample_end_us=11477 pulse_us=20047
+SWEEP width_us=20000 offset_us=9000 pair=30 phase=D1+ probe_V=-0.917750 sample_start_us=9009 sample_end_us=11485 pulse_us=20054
+SWEEP width_us=20000 offset_us=9000 pair=31 phase=D0+ probe_V=-0.899125 sample_start_us=9006 sample_end_us=11475 pulse_us=20050
+SWEEP width_us=20000 offset_us=9000 pair=31 phase=D1+ probe_V=-1.163750 sample_start_us=9001 sample_end_us=11475 pulse_us=20051
+SWEEP width_us=20000 offset_us=9000 pair=32 phase=D0+ probe_V=-0.687875 sample_start_us=9006 sample_end_us=11474 pulse_us=20047
+SWEEP width_us=20000 offset_us=9000 pair=32 phase=D1+ probe_V=-0.950250 sample_start_us=9008 sample_end_us=11476 pulse_us=20045
+SWEEP width_us=20000 offset_us=12000 pair=1 phase=D0+ probe_V=-0.590750 sample_start_us=12002 sample_end_us=14564 pulse_us=20075
+SWEEP width_us=20000 offset_us=12000 pair=1 phase=D1+ probe_V=-1.013250 sample_start_us=12009 sample_end_us=14479 pulse_us=20049
+SWEEP width_us=20000 offset_us=12000 pair=25 phase=D0+ probe_V=-0.813000 sample_start_us=12048 sample_end_us=14516 pulse_us=20040
+SWEEP width_us=20000 offset_us=12000 pair=25 phase=D1+ probe_V=-1.091625 sample_start_us=12045 sample_end_us=14513 pulse_us=20077
+SWEEP width_us=20000 offset_us=12000 pair=26 phase=D0+ probe_V=-0.599875 sample_start_us=12016 sample_end_us=14485 pulse_us=20055
+SWEEP width_us=20000 offset_us=12000 pair=26 phase=D1+ probe_V=-1.208375 sample_start_us=12049 sample_end_us=14518 pulse_us=20035
+SWEEP width_us=20000 offset_us=12000 pair=27 phase=D0+ probe_V=-0.793500 sample_start_us=12007 sample_end_us=14479 pulse_us=20057
+SWEEP width_us=20000 offset_us=12000 pair=27 phase=D1+ probe_V=-1.038500 sample_start_us=12050 sample_end_us=14518 pulse_us=20034
+SWEEP width_us=20000 offset_us=12000 pair=28 phase=D0+ probe_V=-0.635875 sample_start_us=12001 sample_end_us=14469 pulse_us=20040
+SWEEP width_us=20000 offset_us=12000 pair=28 phase=D1+ probe_V=-1.243000 sample_start_us=12052 sample_end_us=14520 pulse_us=20082
+SWEEP width_us=20000 offset_us=12000 pair=29 phase=D0+ probe_V=-0.765375 sample_start_us=12006 sample_end_us=14479 pulse_us=20045
+SWEEP width_us=20000 offset_us=12000 pair=29 phase=D1+ probe_V=-1.035875 sample_start_us=12001 sample_end_us=14471 pulse_us=20046
+SWEEP width_us=20000 offset_us=12000 pair=30 phase=D0+ probe_V=-0.638250 sample_start_us=12005 sample_end_us=14482 pulse_us=20053
+SWEEP width_us=20000 offset_us=12000 pair=30 phase=D1+ probe_V=-1.273875 sample_start_us=12043 sample_end_us=14511 pulse_us=20037
+SWEEP width_us=20000 offset_us=12000 pair=31 phase=D0+ probe_V=-0.737250 sample_start_us=12005 sample_end_us=14473 pulse_us=20040
+SWEEP width_us=20000 offset_us=12000 pair=31 phase=D1+ probe_V=-1.027000 sample_start_us=12009 sample_end_us=14478 pulse_us=20051
+SWEEP width_us=20000 offset_us=12000 pair=32 phase=D0+ probe_V=-0.660000 sample_start_us=12005 sample_end_us=14478 pulse_us=20040
+SWEEP width_us=20000 offset_us=12000 pair=32 phase=D1+ probe_V=-1.262875 sample_start_us=12052 sample_end_us=14527 pulse_us=20054
+SWEEP width_us=20000 offset_us=15000 pair=1 phase=D0+ probe_V=-0.550625 sample_start_us=15016 sample_end_us=17583 pulse_us=20079
+SWEEP width_us=20000 offset_us=15000 pair=1 phase=D1+ probe_V=-1.281125 sample_start_us=15004 sample_end_us=17474 pulse_us=20036
+SWEEP width_us=20000 offset_us=15000 pair=25 phase=D0+ probe_V=-0.525000 sample_start_us=15004 sample_end_us=17481 pulse_us=20050
+SWEEP width_us=20000 offset_us=15000 pair=25 phase=D1+ probe_V=-1.163875 sample_start_us=15051 sample_end_us=17519 pulse_us=20041
+SWEEP width_us=20000 offset_us=15000 pair=26 phase=D0+ probe_V=-0.722000 sample_start_us=15005 sample_end_us=17473 pulse_us=20041
+SWEEP width_us=20000 offset_us=15000 pair=26 phase=D1+ probe_V=-1.257750 sample_start_us=15051 sample_end_us=17519 pulse_us=20081
+SWEEP width_us=20000 offset_us=15000 pair=27 phase=D0+ probe_V=-0.521250 sample_start_us=15052 sample_end_us=17521 pulse_us=20082
+SWEEP width_us=20000 offset_us=15000 pair=27 phase=D1+ probe_V=-1.190000 sample_start_us=15001 sample_end_us=17474 pulse_us=20040
+SWEEP width_us=20000 offset_us=15000 pair=28 phase=D0+ probe_V=-0.719625 sample_start_us=15051 sample_end_us=17524 pulse_us=20041
+SWEEP width_us=20000 offset_us=15000 pair=28 phase=D1+ probe_V=-1.212625 sample_start_us=15051 sample_end_us=17519 pulse_us=20040
+SWEEP width_us=20000 offset_us=15000 pair=29 phase=D0+ probe_V=-0.522625 sample_start_us=15050 sample_end_us=17518 pulse_us=20035
+SWEEP width_us=20000 offset_us=15000 pair=29 phase=D1+ probe_V=-1.257375 sample_start_us=15010 sample_end_us=17483 pulse_us=20042
+SWEEP width_us=20000 offset_us=15000 pair=30 phase=D0+ probe_V=-0.726000 sample_start_us=15008 sample_end_us=17476 pulse_us=20050
+SWEEP width_us=20000 offset_us=15000 pair=30 phase=D1+ probe_V=-1.133625 sample_start_us=15004 sample_end_us=17473 pulse_us=20045
+SWEEP width_us=20000 offset_us=15000 pair=31 phase=D0+ probe_V=-0.545750 sample_start_us=15051 sample_end_us=17524 pulse_us=20046
+SWEEP width_us=20000 offset_us=15000 pair=31 phase=D1+ probe_V=-1.305000 sample_start_us=15006 sample_end_us=17474 pulse_us=20045
+SWEEP width_us=20000 offset_us=15000 pair=32 phase=D0+ probe_V=-0.708375 sample_start_us=15052 sample_end_us=17520 pulse_us=20041
+SWEEP width_us=20000 offset_us=15000 pair=32 phase=D1+ probe_V=-1.106750 sample_start_us=15011 sample_end_us=17479 pulse_us=20053
+SWEEP_END drive=INPUT
+

@@ -1,0 +1,233 @@
+{
+  "raw_source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_timing_sweep_20261123_225819_raw.txt",
+  "temperature_C": 19.69,
+  "last_user_stated_reference_percent": 2.0,
+  "calibration_validated": false,
+  "blocks": [
+    {
+      "width_us": 6000.0,
+      "offset_us": 0.0,
+      "phase": "D0+",
+      "aligned_mean_V": -0.0980625,
+      "sample_stdev_V": 0.0006408699444616563,
+      "mean_result_end_us": 2471.875,
+      "max_pulse_us": 6081.0
+    },
+    {
+      "width_us": 6000.0,
+      "offset_us": 0.0,
+      "phase": "D1+",
+      "aligned_mean_V": -0.104296875,
+      "sample_stdev_V": 0.0004577580263788786,
+      "mean_result_end_us": 2471.875,
+      "max_pulse_us": 6076.0
+    },
+    {
+      "width_us": 6000.0,
+      "offset_us": 1500.0,
+      "phase": "D0+",
+      "aligned_mean_V": 0.02609375,
+      "sample_stdev_V": 0.0012441828930782526,
+      "mean_result_end_us": 3987.625,
+      "max_pulse_us": 6081.0
+    },
+    {
+      "width_us": 6000.0,
+      "offset_us": 1500.0,
+      "phase": "D1+",
+      "aligned_mean_V": 0.027859375,
+      "sample_stdev_V": 0.002232508898558493,
+      "mean_result_end_us": 3991.125,
+      "max_pulse_us": 6082.0
+    },
+    {
+      "width_us": 6000.0,
+      "offset_us": 3000.0,
+      "phase": "D0+",
+      "aligned_mean_V": 0.135765625,
+      "sample_stdev_V": 0.0019769175817418412,
+      "mean_result_end_us": 5488.875,
+      "max_pulse_us": 6081.0
+    },
+    {
+      "width_us": 6000.0,
+      "offset_us": 3000.0,
+      "phase": "D1+",
+      "aligned_mean_V": 0.136078125,
+      "sample_stdev_V": 0.001807644357997447,
+      "mean_result_end_us": 5491.125,
+      "max_pulse_us": 6078.0
+    },
+    {
+      "width_us": 8000.0,
+      "offset_us": 0.0,
+      "phase": "D0+",
+      "aligned_mean_V": -0.159390625,
+      "sample_stdev_V": 0.00042488181129748313,
+      "mean_result_end_us": 2472.5,
+      "max_pulse_us": 8056.0
+    },
+    {
+      "width_us": 8000.0,
+      "offset_us": 0.0,
+      "phase": "D1+",
+      "aligned_mean_V": -0.15853124999999998,
+      "sample_stdev_V": 0.00027345344341274364,
+      "mean_result_end_us": 2471.75,
+      "max_pulse_us": 8057.0
+    },
+    {
+      "width_us": 8000.0,
+      "offset_us": 2000.0,
+      "phase": "D0+",
+      "aligned_mean_V": 0.006921875,
+      "sample_stdev_V": 0.0005936325071720958,
+      "mean_result_end_us": 4492.5,
+      "max_pulse_us": 8052.0
+    },
+    {
+      "width_us": 8000.0,
+      "offset_us": 2000.0,
+      "phase": "D1+",
+      "aligned_mean_V": 0.009234375,
+      "sample_stdev_V": 0.00045531337324653995,
+      "mean_result_end_us": 4492.125,
+      "max_pulse_us": 8081.0
+    },
+    {
+      "width_us": 8000.0,
+      "offset_us": 4000.0,
+      "phase": "D0+",
+      "aligned_mean_V": 0.149875,
+      "sample_stdev_V": 0.0006196196990320564,
+      "mean_result_end_us": 6513.125,
+      "max_pulse_us": 8058.0
+    },
+    {
+      "width_us": 8000.0,
+      "offset_us": 4000.0,
+      "phase": "D1+",
+      "aligned_mean_V": 0.149078125,
+      "sample_stdev_V": 0.00047686429261523545,
+      "mean_result_end_us": 6505.875,
+      "max_pulse_us": 8048.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 0.0,
+      "phase": "D0+",
+      "aligned_mean_V": -0.434953125,
+      "sample_stdev_V": 0.0004907060328896403,
+      "mean_result_end_us": 2471.125,
+      "max_pulse_us": 20056.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 0.0,
+      "phase": "D1+",
+      "aligned_mean_V": -0.437359375,
+      "sample_stdev_V": 0.0008463089502573635,
+      "mean_result_end_us": 2472.0,
+      "max_pulse_us": 20059.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 3000.0,
+      "phase": "D0+",
+      "aligned_mean_V": -0.204,
+      "sample_stdev_V": 0.0023518609652783394,
+      "mean_result_end_us": 5494.875,
+      "max_pulse_us": 20055.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 3000.0,
+      "phase": "D1+",
+      "aligned_mean_V": -0.20610937499999998,
+      "sample_stdev_V": 0.001577517121256419,
+      "mean_result_end_us": 5505.5,
+      "max_pulse_us": 20082.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 6000.0,
+      "phase": "D0+",
+      "aligned_mean_V": -0.001328125,
+      "sample_stdev_V": 0.0012007019896115535,
+      "mean_result_end_us": 8490.75,
+      "max_pulse_us": 20064.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 6000.0,
+      "phase": "D1+",
+      "aligned_mean_V": -0.00675,
+      "sample_stdev_V": 0.0014236522448567678,
+      "mean_result_end_us": 8490.125,
+      "max_pulse_us": 20075.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 9000.0,
+      "phase": "D0+",
+      "aligned_mean_V": 0.176484375,
+      "sample_stdev_V": 0.001355276559810369,
+      "mean_result_end_us": 11495.75,
+      "max_pulse_us": 20081.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 9000.0,
+      "phase": "D1+",
+      "aligned_mean_V": 0.170328125,
+      "sample_stdev_V": 0.001058421795140563,
+      "mean_result_end_us": 11483.5,
+      "max_pulse_us": 20082.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 12000.0,
+      "phase": "D0+",
+      "aligned_mean_V": 0.326296875,
+      "sample_stdev_V": 0.0008423434042682812,
+      "mean_result_end_us": 14489.25,
+      "max_pulse_us": 20058.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 12000.0,
+      "phase": "D1+",
+      "aligned_mean_V": 0.32109375,
+      "sample_stdev_V": 0.0008857754875168562,
+      "mean_result_end_us": 14485.125,
+      "max_pulse_us": 20057.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 15000.0,
+      "phase": "D0+",
+      "aligned_mean_V": 0.45175,
+      "sample_stdev_V": 0.0013211872366495608,
+      "mean_result_end_us": 17499.0,
+      "max_pulse_us": 20080.0
+    },
+    {
+      "width_us": 20000.0,
+      "offset_us": 15000.0,
+      "phase": "D1+",
+      "aligned_mean_V": 0.447875,
+      "sample_stdev_V": 0.0008345229603962809,
+      "mean_result_end_us": 17492.375,
+      "max_pulse_us": 20081.0
+    }
+  ],
+  "findings": [
+    "Steady alternating probe differential changes sign within each drive phase.",
+    "Matched polarity-aligned waveforms are approximately symmetric after warmup.",
+    "A single absolute voltage or legacy RAW mean is strongly timing-dependent.",
+    "Electrode polarization or other circuit dynamics are plausible; this is not an isolated-component diagnosis.",
+    "No resistor replacement or salinity accuracy claim follows from this one-sample sweep.",
+    "New lower-concentration records can be acquired by diluting the existing solution; no new salt mixture is required.",
+    "Conversion-call offsets and completion times are not exact internal ADC integration times."
+  ]
+}

@@ -1,0 +1,3 @@
+# Preserve the byte-for-byte source archive, including original line endings.
+* -text
+*.ino linguist-language=C++

@@ -1,0 +1,46 @@
+{
+  "condition": "salt_0p5",
+  "user_stated_salinity_percent": 0.5,
+  "reference_method": "user_following_external_salinity_meter_protocol",
+  "trials": [
+    {
+      "condition": "salt_0p5",
+      "trial": 1,
+      "temperature_C": 19.31,
+      "raw_response": 92.17,
+      "forward_response": 90.29,
+      "reverse_response": 94.04,
+      "pair_min": 86.12,
+      "pair_max": 94.86
+    },
+    {
+      "condition": "salt_0p5",
+      "trial": 2,
+      "temperature_C": 19.25,
+      "raw_response": 92.21,
+      "forward_response": 90.42,
+      "reverse_response": 94.0,
+      "pair_min": 86.21,
+      "pair_max": 94.92
+    },
+    {
+      "condition": "salt_0p5",
+      "trial": 3,
+      "temperature_C": 19.25,
+      "raw_response": 92.25,
+      "forward_response": 90.51,
+      "reverse_response": 93.99,
+      "pair_min": 86.3,
+      "pair_max": 94.94
+    }
+  ],
+  "mean_raw": 92.21,
+  "temperature_mean_C": 19.27,
+  "preceding_tap_return_mean_raw": 51.0633,
+  "earlier_1p1_mean_raw": 91.6567,
+  "earlier_1p1_temperature_C": 21.52,
+  "raw_difference_from_earlier_1p1": 0.5533,
+  "calibration_point_accepted": false,
+  "concentration_discrimination_validated": false,
+  "note": "Similar RAW to earlier 1.1% sample under different temperature and possibly different immersion conditions. Preserve raw phase data; repeat higher concentrations within the current same-cup sequence before drawing a resistor-selection conclusion."
+}

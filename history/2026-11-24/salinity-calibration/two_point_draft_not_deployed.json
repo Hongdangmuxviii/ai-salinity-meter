@@ -1,0 +1,37 @@
+{
+  "id": "REF_06_20_20261124_V1",
+  "response": "C=200*(A1-A3)/(A2-A3)",
+  "transform": "G=C/(100-C)",
+  "estimate": "percent=gain*G+offset",
+  "gain": 0.0137109186565254,
+  "offset": 0.2517217576303142,
+  "low": {
+    "reference_percent": 0.6,
+    "index": 96.21234,
+    "temperature_C": 20.31,
+    "trial_indices": [
+      95.84127,
+      96.21234,
+      96.22842
+    ],
+    "trial_sample_stdev": 0.2190268757481627,
+    "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\reference_0p6_ready_20261124_001436_raw.txt"
+  },
+  "high": {
+    "reference_percent": 2.0,
+    "index": 99.22185,
+    "temperature_C": 21.31,
+    "trial_indices": [
+      99.08878,
+      99.22185,
+      99.24487
+    ],
+    "trial_sample_stdev": 0.08426311312391577,
+    "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\reference_2p0_20261124_001837_raw.txt"
+  },
+  "aggregation": "median of3 unchanged k acquisitions",
+  "source": "user comparison salinity meter",
+  "temperature_compensated": false,
+  "accuracy_independently_validated": false,
+  "scope": "Two-point comparative prototype calibration over0.6..2.0% at recorded conditions; not certified standards."
+}

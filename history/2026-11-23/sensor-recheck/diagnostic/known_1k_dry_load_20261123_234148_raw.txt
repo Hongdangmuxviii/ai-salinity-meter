@@ -1,0 +1,52 @@
+, f/g=8ms differential, s=timing sweep, c=electrical check. Drive idle.
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x15 (USB_UART_CHIP_RESET),boot:0x8 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x4037843a
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x10cc
+load:0x403c8700,len:0xc2c
+load:0x403cb700,len:0x30b0
+entry 0x403c88b8
+READY SIGNED_DIFF_V3_C1: t=temp, m=legacy, d/e=20ms differential, f/g=8ms differential, s=timing sweep, c=electrical check. Drive idle.
+
+REFERENCE_LOAD trial=1 user_confirmed_1k_between_head_crocodile_clips=true resistor_dry=true expected_legacy_raw_about=66.7 acquisition_m_unchanged=true timestamp=2026-11-23T23:41:51.1906428+09:00
+PHASE D0+ A0=0.558 A1=1.103 A2=3.239 A3=0.033 V
+PHASE D1+ A0=0.569 A1=2.169 A2=0.032 A3=3.239 V
+PHASE D0+ A0=0.743 A1=1.103 A2=3.238 A3=0.033 V
+PHASE D1+ A0=0.769 A1=2.168 A2=0.032 A3=3.239 V
+PHASE D0+ A0=0.630 A1=1.103 A2=3.239 A3=0.033 V
+PHASE D1+ A0=0.577 A1=2.169 A2=0.032 A3=3.239 V
+PHASE D0+ A0=0.767 A1=1.103 A2=3.239 A3=0.033 V
+PHASE D1+ A0=0.760 A1=2.168 A2=0.032 A3=3.239 V
+PHASE D0+ A0=0.601 A1=1.103 A2=3.239 A3=0.033 V
+PHASE D1+ A0=0.579 A1=2.169 A2=0.032 A3=3.239 V
+RESULT temp_C=19.44  response=69.42 / 100  D0+=86.17  D1+=52.68  range=66.56..72.80
+
+REFERENCE_LOAD trial=2 user_confirmed_1k_between_head_crocodile_clips=true resistor_dry=true expected_legacy_raw_about=66.7 acquisition_m_unchanged=true timestamp=2026-11-23T23:41:54.6411337+09:00
+PHASE D0+ A0=0.834 A1=1.103 A2=3.238 A3=0.033 V
+PHASE D1+ A0=1.100 A1=2.169 A2=0.033 A3=3.239 V
+PHASE D0+ A0=2.171 A1=1.103 A2=3.239 A3=0.033 V
+PHASE D1+ A0=1.100 A1=2.169 A2=0.032 A3=3.239 V
+PHASE D0+ A0=2.172 A1=1.103 A2=3.238 A3=0.033 V
+PHASE D1+ A0=1.100 A1=2.168 A2=0.032 A3=3.239 V
+PHASE D0+ A0=2.171 A1=1.103 A2=3.239 A3=0.033 V
+PHASE D1+ A0=1.100 A1=2.169 A2=0.033 A3=3.239 V
+PHASE D0+ A0=2.172 A1=1.103 A2=3.239 A3=0.032 V
+PHASE D1+ A0=1.100 A1=2.168 A2=0.032 A3=3.239 V
+RESULT temp_C=19.44  response=69.17 / 100  D0+=71.66  D1+=66.68  range=66.67..79.14
+
+REFERENCE_LOAD trial=3 user_confirmed_1k_between_head_crocodile_clips=true resistor_dry=true expected_legacy_raw_about=66.7 acquisition_m_unchanged=true timestamp=2026-11-23T23:41:58.1464504+09:00
+PHASE D0+ A0=2.172 A1=1.103 A2=3.239 A3=0.033 V
+PHASE D1+ A0=1.100 A1=2.168 A2=0.032 A3=3.239 V
+PHASE D0+ A0=2.171 A1=1.103 A2=3.239 A3=0.033 V
+PHASE D1+ A0=1.100 A1=2.168 A2=0.032 A3=3.239 V
+PHASE D0+ A0=2.171 A1=1.103 A2=3.238 A3=0.033 V
+PHASE D1+ A0=1.100 A1=2.169 A2=0.032 A3=3.239 V
+PHASE D0+ A0=2.172 A1=1.103 A2=3.239 A3=0.033 V
+PHASE D1+ A0=1.100 A1=2.169 A2=0.032 A3=3.239 V
+PHASE D0+ A0=2.171 A1=1.103 A2=3.238 A3=0.033 V
+PHASE D1+ A0=1.100 A1=2.168 A2=0.032 A3=3.239 V
+RESULT temp_C=19.44  response=66.68 / 100  D0+=66.67  D1+=66.68  range=66.66..66.69
+

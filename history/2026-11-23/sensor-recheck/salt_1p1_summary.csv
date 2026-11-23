@@ -1,0 +1,4 @@
+﻿trial,temperature_C,raw_response,forward_response,reverse_response,pair_min,pair_max
+1,21.5,91.6,90.63,92.58,84.93,94.43
+2,21.56,91.67,90.86,92.47,85.05,94.51
+3,21.5,91.7,90.98,92.42,85.15,94.54

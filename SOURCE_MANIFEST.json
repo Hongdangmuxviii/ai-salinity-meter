@@ -1,0 +1,3097 @@
+{
+  "export_date": "2026-11-24",
+  "files": [
+    {
+      "repository_path": "project-workspace/.gitignore",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\.gitignore",
+      "bytes": 126,
+      "sha256": "f23a1f3280950e1bc207fc3a9fd3dfebb1c9c11611c165d5e41bd17b16c4879a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/mvp-sensor-cross-section.svg",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\mvp-sensor-cross-section.svg",
+      "bytes": 6143,
+      "sha256": "d830920a7bf363c52300b6f2d2e1e4201ffd8359924cb367aa445d77dc9ab66f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/mvp-sensor-cutaway-annotated.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\mvp-sensor-cutaway-annotated.png",
+      "bytes": 1468913,
+      "sha256": "f866f1db9934c7215738a37ddd29c6321a8485aeac85adcf8a94fc7edcfc6895",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/mvp-sensor-cutaway-explained-v2.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\mvp-sensor-cutaway-explained-v2.png",
+      "bytes": 757354,
+      "sha256": "6be5beea099133cc8afc5e8f820a47090111df1734e64b0b2f9b2af4f6efe3e5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/mvp-sensor-cutaway-explained.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\mvp-sensor-cutaway-explained.png",
+      "bytes": 759550,
+      "sha256": "07f19929e63b0510ea667142ce0658275b3a7e5f99eb2b976ca10cb9ff9cce11",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/mvp-sensor-cutaway-landscape-callouts-final.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\mvp-sensor-cutaway-landscape-callouts-final.png",
+      "bytes": 607629,
+      "sha256": "344cda952ac4a5be6fa15bf9c60ebe096aaacc2f7b48eb07176ad1ba2ab3bdb9",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/mvp-sensor-cutaway-landscape-callouts-v2.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\mvp-sensor-cutaway-landscape-callouts-v2.png",
+      "bytes": 611445,
+      "sha256": "b86ba87f610d1213137725b1cffb8822ad65b5febc1c0b4e13457e5635dbb5d4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/mvp-sensor-cutaway-landscape-callouts.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\mvp-sensor-cutaway-landscape-callouts.png",
+      "bytes": 610121,
+      "sha256": "dffb1929cdad18f1ad6e8558ca89698a6a7fdc7107e853294878e3141afc4b24",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/mvp-sensor-cutaway-realistic.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\mvp-sensor-cutaway-realistic.png",
+      "bytes": 1321540,
+      "sha256": "5596e0395008753c162bcf52ba3da504361207b08cb7a8fb12e153a87e3db3c4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/mvp-sensor-cutaway-simple-labels.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\mvp-sensor-cutaway-simple-labels.png",
+      "bytes": 687699,
+      "sha256": "df7ed48610747aced5d81044bf8d8c16f787d543efe2fc087bb0e87c4c62ebb8",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/process-icons/01-bowl-scan.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\process-icons\\01-bowl-scan.png",
+      "bytes": 855092,
+      "sha256": "d0beaa08d3a3c246878dec9de8c215c3cd31466aa84ef41a42a48f493cc90171",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/process-icons/02-salinity-measurement.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\process-icons\\02-salinity-measurement.png",
+      "bytes": 640289,
+      "sha256": "f705d1a7fb9b42a8cbe45bf9eb4f32ced3b9d4f772497428d07251d3199866cd",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/process-icons/03-target-selection.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\process-icons\\03-target-selection.png",
+      "bytes": 1246520,
+      "sha256": "0e86be8165308824a8ba9d22b57387805b017acf80a7b24fd7be20c3b9dc6a28",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/assets/process-icons/04-addition-guidance.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\assets\\process-icons\\04-addition-guidance.png",
+      "bytes": 1527040,
+      "sha256": "2b458b693f605ce839946a2e8d6f0130fdfb0a7007579f71adba5243b061b4ee",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/AI_스마트염도계_아이디어발표.pptx",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\AI_스마트염도계_아이디어발표.pptx",
+      "bytes": 37108,
+      "sha256": "c55db9b5128ff7d8dd0eb9fe168432a9e07065ca6042d7308038b6392dc8492a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2.zip",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2.zip",
+      "bytes": 241517,
+      "sha256": "be42df877d216a15e6520b0be9a369f0a411049bfe9014ac82cbe4d948aec6b0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_rim_frame_v1.zip",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_rim_frame_v1.zip",
+      "bytes": 115397,
+      "sha256": "2a2890f530d8a80ba175f327afa5c08d95166501d52b9d5ed7b83f44d9d604f1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/assembly_preview.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\assembly_preview.png",
+      "bytes": 26195,
+      "sha256": "6925ff3c7c60fc292e936d19ba184b72a6d507870de7c716f1b526b3f748ce5c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/cap_core.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\cap_core.stl",
+      "bytes": 307011,
+      "sha256": "6e6375406e5a4e5816db8baa5675574fe9f1d6e543c02047e4cada4219163f49",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/exploded_preview.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\exploded_preview.png",
+      "bytes": 42754,
+      "sha256": "2e2466412e7ced9ee28d591a0dba11f3bf778a5d3f3cc0b7465d55ab1fe4f992",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/fit_coupon.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\fit_coupon.stl",
+      "bytes": 303830,
+      "sha256": "bd808f3155d1b9f23456b7c43bba4953b19035f4091e691a9b18ed2615e7280e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/front_alignment.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\front_alignment.png",
+      "bytes": 8413,
+      "sha256": "b4b5367e2b4b0c92ed5ebdc47d505e493b390480c86ad529d4bf7a4da0a337d6",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/gasket_cut_template.dxf",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\gasket_cut_template.dxf",
+      "bytes": 19726,
+      "sha256": "ad05defa46b9e9171f6f9f289bb5a01942bc84ee88e3964acd45f62695eb764f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/gasket_cut_template.svg",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\gasket_cut_template.svg",
+      "bytes": 5100,
+      "sha256": "73830d472c3322efbe8bf30044a72f488ada333e9c589c488d6748b26929785e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/holder.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\holder.stl",
+      "bytes": 727253,
+      "sha256": "643d5d571450d54d7db9a116988ddc65fd4f57f91a735f4b66aaa4217587b39f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2.scad",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2.scad",
+      "bytes": 8779,
+      "sha256": "bbce8175633289edf6112b6c57c3d8ee866ae87ee7eb308a15ed24d065e059d4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/seal_retainer.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\seal_retainer.stl",
+      "bytes": 684359,
+      "sha256": "954f65af71acf24571b2495ef1d3dda9706b44de05bf5584cdc64f8fd9a43470",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/section_preview.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\section_preview.png",
+      "bytes": 14224,
+      "sha256": "9f201af408c08271ac4ac7a035d1eba0e06b8cb48b5e86fc31f77ca334d0b967",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/tip_alignment_jig.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\tip_alignment_jig.stl",
+      "bytes": 221711,
+      "sha256": "0c07f8fdbef3a1f5a2157d960be5a96fdd2304a649ab59031168d3b0116ba90e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/tip_alignment_jig_preview.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\tip_alignment_jig_preview.png",
+      "bytes": 13885,
+      "sha256": "10ca6bbc6f600cb90e8e63f1101f73fd43f38ce787541c77a4c8fa374f9c07a2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/설계와_조립안내.md",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\설계와_조립안내.md",
+      "bytes": 14714,
+      "sha256": "e03f7343895a086c7b4731fe5ea839f6b2dc0197bcd66c14cbe7434c15ef639f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/파일검사_결과.md",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\파일검사_결과.md",
+      "bytes": 1836,
+      "sha256": "36408340db80c7ae1db35d89927a1a9081e40aabc73cb377300f59cdd704cf81",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/assembly_preview.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\assembly_preview.png",
+      "bytes": 26195,
+      "sha256": "6925ff3c7c60fc292e936d19ba184b72a6d507870de7c716f1b526b3f748ce5c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/cap_core.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\cap_core.stl",
+      "bytes": 307011,
+      "sha256": "6e6375406e5a4e5816db8baa5675574fe9f1d6e543c02047e4cada4219163f49",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/exploded_preview.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\exploded_preview.png",
+      "bytes": 42754,
+      "sha256": "2e2466412e7ced9ee28d591a0dba11f3bf778a5d3f3cc0b7465d55ab1fe4f992",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/fit_coupon.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\fit_coupon.stl",
+      "bytes": 303830,
+      "sha256": "bd808f3155d1b9f23456b7c43bba4953b19035f4091e691a9b18ed2615e7280e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/front_alignment.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\front_alignment.png",
+      "bytes": 8413,
+      "sha256": "b4b5367e2b4b0c92ed5ebdc47d505e493b390480c86ad529d4bf7a4da0a337d6",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/gasket_cut_template.dxf",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\gasket_cut_template.dxf",
+      "bytes": 19726,
+      "sha256": "ad05defa46b9e9171f6f9f289bb5a01942bc84ee88e3964acd45f62695eb764f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/gasket_cut_template.svg",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\gasket_cut_template.svg",
+      "bytes": 5100,
+      "sha256": "73830d472c3322efbe8bf30044a72f488ada333e9c589c488d6748b26929785e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/holder.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\holder.stl",
+      "bytes": 727253,
+      "sha256": "643d5d571450d54d7db9a116988ddc65fd4f57f91a735f4b66aaa4217587b39f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/probe_capped_head_v2.scad",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\probe_capped_head_v2.scad",
+      "bytes": 8779,
+      "sha256": "bbce8175633289edf6112b6c57c3d8ee866ae87ee7eb308a15ed24d065e059d4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/seal_retainer.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\seal_retainer.stl",
+      "bytes": 684359,
+      "sha256": "954f65af71acf24571b2495ef1d3dda9706b44de05bf5584cdc64f8fd9a43470",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/section_preview.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\section_preview.png",
+      "bytes": 14224,
+      "sha256": "9f201af408c08271ac4ac7a035d1eba0e06b8cb48b5e86fc31f77ca334d0b967",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/tip_alignment_jig.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\tip_alignment_jig.stl",
+      "bytes": 221711,
+      "sha256": "0c07f8fdbef3a1f5a2157d960be5a96fdd2304a649ab59031168d3b0116ba90e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/설계와_조립안내.md",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\설계와_조립안내.md",
+      "bytes": 14714,
+      "sha256": "e03f7343895a086c7b4731fe5ea839f6b2dc0197bcd66c14cbe7434c15ef639f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_capped_head_v2/probe_capped_head_v2/파일검사_결과.md",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_capped_head_v2\\probe_capped_head_v2\\파일검사_결과.md",
+      "bytes": 1836,
+      "sha256": "36408340db80c7ae1db35d89927a1a9081e40aabc73cb377300f59cdd704cf81",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_rim_frame_v1/assembly_preview.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_rim_frame_v1\\assembly_preview.png",
+      "bytes": 26538,
+      "sha256": "b80395e1efe38dec6d8034ff5f623a1d72781f8f0d2b915b09a99d7c43b1cb65",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_rim_frame_v1/fit_coupon.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_rim_frame_v1\\fit_coupon.stl",
+      "bytes": 257493,
+      "sha256": "632c608b23538f052dc66c3d204c846c1e2276bc332620bde6758455953e611a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_rim_frame_v1/head_spacer_5mm.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_rim_frame_v1\\head_spacer_5mm.stl",
+      "bytes": 257493,
+      "sha256": "2bc679232a871186ed40e611a7ea92e45f53d1707aff27f141c42fa5f5d41b55",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_rim_frame_v1/probe_rim_frame_v1.scad",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_rim_frame_v1\\probe_rim_frame_v1.scad",
+      "bytes": 5726,
+      "sha256": "bb4a0fb4faf10c789b16af0fd73d221941876b80ddc764df9cbd87dd15fb15f1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_rim_frame_v1/rim_bridge.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_rim_frame_v1\\rim_bridge.stl",
+      "bytes": 610799,
+      "sha256": "9b4bb800b130d0bef217e2effdfc26310a34be68732b40cc60e49d77d8742971",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_rim_frame_v1/rim_stop.stl",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_rim_frame_v1\\rim_stop.stl",
+      "bytes": 90556,
+      "sha256": "f0d1088c1714c805e5e54d8408bca922ebe775041dcc51556411d221e3f4e7cf",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/outputs/probe_rim_frame_v1/사용안내.md",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\outputs\\probe_rim_frame_v1\\사용안내.md",
+      "bytes": 9011,
+      "sha256": "d3e3d3111299be94de269f9605b5ebfe9b6d832a3e04896de03bdcfc2b9d1302",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/work/build_probe_capped_head_v2.py",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\work\\build_probe_capped_head_v2.py",
+      "bytes": 3055,
+      "sha256": "22576c53de03df5f6e7bc20dc3c4df2d3dcc77d076cb8f10c373ac9f5a778923",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/work/build_probe_rim_frame_v1.py",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\work\\build_probe_rim_frame_v1.py",
+      "bytes": 1567,
+      "sha256": "d0804bbdd6fd27eba2bd3d628a01c26c0d54ad4d6c91920791202a718e36b878",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "project-workspace/work/check_head_stl.py",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\work\\check_head_stl.py",
+      "bytes": 1963,
+      "sha256": "093d4a961ee994ea5aba1bdfc8704beed8d942c5e4b40db34408623dfc8e156d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/outputs/esp32s3_sus316l_ac_conductivity_schematic.svg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\outputs\\esp32s3_sus316l_ac_conductivity_schematic.svg",
+      "bytes": 5031,
+      "sha256": "68c7d45bb8a5fc1ceebe551267cdc055821bcde8b5e9351b7eb991f82c53336a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/outputs/ESP32S3_SUS316L_측정_배선표.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\outputs\\ESP32S3_SUS316L_측정_배선표.md",
+      "bytes": 4660,
+      "sha256": "b60b94d0cd549244fbcbd6eaa8dcfeb1b3f1215d2d6d18e8cd4dc51b8d4a68f5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/outputs/test_probe_fit_coupon_v1.stl",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\outputs\\test_probe_fit_coupon_v1.stl",
+      "bytes": 452683,
+      "sha256": "ae6d4ac17d72f485457a22c53ce39166392b13af5de1ebc3c36d0bd2ee4a1d4f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/outputs/test_probe_head_v1.scad",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\outputs\\test_probe_head_v1.scad",
+      "bytes": 2989,
+      "sha256": "22d115dbf094a25fd6092894d8012e0ca31bbfd05478bcae16aaa2a593313679",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/outputs/test_probe_head_v1.stl",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\outputs\\test_probe_head_v1.stl",
+      "bytes": 851456,
+      "sha256": "1bd5b7fb2e5d42f8fbe4a41c1fe226391ea923a8a6e6f0b2720621f9c3e9ed6c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/outputs/test_probe_head_v1_body.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\outputs\\test_probe_head_v1_body.png",
+      "bytes": 26812,
+      "sha256": "868ec4633b2ab1ac27eb2f4535c2fdf0b2c390e9deb20176a75e47e7a2b52f2d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/outputs/test_probe_head_v1_preview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\outputs\\test_probe_head_v1_preview.png",
+      "bytes": 17362,
+      "sha256": "14fc68c395caee57b85b31a4f7dd2c43c95463f05b4b7a77abb232fc71618316",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/outputs/테스트헤드_v1_사용안내.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\outputs\\테스트헤드_v1_사용안내.md",
+      "bytes": 7719,
+      "sha256": "1ce4b79f699a18459767dfeaa91658aa832ae2845532ad20ab8f23844864dc90",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/work/1n5819.jpg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\work\\1n5819.jpg",
+      "bytes": 40470,
+      "sha256": "8d997b0a670c5c37ff1c63fa74f761456296883fa3f5ab3cc70e45159b74911c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/work/ads1115_product.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\work\\ads1115_product.png",
+      "bytes": 272604,
+      "sha256": "b8297d851d9ef779f337cd3e2f3000aac84b4db3f28f7d83295a672b5deb00f8",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-10/initial-head/work/dfr0553.webp",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-10\\referenced-chatgpt-conversation-this-is-an\\work\\dfr0553.webp",
+      "bytes": 5432,
+      "sha256": "430382403b75f1054fac9d8b7bcf9dd4a0bfc77c9687814e20ec9315f987905b",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/스마트염도계_팀공유_2026-10-30_R1.zip",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\스마트염도계_팀공유_2026-10-30_R1.zip",
+      "bytes": 966870,
+      "sha256": "bf17cf10ff2e713990199140dcd06c247ebc12bc951f24f5aefcf221933ea028",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/output/pdf/스마트염도계_팀공유_설계검토본.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\output\\pdf\\스마트염도계_팀공유_설계검토본.pdf",
+      "bytes": 298644,
+      "sha256": "9f5111b39b857277432dd77cf66511f8d513e5e1a21b6ddd7e1a44869c2629ee",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/manifest.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\manifest.json",
+      "bytes": 5911,
+      "sha256": "1ddd3e64e984436dc4cd4ec5bf5d63e0c0e5aec4866e1ed8d3262a477ab39352",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/README_먼저읽기.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\README_먼저읽기.md",
+      "bytes": 2704,
+      "sha256": "3c6eb258f5f5222b4785fcf49983b48af95eb99d7ae6f6c09f20b387bc040dbc",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/스마트염도계_팀공유_설계검토본.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\스마트염도계_팀공유_설계검토본.pdf",
+      "bytes": 298644,
+      "sha256": "9f5111b39b857277432dd77cf66511f8d513e5e1a21b6ddd7e1a44869c2629ee",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/01_models/cap_core.stl",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\cap_core.stl",
+      "bytes": 307011,
+      "sha256": "6e6375406e5a4e5816db8baa5675574fe9f1d6e543c02047e4cada4219163f49",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/01_models/fit_coupon.stl",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\fit_coupon.stl",
+      "bytes": 303830,
+      "sha256": "bd808f3155d1b9f23456b7c43bba4953b19035f4091e691a9b18ed2615e7280e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/01_models/gasket_cut_template.dxf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\gasket_cut_template.dxf",
+      "bytes": 19726,
+      "sha256": "ad05defa46b9e9171f6f9f289bb5a01942bc84ee88e3964acd45f62695eb764f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/01_models/gasket_cut_template.svg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\gasket_cut_template.svg",
+      "bytes": 5100,
+      "sha256": "73830d472c3322efbe8bf30044a72f488ada333e9c589c488d6748b26929785e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/01_models/holder.stl",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\holder.stl",
+      "bytes": 727253,
+      "sha256": "643d5d571450d54d7db9a116988ddc65fd4f57f91a735f4b66aaa4217587b39f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/01_models/probe_capped_head_v2.scad",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\probe_capped_head_v2.scad",
+      "bytes": 8779,
+      "sha256": "bbce8175633289edf6112b6c57c3d8ee866ae87ee7eb308a15ed24d065e059d4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/01_models/seal_retainer.stl",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\seal_retainer.stl",
+      "bytes": 684359,
+      "sha256": "954f65af71acf24571b2495ef1d3dda9706b44de05bf5584cdc64f8fd9a43470",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/01_models/tip_alignment_jig.stl",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\tip_alignment_jig.stl",
+      "bytes": 221711,
+      "sha256": "0c07f8fdbef3a1f5a2157d960be5a96fdd2304a649ab59031168d3b0116ba90e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/01_models/설계와_조립안내.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\설계와_조립안내.md",
+      "bytes": 14714,
+      "sha256": "e03f7343895a086c7b4731fe5ea839f6b2dc0197bcd66c14cbe7434c15ef639f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/01_models/파일검사_결과.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\파일검사_결과.md",
+      "bytes": 1836,
+      "sha256": "36408340db80c7ae1db35d89927a1a9081e40aabc73cb377300f59cdd704cf81",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/adc_clamp.svg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\adc_clamp.svg",
+      "bytes": 4656,
+      "sha256": "14cc38ec7cb833f6e1819a696ad905e35157963a0afc28680d6a4a24b7c016f9",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/buttons_buzzer.svg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\buttons_buzzer.svg",
+      "bytes": 7119,
+      "sha256": "07ab51c59f6a5c999e6421cc39a3c01310463c2326ad0370564feef1b748a11d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/electrode_test_circuit.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\electrode_test_circuit.png",
+      "bytes": 157319,
+      "sha256": "20efd73ad46370dbff5ffa8053ecac5df47494a568984f5fcba22bcdaccb6e60",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/electrode_test_circuit.svg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\electrode_test_circuit.svg",
+      "bytes": 12186,
+      "sha256": "03efce00eb12fcda131fa2cd191daaba0ecd889194f91a438a29caf4d231b08f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/system_wiring.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\system_wiring.png",
+      "bytes": 205444,
+      "sha256": "e083bcbdec2838528f2d98c6439f11e79ef794f6d3918c4a79c4277419c708e1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/system_wiring.svg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\system_wiring.svg",
+      "bytes": 8828,
+      "sha256": "0f1643740cac8eb8b974ccaf8fb31d184559e71375d9514bffff48037616f5fd",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/wiring_and_limits.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\wiring_and_limits.md",
+      "bytes": 5028,
+      "sha256": "b2ee939cb30a057b1c37990e28c4891db2646d1f9fdfd1a2bc3515395dd4d32d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/assembly_preview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\assembly_preview.png",
+      "bytes": 26195,
+      "sha256": "6925ff3c7c60fc292e936d19ba184b72a6d507870de7c716f1b526b3f748ce5c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/assembly_steps_current.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\assembly_steps_current.md",
+      "bytes": 2354,
+      "sha256": "eac9e9e5eed89fdbe838f53a2c7e0969cf51ffa8b8e052b6eba5330ceb56adec",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/exploded_preview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\exploded_preview.png",
+      "bytes": 42754,
+      "sha256": "2e2466412e7ced9ee28d591a0dba11f3bf778a5d3f3cc0b7465d55ab1fe4f992",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/front_alignment.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\front_alignment.png",
+      "bytes": 8413,
+      "sha256": "b4b5367e2b4b0c92ed5ebdc47d505e493b390480c86ad529d4bf7a4da0a337d6",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/mvp_layout_concept.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\mvp_layout_concept.png",
+      "bytes": 103520,
+      "sha256": "1631beeb8b0949b076412bc737ade808064ff7ce1e2ea50065067778cfe5143d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/mvp_layout_concept.svg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\mvp_layout_concept.svg",
+      "bytes": 7715,
+      "sha256": "4eb66451ebd94421a9d961ebbe4a35f85a111004ce7f4b04c94169814447b822",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/tip_alignment_jig_preview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\tip_alignment_jig_preview.png",
+      "bytes": 13885,
+      "sha256": "10ca6bbc6f600cb90e8e63f1101f73fd43f38ce787541c77a4c8fa374f9c07a2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/package/04_parts/parts_list.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\04_parts\\parts_list.md",
+      "bytes": 4640,
+      "sha256": "2710fb3dbf2f010d3b5ab62b3eed646cc85068be13d97b9c5992d71830215d04",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/adc_clamp.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\adc_clamp.pdf",
+      "bytes": 47227,
+      "sha256": "f0d5971faf7b016a349553e0d3d6028fc954db505b74f367a0967d2966f8df14",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/build_handoff.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\build_handoff.py",
+      "bytes": 49941,
+      "sha256": "7fd2e032ade41231fa2e14378d72c48ed4d330a37d70314291da7a343c05b996",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/buttons_buzzer.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\buttons_buzzer.pdf",
+      "bytes": 48800,
+      "sha256": "945257a76536ed694dae33e0c6e85396fa6288aecc549c11f34215bb57985d6d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/electrode_test_circuit.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\electrode_test_circuit.pdf",
+      "bytes": 59822,
+      "sha256": "998c98c0356dd4d31e71aea78cc371a75e8611b7071a6355e7b3845eed9e4b4d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/finalcheck-03.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\finalcheck-03.png",
+      "bytes": 164524,
+      "sha256": "40e0edc9f442ac6004424d74824709913fd6c808c3db4e18bfe3dc93f1eb71fc",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/finalcheck-08.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\finalcheck-08.png",
+      "bytes": 135681,
+      "sha256": "1061b627d6cab40acd9d13b13be728303bfb42853564dcf8f04574e85d6cefa8",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-01.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-01.png",
+      "bytes": 152920,
+      "sha256": "a91bd4aac93b00169db1f6c14b40197ff7ccf20ad77459d2a90ddcab50f46783",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-02.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-02.png",
+      "bytes": 161333,
+      "sha256": "075d8b72eb3b738c342bdc3fcd9882a25a0b7bbf827604a03887c7899c27715d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-03.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-03.png",
+      "bytes": 193711,
+      "sha256": "ad87174e2fd04e2df19306a1e438bfa0379938a270ca991aa1d0f7570ac4db15",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-04.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-04.png",
+      "bytes": 187676,
+      "sha256": "b623ef1690168ff2ed60c4ad1f2d1dd16236c04e150855e02dafc5b0a6e4b1fb",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-05.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-05.png",
+      "bytes": 164100,
+      "sha256": "9ea5347854e297431a858d01186fafd55ad805f982918aebc7ae6ba3d635deaf",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-06.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-06.png",
+      "bytes": 180255,
+      "sha256": "b6cbec907b0a4361a4626ea1f23d70259c63ec4b24b35ce604727b23d990ca7c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-07.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-07.png",
+      "bytes": 105339,
+      "sha256": "410545dbeef6bb2f012cf2f30bf9eb41f266de027135678fab30f47b6171834e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-08.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-08.png",
+      "bytes": 156725,
+      "sha256": "df677add15183a56d54eaa4ee3db60957c0b7e3b9c03af21c37913f0eba1e5a9",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-09.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-09.png",
+      "bytes": 176478,
+      "sha256": "3af00f00e01d0bae8e0c515273251b1df4330887c5085f30c56f52d8d2fb7e04",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-10.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-10.png",
+      "bytes": 218842,
+      "sha256": "03a7836d477316d5490b7e6a8cf5b8ea576bb87c28c3137f26f6eff5bcbeef9c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/guide-11.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-11.png",
+      "bytes": 241940,
+      "sha256": "cb99471cb15df1fe25ead0289f8cf0bb705a88b772b6261e73ece63cab08b410",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/mvp_layout_concept.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\mvp_layout_concept.pdf",
+      "bytes": 57595,
+      "sha256": "b41d80abd3863300277d4c59788843de9ebcceecd2ae962640f79dafbc6f2854",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-10-30/team-handoff/work/system_wiring.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\system_wiring.pdf",
+      "bytes": 57867,
+      "sha256": "5d48ba604d0cca7f6bfb1023d2a4ef446b751c8036145136223890d23e918fe7",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/emtech-ds18b20-sheet.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\emtech-ds18b20-sheet.pdf",
+      "bytes": 439606,
+      "sha256": "7f2117bffa77d42701e0b8b9ed16783074360c4f2e18e1cf2147c8a189fadecc",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/emtech-ds18b20-sheet.pdf.page1.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\emtech-ds18b20-sheet.pdf.page1.png",
+      "bytes": 596792,
+      "sha256": "269e3d61a266d522d23f14ee44005da0dd6feee07ca02a8b0721d703882ae88f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/boot_app0.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\boot_app0.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/boot_app0_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\boot_app0_flashed.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/build.options.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\build.options.json",
+      "bytes": 643,
+      "sha256": "f0e409acc5372436f09c12646ceabf79914410c5294ac59496b9d0d064fdb5c5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/DryHeadAlternate.ino.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\DryHeadAlternate.ino.bin",
+      "bytes": 300752,
+      "sha256": "c9a8dce9b5573aa25b4208a121b47a246d85a85fb851a5c3ae3a62a3a58e004d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/DryHeadAlternate.ino.bootloader.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\DryHeadAlternate.ino.bootloader.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/DryHeadAlternate.ino.bootloader_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\DryHeadAlternate.ino.bootloader_flashed.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/DryHeadAlternate.ino.elf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\DryHeadAlternate.ino.elf",
+      "bytes": 7066300,
+      "sha256": "0941d48925ee9b1c7fec685010d98f3069a0471c75d61a3f6d21f18178479d4f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/DryHeadAlternate.ino.map",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\DryHeadAlternate.ino.map",
+      "bytes": 9292670,
+      "sha256": "88c29f55bd492437ef85131132984af2165cb3bd5aa37881835ab640045c6545",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/DryHeadAlternate.ino.merged.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\DryHeadAlternate.ino.merged.bin",
+      "bytes": 8388608,
+      "sha256": "263a25b5fbd149e05694b0d43ad4638991c8399c1c9da32c5923eeece7684351",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/DryHeadAlternate.ino.partitions.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\DryHeadAlternate.ino.partitions.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/DryHeadAlternate.ino.partitions_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\DryHeadAlternate.ino.partitions_flashed.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/DryHeadAlternate.ino_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\DryHeadAlternate.ino_flashed.bin",
+      "bytes": 300752,
+      "sha256": "c9a8dce9b5573aa25b4208a121b47a246d85a85fb851a5c3ae3a62a3a58e004d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/flash_args",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\flash_args",
+      "bytes": 202,
+      "sha256": "0d6ba9a8c26067e11c6985c54da98818757e8c19b47789d18b29a59f44654c39",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/partitions.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\partitions.csv",
+      "bytes": 305,
+      "sha256": "ab2f33c14eb855054613fd3a4ba85457ae281c6f371c25931ccc763bc79cb0e2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-alternate/sdkconfig",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\sdkconfig",
+      "bytes": 144445,
+      "sha256": "79f52b47be15e15cab9d54509c8e8411d28f60b8d056753f4b8503bccd7f03c5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry/boot_app0_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry\\boot_app0_flashed.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry/DryHeadRead.ino.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry\\DryHeadRead.ino.bin",
+      "bytes": 304192,
+      "sha256": "f2a67407769f1ba5dd615c1e39daec02961b150f24bf00e7aa78910ea1cee2b4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry/DryHeadRead.ino.bootloader.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry\\DryHeadRead.ino.bootloader.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry/DryHeadRead.ino.bootloader_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry\\DryHeadRead.ino.bootloader_flashed.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry/DryHeadRead.ino.elf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry\\DryHeadRead.ino.elf",
+      "bytes": 6963156,
+      "sha256": "b9c88966197e2288cb741ac6e5020705236dfa858437052bef10534f0b76d876",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry/DryHeadRead.ino.map",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry\\DryHeadRead.ino.map",
+      "bytes": 9274107,
+      "sha256": "30ab373ec13efe1ce66a6250b719f3b6b06a5bc41f3f55785157b7aa88618254",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry/DryHeadRead.ino.merged.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry\\DryHeadRead.ino.merged.bin",
+      "bytes": 8388608,
+      "sha256": "0ef6af931401b8cba71b6e3213f9286d88f138392bc1463a8755bda4006a83e9",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry/DryHeadRead.ino.partitions.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry\\DryHeadRead.ino.partitions.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry/DryHeadRead.ino.partitions_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry\\DryHeadRead.ino.partitions_flashed.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry/DryHeadRead.ino_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry\\DryHeadRead.ino_flashed.bin",
+      "bytes": 304192,
+      "sha256": "f2a67407769f1ba5dd615c1e39daec02961b150f24bf00e7aa78910ea1cee2b4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/boot_app0_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\boot_app0_flashed.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/build.options.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\build.options.json",
+      "bytes": 625,
+      "sha256": "c43b33f045d3131b2c14d7056379db0de58643d6284c06e2ab02a099318a4e76",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/DryHeadAlternate.ino.bootloader.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\DryHeadAlternate.ino.bootloader.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/DryHeadRead.ino.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\DryHeadRead.ino.bin",
+      "bytes": 299648,
+      "sha256": "9c89bdf7ce4ba188a43268aac4a8ec5a44e364c7431fc93120754e23c59758b3",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/DryHeadRead.ino.bootloader.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\DryHeadRead.ino.bootloader.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/DryHeadRead.ino.bootloader_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\DryHeadRead.ino.bootloader_flashed.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/DryHeadRead.ino.elf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\DryHeadRead.ino.elf",
+      "bytes": 7056692,
+      "sha256": "a3ef7df264789773962a41fc86e90c7e0ccf6b87277b40666e33a5d735c39b79",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/DryHeadRead.ino.map",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\DryHeadRead.ino.map",
+      "bytes": 9324696,
+      "sha256": "975ebeb24b6f9b87d7260f4e4ab78a661dce2cd5945b97302da9970591adcb2b",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/DryHeadRead.ino.merged.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\DryHeadRead.ino.merged.bin",
+      "bytes": 8388608,
+      "sha256": "ea4f04600fbff00e4c0293ab2f9c7cef47d93bfba5113f92f4c9b41a99fa940f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/DryHeadRead.ino.partitions.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\DryHeadRead.ino.partitions.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/DryHeadRead.ino.partitions_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\DryHeadRead.ino.partitions_flashed.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/DryHeadRead.ino_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\DryHeadRead.ino_flashed.bin",
+      "bytes": 299648,
+      "sha256": "9c89bdf7ce4ba188a43268aac4a8ec5a44e364c7431fc93120754e23c59758b3",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/partitions.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\partitions.csv",
+      "bytes": 305,
+      "sha256": "ab2f33c14eb855054613fd3a4ba85457ae281c6f371c25931ccc763bc79cb0e2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-dry-usb/sdkconfig",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\sdkconfig",
+      "bytes": 144445,
+      "sha256": "79f52b47be15e15cab9d54509c8e8411d28f60b8d056753f4b8503bccd7f03c5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/boot_app0.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\boot_app0.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/boot_app0_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\boot_app0_flashed.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/build.options.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\build.options.json",
+      "bytes": 640,
+      "sha256": "95b0ff36a103b5754437da7607d68426f5b4a229484c8a629f0807d4f02be0fd",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/flash_args",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\flash_args",
+      "bytes": 193,
+      "sha256": "47fa1bd7968d3af6427f3ecc21cb497603af0f8ac234d0e3ef2c30c889107ef8",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/HeadWaterTest.ino.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\HeadWaterTest.ino.bin",
+      "bytes": 305616,
+      "sha256": "a4d885b0fb091e3a449ae2b89c5a1347a8bced94c8f995a8470f1896777428b9",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/HeadWaterTest.ino.bootloader.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\HeadWaterTest.ino.bootloader.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/HeadWaterTest.ino.bootloader_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\HeadWaterTest.ino.bootloader_flashed.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/HeadWaterTest.ino.elf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\HeadWaterTest.ino.elf",
+      "bytes": 7161408,
+      "sha256": "97d97c82e436f8393af19b3e19dcd78a580b24f2c4aebb3c693b7d2308a074f9",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/HeadWaterTest.ino.map",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\HeadWaterTest.ino.map",
+      "bytes": 9347024,
+      "sha256": "231a1b1feefaf87044719ca65ff4518fbd2b5f63b3aa0e578011527fbae36dc1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/HeadWaterTest.ino.merged.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\HeadWaterTest.ino.merged.bin",
+      "bytes": 8388608,
+      "sha256": "b4646b4dd425e90c87335dc3d27df3d9d0d55ec3f1c9f4f558d746a5564f576d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/HeadWaterTest.ino.partitions.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\HeadWaterTest.ino.partitions.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/HeadWaterTest.ino.partitions_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\HeadWaterTest.ino.partitions_flashed.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/HeadWaterTest.ino_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\HeadWaterTest.ino_flashed.bin",
+      "bytes": 305616,
+      "sha256": "a4d885b0fb091e3a449ae2b89c5a1347a8bced94c8f995a8470f1896777428b9",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/partitions.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\partitions.csv",
+      "bytes": 305,
+      "sha256": "ab2f33c14eb855054613fd3a4ba85457ae281c6f371c25931ccc763bc79cb0e2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/build-water/sdkconfig",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\sdkconfig",
+      "bytes": 144445,
+      "sha256": "79f52b47be15e15cab9d54509c8e8411d28f60b8d056753f4b8503bccd7f03c5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadAlternate/DryHeadAlternate.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadAlternate\\DryHeadAlternate.ino",
+      "bytes": 3716,
+      "sha256": "0297b41a62a37fa598870c08b72fcf216ca6b460ae3a7fb174e72dcfea36e308",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/DryHeadRead.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\DryHeadRead.ino",
+      "bytes": 925,
+      "sha256": "3883a3bb3938b0deea05b9a8f02c9cf8916eefb43c3153eb3913c5d77b79433d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/boot_app0.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\boot_app0.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/build.options.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\build.options.json",
+      "bytes": 638,
+      "sha256": "8315dbe90c1b500e356f8ba5e74f0fe3aa85aeeefd091a9eb7676ae61ab66942",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/DryHeadRead.ino.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\DryHeadRead.ino.bin",
+      "bytes": 299648,
+      "sha256": "9c89bdf7ce4ba188a43268aac4a8ec5a44e364c7431fc93120754e23c59758b3",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/DryHeadRead.ino.bootloader.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\DryHeadRead.ino.bootloader.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/DryHeadRead.ino.elf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\DryHeadRead.ino.elf",
+      "bytes": 7056692,
+      "sha256": "a3ef7df264789773962a41fc86e90c7e0ccf6b87277b40666e33a5d735c39b79",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/DryHeadRead.ino.map",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\DryHeadRead.ino.map",
+      "bytes": 9324696,
+      "sha256": "975ebeb24b6f9b87d7260f4e4ab78a661dce2cd5945b97302da9970591adcb2b",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/DryHeadRead.ino.merged.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\DryHeadRead.ino.merged.bin",
+      "bytes": 8388608,
+      "sha256": "ea4f04600fbff00e4c0293ab2f9c7cef47d93bfba5113f92f4c9b41a99fa940f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/DryHeadRead.ino.partitions.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\DryHeadRead.ino.partitions.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/flash_args",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\flash_args",
+      "bytes": 187,
+      "sha256": "3baac5b8e65c5b18d21a9d7e36ab64f064991f6c5f71d0586763faf0388c28c4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/partitions.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\partitions.csv",
+      "bytes": 305,
+      "sha256": "ab2f33c14eb855054613fd3a4ba85457ae281c6f371c25931ccc763bc79cb0e2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/DryHeadRead/build/esp32.esp32.XIAO_ESP32S3/sdkconfig",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\DryHeadRead\\build\\esp32.esp32.XIAO_ESP32S3\\sdkconfig",
+      "bytes": 144445,
+      "sha256": "79f52b47be15e15cab9d54509c8e8411d28f60b8d056753f4b8503bccd7f03c5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-14/head-test/HeadWaterTest/HeadWaterTest.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\HeadWaterTest\\HeadWaterTest.ino",
+      "bytes": 5815,
+      "sha256": "e89b12235f6a752c81dc8aea52b879ab7709e6fe020f7f37e38655d69ace6f28",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-19/cup90-stand/assembly_preview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-19\\cup90-stand\\assembly_preview.png",
+      "bytes": 40347,
+      "sha256": "c51b1e506e594b0ae47b8b8d3e0b53162dd4b87cbb8e18c26f896ac7bb54fbb1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-19/cup90-stand/cup90_stand.scad",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-19\\cup90-stand\\cup90_stand.scad",
+      "bytes": 6230,
+      "sha256": "7460032b92c57e7131091caa066b827acaece53ac8c021dcb5f35281810edc76",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-19/cup90-stand/cup90_stand.stl",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-19\\cup90-stand\\cup90_stand.stl",
+      "bytes": 40684,
+      "sha256": "29d79459d00bc344a284adf0431e929426f65ebc73c692554a10ec316d56ac58",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-19/cup90-stand/cup90_stand.zip",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-19\\cup90-stand\\cup90_stand.zip",
+      "bytes": 56897,
+      "sha256": "a0063d73e4a11d3997c715a579185d4bc0482c5cd818da3ae95d6d5f13a92dd2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-19/cup90-stand/stand_preview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-19\\cup90-stand\\stand_preview.png",
+      "bytes": 15228,
+      "sha256": "966cb0a68afb0e6c64e74e37e267715ad35468b9ec75a0f70d64eb9fdae4b2ca",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-19/cup90-stand/출력과_조립.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-19\\cup90-stand\\출력과_조립.md",
+      "bytes": 3240,
+      "sha256": "467e468704ab409754f423675427acf4b6669f46c7a1f41a614952bdaf00974e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-19/cup90-stand/work/check_mesh.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-19\\cup90-stand\\work\\check_mesh.py",
+      "bytes": 2601,
+      "sha256": "0f19d2ffe9d522b2b302e9321b6a0547dafc27417c2bd75c5f5a51c0707262be",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/cup90-stand-10mm/assembly_preview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\cup90-stand-10mm\\assembly_preview.png",
+      "bytes": 33719,
+      "sha256": "6ddd55b9c210320fa25aba81e779e6702731911dadcbf93c8e56f6adb1b5b1bd",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/cup90-stand-10mm/cup90_stand_10mm_v2.scad",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\cup90-stand-10mm\\cup90_stand_10mm_v2.scad",
+      "bytes": 5677,
+      "sha256": "3b14e4af09a62762b8d83ae63b56c4f0ff9264a42af00f2c7f229b18f398f331",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/cup90-stand-10mm/cup90_stand_10mm_v2.stl",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\cup90-stand-10mm\\cup90_stand_10mm_v2.stl",
+      "bytes": 14284,
+      "sha256": "073ad409d24681344b0ba6bd74c9212eece10b2d1a0f4e25a4d4328c88e22ac8",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/cup90-stand-10mm/cup90_stand_10mm_v2.zip",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\cup90-stand-10mm\\cup90_stand_10mm_v2.zip",
+      "bytes": 46935,
+      "sha256": "52cc9dd3d7b03ab322b53d187cc4ab80273916bb987a4b55ab07d54544c67636",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/cup90-stand-10mm/print_orientation.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\cup90-stand-10mm\\print_orientation.png",
+      "bytes": 10814,
+      "sha256": "a9076e722f14e94c0b78c512fc49edd2fa3cb8c80b51066ccce63e276d58e1f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/cup90-stand-10mm/reference_head.scad",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\cup90-stand-10mm\\reference_head.scad",
+      "bytes": 8779,
+      "sha256": "bbce8175633289edf6112b6c57c3d8ee866ae87ee7eb308a15ed24d065e059d4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/cup90-stand-10mm/출력과_조립.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\cup90-stand-10mm\\출력과_조립.md",
+      "bytes": 3605,
+      "sha256": "0c258a548395a24c6dff1d51b74bf19b03a6ea841bbec71fafe807a5e7ac9301",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/cup90-stand-10mm/work/check_mesh.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\cup90-stand-10mm\\work\\check_mesh.py",
+      "bytes": 2783,
+      "sha256": "2be4a1bd51dd3a0f4ce6a4d7d4e474e0cd5e61026913454baad6099a9ff07d8e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/battery_mvp_design_R2.zip",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\battery_mvp_design_R2.zip",
+      "bytes": 1297256,
+      "sha256": "646ff7fc7f3428033ede07b56d53e18548f71d63724f4433a508292d10ccd34b",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/model/mvp_concept.scad",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\model\\mvp_concept.scad",
+      "bytes": 3680,
+      "sha256": "d957eea65fc0299c8f917ad1e1433d3ab76c57f380a9b69029f44bdddcab731f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/model/reference_head.scad",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\model\\reference_head.scad",
+      "bytes": 8779,
+      "sha256": "bbce8175633289edf6112b6c57c3d8ee866ae87ee7eb308a15ed24d065e059d4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/output/calibration_and_mechanical.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\calibration_and_mechanical.png",
+      "bytes": 300161,
+      "sha256": "2eb1ee72fbd37475d721e001e4e3a6d4504df9a30cbf52cb4d603983065d2089",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/output/display_temperature_controls.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\display_temperature_controls.png",
+      "bytes": 166970,
+      "sha256": "96fe1c6df787549cc79659fbfae08f784ee7a9eaee5aab4d89758c99078aa88d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/output/electrode_circuit.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\electrode_circuit.png",
+      "bytes": 144801,
+      "sha256": "9d7d5ddbede3d05bf17e30a60624663416d906b1d18a79cfb8e57a7c52a9ca86",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/output/exterior_design.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\exterior_design.png",
+      "bytes": 163480,
+      "sha256": "2e9b08608956a94b62205144a92d363b25c316ab0aaedf2b6c202dd7e83b4f46",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/output/pinmap_and_parts.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\pinmap_and_parts.png",
+      "bytes": 198693,
+      "sha256": "ae2fe3d8f9839ee1f24e9e26b2510d4c2ea044e17d313895507c5ceff726433c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/output/pin_connections.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\pin_connections.csv",
+      "bytes": 374,
+      "sha256": "08cab9aa1099de37eada48d19bd63e2b5ac11e346de1d1e33df0fda4b90e09f5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/output/power_circuit.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\power_circuit.png",
+      "bytes": 175015,
+      "sha256": "de8cd44ebb05dcff6d9ed30e763c35ef602932f608e64007c1237093664ce932",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/output/설계상태.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\설계상태.md",
+      "bytes": 2110,
+      "sha256": "7914e2af525cb8eee08a11b4bd8989b066de4f2d3f3cffc93776232755370ca1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/output/pdf/스마트염도계_배터리내장_설계안_R2.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\pdf\\스마트염도계_배터리내장_설계안_R2.pdf",
+      "bytes": 208654,
+      "sha256": "5e0af1a370823051891b8f6ebb3d084a2737193a3abe6ee7303407103ae2aadf",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/work/assembled.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\assembled.png",
+      "bytes": 33753,
+      "sha256": "6b8ffe09d5f9c7b4e9b17df344a32d09a2c2a37ad43134288cb5e3b91ea9f9f7",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/work/build_design.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\build_design.py",
+      "bytes": 19098,
+      "sha256": "2af06300a0dd78d6f06e7f5821b1846eb5d07d7bd06d5d0a1786573769f8723a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/work/cutaway.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\cutaway.png",
+      "bytes": 34343,
+      "sha256": "b99b3e325d00d8f1fcd3139db052353c12272dee777e924e0c09436aabcbdba3",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/work/page-1.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-1.png",
+      "bytes": 163480,
+      "sha256": "2e9b08608956a94b62205144a92d363b25c316ab0aaedf2b6c202dd7e83b4f46",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/work/page-2.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-2.png",
+      "bytes": 175015,
+      "sha256": "de8cd44ebb05dcff6d9ed30e763c35ef602932f608e64007c1237093664ce932",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/work/page-3.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-3.png",
+      "bytes": 144801,
+      "sha256": "9d7d5ddbede3d05bf17e30a60624663416d906b1d18a79cfb8e57a7c52a9ca86",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/work/page-4.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-4.png",
+      "bytes": 166970,
+      "sha256": "96fe1c6df787549cc79659fbfae08f784ee7a9eaee5aab4d89758c99078aa88d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/work/page-5.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-5.png",
+      "bytes": 198693,
+      "sha256": "ae2fe3d8f9839ee1f24e9e26b2510d4c2ea044e17d313895507c5ceff726433c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/final-mvp-design/work/page-6.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-6.png",
+      "bytes": 300161,
+      "sha256": "2eb1ee72fbd37475d721e001e4e3a6d4504df9a30cbf52cb4d603983065d2089",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/조립업체전달_ASM-R3.zip",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\조립업체전달_ASM-R3.zip",
+      "bytes": 755397,
+      "sha256": "6c04c4924724b345d022d9e5165c0ed9248849b618328850ff02966b15dc1ba1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/BOM.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\BOM.csv",
+      "bytes": 1998,
+      "sha256": "25dfba76d11c3b7ff67e9ca9244cf316250186fe042822d185cd78d3c58a7d2e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/electrical_definition.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\electrical_definition.json",
+      "bytes": 2383,
+      "sha256": "a3aa0e3087385c815e024a4fa6605c7cb77bf0c7187d06cc56cfb657bfb5ce5b",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/netlist.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\netlist.csv",
+      "bytes": 1350,
+      "sha256": "a2e7f3c0dd75900c57852b28d1506eef225a210e82af79613e128140a90e4177",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/README_업체전달.md",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\README_업체전달.md",
+      "bytes": 5009,
+      "sha256": "93f0bf8ada94ece0ce6638d5b67b49bdc3dab3fcb81cd0b7b19011b8bf3d37e4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/S01_preview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\S01_preview.png",
+      "bytes": 268542,
+      "sha256": "333f1795e028d5bad680095c9d080520d94d7dc18e23773df2a5e2d5f8c655b1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/S02_preview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\S02_preview.png",
+      "bytes": 164461,
+      "sha256": "0226395da280a6ab4bf60a5676558dd062f72237c363b527dd31f7bd25f5ea34",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/S03_preview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\S03_preview.png",
+      "bytes": 193212,
+      "sha256": "86c664f97021b2cbbb98a4b68bc335ea76216c574a89bb680844b749ffee572a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/wire_connections.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\wire_connections.csv",
+      "bytes": 5727,
+      "sha256": "e2768cf3a62f82477a5143c291e7615ceaf7cf6fc79d381479d3a2578e2194c1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/editable_schematics/S01_ASM-R3.svg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\editable_schematics\\S01_ASM-R3.svg",
+      "bytes": 24970,
+      "sha256": "0096a38a76701bbc51ffa2970fddd04778f51cac04a989ef7ddd8d1391cbd2b9",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/editable_schematics/S02_ASM-R3.svg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\editable_schematics\\S02_ASM-R3.svg",
+      "bytes": 20821,
+      "sha256": "132170964d386968ba2dfa0bbc659a8cd6509da9b45e25dc0758cff1f2c4ecc2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/editable_schematics/S03_ASM-R3.svg",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\editable_schematics\\S03_ASM-R3.svg",
+      "bytes": 29171,
+      "sha256": "9565b2c70539ecd26d3488442a8dac032359b97459ff5c5062b7a8c6e34fea13",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/pdf/조립의뢰용_실배선회로도_ASM-R3.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\pdf\\조립의뢰용_실배선회로도_ASM-R3.pdf",
+      "bytes": 144106,
+      "sha256": "7dc6a172968bb9936b4d5d0c891ec27a6c1bf8788c391bfd62b1a999e5131b32",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/output/test_firmware/HeadWaterTest.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\test_firmware\\HeadWaterTest.ino",
+      "bytes": 5815,
+      "sha256": "e89b12235f6a752c81dc8aea52b879ab7709e6fe020f7f37e38655d69ace6f28",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/work/build_assembly.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\build_assembly.py",
+      "bytes": 29119,
+      "sha256": "20e9d410646705293023ceb1ca4dbc86378d4c125542a30d261edad22f62dd4a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/work/definition_checks.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\definition_checks.json",
+      "bytes": 251,
+      "sha256": "d0ba2ce2a3d0d87cfe43550b4ef720241c4566c7478753b87dd05d551e12fdbd",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/work/page-1.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-1.png",
+      "bytes": 268542,
+      "sha256": "333f1795e028d5bad680095c9d080520d94d7dc18e23773df2a5e2d5f8c655b1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/work/page-2.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-2.png",
+      "bytes": 164461,
+      "sha256": "0226395da280a6ab4bf60a5676558dd062f72237c363b527dd31f7bd25f5ea34",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/work/page-3.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-3.png",
+      "bytes": 193212,
+      "sha256": "86c664f97021b2cbbb98a4b68bc335ea76216c574a89bb680844b749ffee572a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/work/page-4.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-4.png",
+      "bytes": 226874,
+      "sha256": "8e4f3358c69dbd284e74afeb62aa924e2ee69a74e5b984f2b307f742eb3c20e1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/work/page-5.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-5.png",
+      "bytes": 260411,
+      "sha256": "abe3425116947bbb78a3fa48eec16c768a8032acc63106b468bab46796b6afd5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-20/assembly-request/work/page-6.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-6.png",
+      "bytes": 379701,
+      "sha256": "9d015c2a0e9273fcffaf1981280083dad2c52203846e66a1e35d18bab361de64",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/AI검토전달자료_R4P2.zip",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\AI검토전달자료_R4P2.zip",
+      "bytes": 3439850,
+      "sha256": "1149ca6a89ed72ff80816c03b9e2c8dcd392c7b1a052d8e295b9972318581643",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/다른AI_프로젝트설명과_회로검토요청.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\다른AI_프로젝트설명과_회로검토요청.txt",
+      "bytes": 22050,
+      "sha256": "e34f53651468ea229d273204c2abfaea4b3b972cc11ab00603a603fea292ff50",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/먼저읽기.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\먼저읽기.txt",
+      "bytes": 467,
+      "sha256": "476ce62dc22260c12a65b6c0db2b38c7d3f2592fd9b5a0d2394058f0be4f4e20",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/원본자료목록.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\원본자료목록.json",
+      "bytes": 1801,
+      "sha256": "95264cb02898b7141238e6c253c6e540f3870d2ea4097f23807f6480a7469f88",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/baseline_firmware/HeadWaterTest.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\baseline_firmware\\HeadWaterTest.ino",
+      "bytes": 5815,
+      "sha256": "e89b12235f6a752c81dc8aea52b879ab7709e6fe020f7f37e38655d69ace6f28",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/baseline_firmware/소스의범위.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\baseline_firmware\\소스의범위.txt",
+      "bytes": 287,
+      "sha256": "d1db2d7d00dfa3abb145dd7bdac5365d5ed10ca11abfff9124686ffab9e2db8d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_01_overview.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\diagrams\\R4P2_01_overview.png",
+      "bytes": 420143,
+      "sha256": "6cf938ce5dad76bebc805728df4e61628a2ae36b4c575034a1868ff8c3cc2270",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_02_power.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\diagrams\\R4P2_02_power.png",
+      "bytes": 376251,
+      "sha256": "2f4223d4859652838e3621f0ef3549c12b3ebd6601c5ccbf0210343cb5eb024d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_03_electrode_adc.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\diagrams\\R4P2_03_electrode_adc.png",
+      "bytes": 343261,
+      "sha256": "4453ebc088d2f094ba28000aae9e668321fbac3c6d6256a5df8b877733032d71",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_04_communication_controls.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\diagrams\\R4P2_04_communication_controls.png",
+      "bytes": 371391,
+      "sha256": "48a4e1a57d012b4116fc5a0260933ce2c0e73991703fda1fabe2f47a7fbd98d3",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_05_battery_divider_correction.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\diagrams\\R4P2_05_battery_divider_correction.png",
+      "bytes": 295460,
+      "sha256": "ac3a77afeef49dec0326303f46402966813167d29a87c1de3d8cefab5184b301",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/output/pdf/AI검토용_프로젝트목표_보유부품_R4P2_인계문서.pdf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\pdf\\AI검토용_프로젝트목표_보유부품_R4P2_인계문서.pdf",
+      "bytes": 2197329,
+      "sha256": "d5e3317b477ec23276ed23fb1a4fce447e8ff4f3f5267a777c4862077e077aca",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/build_handoff.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\build_handoff.py",
+      "bytes": 29982,
+      "sha256": "50dec3e513569a6d7aaabf060d41a5bbfc2b9e3474f098a92f9fafe15aec8b7d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/layout.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\layout.json",
+      "bytes": 1062,
+      "sha256": "786a86ccb8166f2f3fefef5ead8a86658c7f96430c061084e0978a547d1dd3d7",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-01.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-01.png",
+      "bytes": 164252,
+      "sha256": "3af7b6fa6b11d68e75bd0951b8001b0016d4b16a33f17fbf65b5fcae16b491c2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-02.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-02.png",
+      "bytes": 141123,
+      "sha256": "959bd446c4dce276c0b4b6dde95c46b89710d6d3d6d43e87c330a5236ea5335c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-03.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-03.png",
+      "bytes": 150330,
+      "sha256": "49b29ca8b3e9c594492e34b345029d02e10a777461ca22437004f3b905574345",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-04.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-04.png",
+      "bytes": 119973,
+      "sha256": "99efc27045a5f91dc5ce6b8a441c652b2d9e98d5904cc16bd82ea00a642604ed",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-05.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-05.png",
+      "bytes": 151883,
+      "sha256": "a8660d67d31f0d16c7642547af7d16577113b2a44a33fd5f51c14ec675335798",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-06.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-06.png",
+      "bytes": 185250,
+      "sha256": "84e5d89a230c97583ff195eec7e6818f47752fb51c8105bc215a305dee3c8b84",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-07.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-07.png",
+      "bytes": 171503,
+      "sha256": "a3445615675e3746cd4411dd2f755f43e5d2208d8a4cfd30eaf51c4aacd09e2a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-08.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-08.png",
+      "bytes": 198847,
+      "sha256": "edcbddab876344abb47480c5ee1064adfb751833fd386d0cbb374b0a5cf07cd1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-09.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-09.png",
+      "bytes": 223865,
+      "sha256": "6b4a6f09bc49871847889eee66177239a214e407d209694b904780e6c11c7b2c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-10.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-10.png",
+      "bytes": 300341,
+      "sha256": "2f66ec1a0994e20c3446392e85ba1546a4d16fc27926e4d2d63b841f20cddc46",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-11.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-11.png",
+      "bytes": 268596,
+      "sha256": "6ca2a0aa46d1630fee3481a01659844116121381645751c5ab0c0f8cc3671c35",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-12.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-12.png",
+      "bytes": 248241,
+      "sha256": "48e144e071f347225219fff7c47b7eb744befb3ec34871adb95520efc383d025",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-13.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-13.png",
+      "bytes": 268411,
+      "sha256": "4ab9b09e235477bf46921be8c5fee5685943c084d0f94829f53f42ac50535a09",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-14.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-14.png",
+      "bytes": 145515,
+      "sha256": "4ee01c9314ab47da45ee53a69ebd8bf49746b80efcc44df8bedc216c7e2d5dfc",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/air_baseline_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\air_baseline_raw.txt",
+      "bytes": 1923,
+      "sha256": "325090533030e3789453da49a4174809a99832c3d68d14bc812b2890b0178d72",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/air_baseline_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\air_baseline_summary.csv",
+      "bytes": 268,
+      "sha256": "1533dea55368ea508a56b5dcb438a2423fcb50f1238ea5c2b6eb960d24a93e7a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/analyze_salt.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\analyze_salt.py",
+      "bytes": 3135,
+      "sha256": "d840633f80d081b486254fd59cf7b51db89f060116d2dfcf20ef2bf318d46cbd",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_0p5_20261123_221338_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_0p5_20261123_221338_raw.txt",
+      "bytes": 2153,
+      "sha256": "8fcf52d1347585b46417e5351c0dd16deabd0143a7eb4c1b582714520fdfb5d9",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_0p5_20261123_221338_statistics.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_0p5_20261123_221338_statistics.json",
+      "bytes": 1476,
+      "sha256": "ff1186801a23967cd8728b2ed90a28c3abdefdca62c4e2b0da79c1e0640e5c89",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_0p5_20261123_221338_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_0p5_20261123_221338_summary.csv",
+      "bytes": 300,
+      "sha256": "a9daa5686f2cc6bfc89e6966b9296691c06bf4c293b7c81dec4f09b9c5fe246f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_1p1_baseline_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_1p1_baseline_raw.txt",
+      "bytes": 2114,
+      "sha256": "ef929b3abdab8ab0516fa3b9df3dbb624c99a229fa824146113b3fdc5ad12b8f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_1p1_phase_voltages.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_1p1_phase_voltages.csv",
+      "bytes": 1530,
+      "sha256": "17a9f04d65dc55f5211eeb13fa7c2c57928da4b63a2092afc05caa61fe48bfad",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_1p1_same_cup_20261123_221952_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_1p1_same_cup_20261123_221952_raw.txt",
+      "bytes": 2084,
+      "sha256": "8865866a94ca732c8c503f4d84e681f7400cb6872f923da1a6f8442764d95948",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_1p1_same_cup_20261123_221952_statistics.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_1p1_same_cup_20261123_221952_statistics.json",
+      "bytes": 1502,
+      "sha256": "877df5a6d5ff81ce879dc854b7bc499464cd097b503bd23b653b90adf849ceb6",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_1p1_same_cup_20261123_221952_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_1p1_same_cup_20261123_221952_summary.csv",
+      "bytes": 327,
+      "sha256": "12c2d773eb8771c724952fb1586d929e7d7fab507a1c8a87bffc1997393d0197",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_1p1_statistics.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_1p1_statistics.json",
+      "bytes": 1800,
+      "sha256": "118d5e80a717c3d6f53ce52df1b4ecd6fb31a8d6940069fe9aab502fdae4855e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_1p1_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_1p1_summary.csv",
+      "bytes": 202,
+      "sha256": "db04713223e82ef71861128ad7a10e292b8385563308c96b2b7fbf1e80610102",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_2p0_same_cup_20261123_222834_phase_analysis.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_2p0_same_cup_20261123_222834_phase_analysis.csv",
+      "bytes": 1466,
+      "sha256": "b959a5187906d4ea65c4758ed466c1f020c267c4891a5e364297ab4b5dfa349f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_2p0_same_cup_20261123_222834_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_2p0_same_cup_20261123_222834_raw.txt",
+      "bytes": 2108,
+      "sha256": "3ce48d7abc6d2449baf895fbb29f24015c8aa30c203288880fd1fc4cc8c31446",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_2p0_same_cup_20261123_222834_statistics.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_2p0_same_cup_20261123_222834_statistics.json",
+      "bytes": 1129,
+      "sha256": "638fffa219159545675ed70b2e3c5810f5de65ac1966d1d9d702c7c098053273",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/salt_2p0_same_cup_20261123_222834_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\salt_2p0_same_cup_20261123_222834_summary.csv",
+      "bytes": 231,
+      "sha256": "97d56176230a4dd03933ef996062d01b9b3b29c7968e942d3f3153d019f9ff1e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/same_cup_concentration_sequence.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\same_cup_concentration_sequence.csv",
+      "bytes": 315,
+      "sha256": "26d8aefbca60dab4c612752ccff72c94a2d1b75ef2b54ff9911521e0c0c093c8",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/tap_salt_tap_comparison.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\tap_salt_tap_comparison.csv",
+      "bytes": 188,
+      "sha256": "de3633570cc4d87e3616016464f98049b5181a0c9f3f8c3d02234fe60887da46",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/tap_water_baseline_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\tap_water_baseline_raw.txt",
+      "bytes": 1898,
+      "sha256": "2ce36cffdcda4c32d9e177f0b74f3cd510a4792551a8fba6e1ae73e76d946f03",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/tap_water_baseline_statistics.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\tap_water_baseline_statistics.json",
+      "bytes": 369,
+      "sha256": "462461e986af14adffe7c06717360f0cf914132c6ebef7f656764713ae296d42",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/tap_water_baseline_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\tap_water_baseline_summary.csv",
+      "bytes": 302,
+      "sha256": "c5fb206681d339468abf66ae07de0f17467f411c2dda8fddcb57f5e2b8c48060",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/tap_water_return_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\tap_water_return_raw.txt",
+      "bytes": 2042,
+      "sha256": "a85ab3662a5cffc91add0bf100d447a3f6cbae120ccca21be964c5a46567054a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/tap_water_return_statistics.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\tap_water_return_statistics.json",
+      "bytes": 595,
+      "sha256": "73bce5e738019b59fd080f898127c5645a6d620b1d7108700c33ab58f4f5335b",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/tap_water_return_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\tap_water_return_summary.csv",
+      "bytes": 324,
+      "sha256": "26246e9c6d524fbe11e6d37c09ca468b7c94183aeeddcdb6b1d297ea287c6dc0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/1k_기준저항_계측회로검사.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\1k_기준저항_계측회로검사.png",
+      "bytes": 81943,
+      "sha256": "dd63b84ec1d33f6553fb3ace8e77d8f9b51b74a9d8343b17cdcb46a5d4ba6a7b",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/A0_신호선_접촉확인.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\A0_신호선_접촉확인.png",
+      "bytes": 65087,
+      "sha256": "b1fa9868c190591823506f8f43b190f993dd423fa17a3b657c33879d2bacd6de",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/air_after_0p6_20261123_232436_electrical_check.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\air_after_0p6_20261123_232436_electrical_check.json",
+      "bytes": 807,
+      "sha256": "710e34a0d9f4fa1c04e8700b4f221911ec1feca32754834576e6b875e7acc9af",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/air_after_0p6_20261123_232436_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\air_after_0p6_20261123_232436_raw.txt",
+      "bytes": 2170,
+      "sha256": "6d441a6de0002d145e13e37e6cd31d0f655024284622e7dca774d43a747b74a0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/analyze_diagnostic.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\analyze_diagnostic.py",
+      "bytes": 3340,
+      "sha256": "41995e0bfa61255a76e8ec02495d60ed6da8cd225a1aea94099694b98fd06ccc",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/analyze_existing_series.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\analyze_existing_series.py",
+      "bytes": 3445,
+      "sha256": "fdfa6c15fa71a09c4d3c83195e9b7e89d371ebd150fe34823ae475aaf9235108",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/analyze_timing_sweep.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\analyze_timing_sweep.py",
+      "bytes": 2911,
+      "sha256": "58861e828ea7b2dfee5c0192d8fab0e3baf2d1052d9574b5cc1284038200c8da",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/arduino-cli.yaml",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\arduino-cli.yaml",
+      "bytes": 252,
+      "sha256": "49070832fd2c0200403804c90f054fa52149d66b0a7638b42c16ec30f29b1142",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/check_electrical_record.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\check_electrical_record.py",
+      "bytes": 2991,
+      "sha256": "7412902cb47e54a86ad64b7448e2cf02287f0724e6a14ffb890d6a1470ae0b48",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/current_ratio_1k_final_20261124_000108_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\current_ratio_1k_final_20261124_000108_raw.txt",
+      "bytes": 2387,
+      "sha256": "1c4c62b34dd1328ea25296c7add5680fd1c21c157e9984b73b54f48379bdd457",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/current_ratio_reanalysis.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\current_ratio_reanalysis.json",
+      "bytes": 4019,
+      "sha256": "1a146708230c2b09debb4d9ca71ae8bfec3567d33b49ffa98ed6dbfe8b8f4b72",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/current_ratio_reanalysis_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\current_ratio_reanalysis_summary.csv",
+      "bytes": 966,
+      "sha256": "895c3bef116f6e01579dbcbee78f2dfb0c740fcbea3e91b49c25e0a044c53291",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/current_ratio_reanalysis_trials.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\current_ratio_reanalysis_trials.csv",
+      "bytes": 3766,
+      "sha256": "3ea652d44490950b398c86f232a867d1d64bb11b3e4e310fef1c8166c07ceed2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/current_state.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\current_state.json",
+      "bytes": 2595,
+      "sha256": "e37c33fa5786ea2da32c5bac11507aaee1d035276432240a7471179bc2b2bf36",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/draw_a0_contact_guide.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\draw_a0_contact_guide.py",
+      "bytes": 1950,
+      "sha256": "f8f10543dd9a657a564ada8b32f7a68b7d5b1a8ffec5ed8887c23e7f2c10df27",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/draw_reference_load_guide.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\draw_reference_load_guide.py",
+      "bytes": 2386,
+      "sha256": "bfc3442caa4b820fb0c9f5fc5756e41c38f793ac8b79e8c424837d48f0e7e3e1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/draw_restore_head.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\draw_restore_head.py",
+      "bytes": 2055,
+      "sha256": "5846e7dd24c43c9e1eb24e00f7f6e41200202595bb45eb209669033e69d8708a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/electrical_c_analysis.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\electrical_c_analysis.json",
+      "bytes": 4929,
+      "sha256": "0a5e323a551f53c235fa72774d1d95e5ab57b180a1b9bd4d4aa5d531b1e0065b",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/existing_series_features.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\existing_series_features.csv",
+      "bytes": 2104,
+      "sha256": "8d1fd466d73128b3b29978b3b0fd7f65a4ad0821640f791a8b95a93cab58449c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/existing_series_feature_review.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\existing_series_feature_review.json",
+      "bytes": 4990,
+      "sha256": "3a9c81f14d755f46a527a69241318b48585d2dd709ad44ff100e71cc8d840bd4",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/final_verification.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\final_verification.json",
+      "bytes": 979,
+      "sha256": "6ae4f5e4a498e49f2b2050c1387b2fdf8a70c2fe292c0b5a00a0ba9375e15045",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/known_1k_dry_load_20261123_234148_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\known_1k_dry_load_20261123_234148_raw.txt",
+      "bytes": 2766,
+      "sha256": "f6dc7de938b628cc32ba106c488c085d5e1b6d700a9044abded7b4d752fa07db",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/known_1k_monitor_20261123_234528_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\known_1k_monitor_20261123_234528_raw.txt",
+      "bytes": 13413,
+      "sha256": "6a2982378dc673a0515291abb9e797ccb54866b40583f71e2f2119cf9d761673",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/known_1k_monitor_20261123_234528_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\known_1k_monitor_20261123_234528_summary.csv",
+      "bytes": 1051,
+      "sha256": "8ccaff7a86591ffc492efd037047d4f67ae2b1812c9af37b2869fa6fb69bdd22",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/known_1k_reopen_check_20261123_234842_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\known_1k_reopen_check_20261123_234842_raw.txt",
+      "bytes": 7946,
+      "sha256": "19d472524e7ec4486a2fc6fa8a312d57813287f0693af031ef3bbb323105ba32",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/known_1k_reopen_check_20261123_234842_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\known_1k_reopen_check_20261123_234842_summary.csv",
+      "bytes": 592,
+      "sha256": "adfdb3149cc0a77fd2bec9f402801feef809e61b93078cc7def8532ddbd05ccb",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/manifest.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\manifest.json",
+      "bytes": 1946,
+      "sha256": "4e2c11aa88e9308548cc4308d2ead0f5c42022a1fb60340fe0e24e1e76e29d9e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/recalculate_current_ratio.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\recalculate_current_ratio.py",
+      "bytes": 5002,
+      "sha256": "391e112d0e997b24e2e9b793fcacd1214e4ffb55eb8e84b4436feaeac5c69aab",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_0p6_contact_check_20261123_231439_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_0p6_contact_check_20261123_231439_raw.txt",
+      "bytes": 712,
+      "sha256": "fa916b390315cff5705305ed8340c9209f38538cd5a09863bf959f188004fb89",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_0p6_electrical_c_20261123_233453_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_0p6_electrical_c_20261123_233453_raw.txt",
+      "bytes": 5105,
+      "sha256": "1234c4318e0f09eaf86a346fa6f3eba76bf6f4ba4359996842561fac81740115",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_0p6_fixed_v3_20261123_231055_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_0p6_fixed_v3_20261123_231055_raw.txt",
+      "bytes": 29249,
+      "sha256": "0deec172f3de12c02723be302e12a31a0fb85af831d69ce9579478c9496d3fa0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_0p6_return_after_air_20261123_232742_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_0p6_return_after_air_20261123_232742_raw.txt",
+      "bytes": 29318,
+      "sha256": "5b8df2dc95ee304c0de8404dbc9d56398d6982ea54cc6a1092da9e43810e162f",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_fast_diff_20261123_224731_analysis.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_fast_diff_20261123_224731_analysis.csv",
+      "bytes": 10693,
+      "sha256": "120075413bf26eb2bdcbd290f33f1862b4e1e9c20820412cff1c31c3986a282c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_fast_diff_20261123_224731_analysis.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_fast_diff_20261123_224731_analysis.json",
+      "bytes": 1843,
+      "sha256": "0c52c063f015210d2d5c7427e7ff0a816010b9b440bc0bae2a0a5d77b4559042",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_fast_diff_20261123_224731_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_fast_diff_20261123_224731_raw.txt",
+      "bytes": 14875,
+      "sha256": "4cf0851dad032997270361e22dfccd184b4fbf567cd2e61fdac939fdb6239c49",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_legacy_recheck_20261123_225302_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_legacy_recheck_20261123_225302_raw.txt",
+      "bytes": 2015,
+      "sha256": "789c344474f9f6e80cc6d78b5971e8fde07a6dae08d3025f24cfe1340a6eb55e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_signed_diff_20261123_224205_analysis.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_signed_diff_20261123_224205_analysis.csv",
+      "bytes": 4889,
+      "sha256": "c5134cfacc56974f41009593de6b1d0c19ed54a2c1c2be89b5c77ff02680a051",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_signed_diff_20261123_224205_analysis.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_signed_diff_20261123_224205_analysis.json",
+      "bytes": 1820,
+      "sha256": "566883d29235ae58a7c736104a55c20ed7587fd328f7f3d92621474ca73bd419",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_signed_diff_20261123_224205_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_signed_diff_20261123_224205_raw.txt",
+      "bytes": 7598,
+      "sha256": "59d8d1b0b95b2801989868ccf197dd01654f776ba4e97d66b91189cb23621f95",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_timing_sweep_20261123_225819_analysis.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_timing_sweep_20261123_225819_analysis.json",
+      "bytes": 6934,
+      "sha256": "71819f3bd539ddbb901e1d696bb298fdae41c66df0f439fb53d7fb8fbfaad13e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_timing_sweep_20261123_225819_analysis_phases.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_timing_sweep_20261123_225819_analysis_phases.csv",
+      "bytes": 13485,
+      "sha256": "2e5d2a32231d562c182e74a49534a027072f69c3a1f52847c498e09357a959ac",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_timing_sweep_20261123_225819_analysis_summary.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_timing_sweep_20261123_225819_analysis_summary.csv",
+      "bytes": 1748,
+      "sha256": "a02d398215e870b31dd83edc3a741e5756ad62e54f44203110781873a5ff0001",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/salt_2p0_timing_sweep_20261123_225819_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_timing_sweep_20261123_225819_raw.txt",
+      "bytes": 27207,
+      "sha256": "cbc78a9bc3b1e5e1d04c9234583b017baf00ec1e77fd882420dc71395ed702f7",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/software_self_review.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\software_self_review.json",
+      "bytes": 1471,
+      "sha256": "c336f7b236ddb41348dbbaa61ff7c864e2223db243c9cb37e285d6e4ce87d597",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/수정내용과_검증결과.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\수정내용과_검증결과.txt",
+      "bytes": 2682,
+      "sha256": "e374c11e897f665f58344fcf25625e60eaa4f7c84b4139558d8d5d82b6dbfcd3",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/헤드_원래연결_복원.png",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\헤드_원래연결_복원.png",
+      "bytes": 74513,
+      "sha256": "941c5edfafef15c82dffe1cb33c5efe4f024f880fd1f2942130d54682f45f604",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/backup/HeadDifferentialDiagnostic_SIGNED_DIFF_V2.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\backup\\HeadDifferentialDiagnostic_SIGNED_DIFF_V2.ino",
+      "bytes": 11501,
+      "sha256": "630e5db851ae4b8c6175e127de204ff2d639144559d5fc93b8d605da4a7a2e1e",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/backup/HeadDifferentialDiagnostic_SIGNED_DIFF_V3.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\backup\\HeadDifferentialDiagnostic_SIGNED_DIFF_V3.ino",
+      "bytes": 14485,
+      "sha256": "958a1f74382c82fdfbedafc661212169d7fef10f573e0b1a3ff81dbb528b9244",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/backup/HeadDifferentialDiagnostic_SIGNED_DIFF_V3_C1.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\backup\\HeadDifferentialDiagnostic_SIGNED_DIFF_V3_C1.ino",
+      "bytes": 18411,
+      "sha256": "8da30c6c8037759cc97e0fb481457ac71231242d72a137d9a145aa21cab175a2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/backup/HeadWaterTest.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\backup\\HeadWaterTest.ino",
+      "bytes": 5815,
+      "sha256": "e89b12235f6a752c81dc8aea52b879ab7709e6fe020f7f37e38655d69ace6f28",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/boot_app0.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\boot_app0.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/boot_app0_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\boot_app0_flashed.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/build.options.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\build.options.json",
+      "bytes": 670,
+      "sha256": "77a5b9231a1a45ea31758974498d207dfc9e0ef0cc4bb5d4dd2d86634fddc8f1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/flash_args",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\flash_args",
+      "bytes": 232,
+      "sha256": "cac3fe006e2fcdda827283393f69adfa06f9fd2a2be8e73f013600606b64232a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/HeadDifferentialDiagnostic.ino.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\HeadDifferentialDiagnostic.ino.bin",
+      "bytes": 311392,
+      "sha256": "bf6fd1007c8f1a32435c8472f27d6207b2af5f690ebeadba12e116e7c90f7052",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/HeadDifferentialDiagnostic.ino.bootloader.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\HeadDifferentialDiagnostic.ino.bootloader.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/HeadDifferentialDiagnostic.ino.bootloader_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\HeadDifferentialDiagnostic.ino.bootloader_flashed.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/HeadDifferentialDiagnostic.ino.elf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\HeadDifferentialDiagnostic.ino.elf",
+      "bytes": 7185580,
+      "sha256": "1c857c3e1c5b60cc6a4558589767c69e4b356c86db594c1485979aec3fe05161",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/HeadDifferentialDiagnostic.ino.map",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\HeadDifferentialDiagnostic.ino.map",
+      "bytes": 9396391,
+      "sha256": "de1a0ca4d1beaaf245547b256e63f0b6517f1243db28ac832b69433a6b983dcd",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/HeadDifferentialDiagnostic.ino.merged.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\HeadDifferentialDiagnostic.ino.merged.bin",
+      "bytes": 8388608,
+      "sha256": "5d689d779f174bd682a72500953a1a97452f909e1b992a8b7e2df65c28b5eee0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/HeadDifferentialDiagnostic.ino.partitions.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\HeadDifferentialDiagnostic.ino.partitions.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/HeadDifferentialDiagnostic.ino.partitions_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\HeadDifferentialDiagnostic.ino.partitions_flashed.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/HeadDifferentialDiagnostic.ino_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\HeadDifferentialDiagnostic.ino_flashed.bin",
+      "bytes": 311392,
+      "sha256": "bf6fd1007c8f1a32435c8472f27d6207b2af5f690ebeadba12e116e7c90f7052",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/partitions.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\partitions.csv",
+      "bytes": 305,
+      "sha256": "ab2f33c14eb855054613fd3a4ba85457ae281c6f371c25931ccc763bc79cb0e2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/build/sdkconfig",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\sdkconfig",
+      "bytes": 144445,
+      "sha256": "79f52b47be15e15cab9d54509c8e8411d28f60b8d056753f4b8503bccd7f03c5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-23/sensor-recheck/diagnostic/HeadDifferentialDiagnostic/HeadDifferentialDiagnostic.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\HeadDifferentialDiagnostic\\HeadDifferentialDiagnostic.ino",
+      "bytes": 21755,
+      "sha256": "0941aac6e84f83c6060db7bf024cd34402fc092a5dbeae926fd0157b4e611b3a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build_calibration.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build_calibration.py",
+      "bytes": 7260,
+      "sha256": "16da31b43bb1f36fabe8ddfee2e4f4e5231611a351a22ca7dd53785cac2b6158",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/calibration_model.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\calibration_model.json",
+      "bytes": 2480,
+      "sha256": "3b63b912d687a5a1ee9d04d5c37035cf2606fd0d277340a851eef29f50abfb8a",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/calibration_plan.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\calibration_plan.json",
+      "bytes": 426,
+      "sha256": "104ee3045aeb1ad99823f89d476b942c8cba9c96ba9a999c071b4ac606e016ba",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/calibration_references.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\calibration_references.csv",
+      "bytes": 666,
+      "sha256": "78e9f37ed4ee2c35a610619d85effd99509cc85c18c8c37c69d193a6b2b644ab",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/completion_verification.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\completion_verification.json",
+      "bytes": 1052,
+      "sha256": "3416195cec2ec0e9215ec61506c4303aa9e9ddc289ebc1ca847a0da8108b8621",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/finalize_fourpoint.py",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\finalize_fourpoint.py",
+      "bytes": 5232,
+      "sha256": "d12173fd6ff68c54c9f283cefce04b4c08c15b67259ca6c3a42970a82aeebe16",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/final_calibration_V2_readback_20261124_003113_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\final_calibration_V2_readback_20261124_003113_raw.txt",
+      "bytes": 2807,
+      "sha256": "1533da1dcbf4012cb28d5492e1c83e8ef386e965500a6e48050ae010a62083f3",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/initial_calibration_model_V1.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\initial_calibration_model_V1.json",
+      "bytes": 2226,
+      "sha256": "01bea27a3bab6a86bb290d7c2ac2ba5a7f550824205d4a0bfbec89a8c4a3e257",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/on_device_calibration_verify_20261124_002705_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\on_device_calibration_verify_20261124_002705_raw.txt",
+      "bytes": 2825,
+      "sha256": "556002883f2272c0eb490f1306105fe17fec596665d3801846da5ec35f8775cc",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/reference_0p6_20261124_000953_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\reference_0p6_20261124_000953_raw.txt",
+      "bytes": 964,
+      "sha256": "fa5826da34f75296ec507d99f636dac74fc8a870f5a0c5199196c87158f2278c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/reference_0p6_ready_20261124_001436_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\reference_0p6_ready_20261124_001436_raw.txt",
+      "bytes": 2435,
+      "sha256": "1a1d22ea1186342397ef015ae4477325d0d73e1b4ae19d997f7c1449694f98e9",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/reference_2p0_20261124_001837_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\reference_2p0_20261124_001837_raw.txt",
+      "bytes": 2420,
+      "sha256": "9aa777c38721660d6eb2dff9c897bb721d5fbd08d8850c0aa6f72275219b824c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/two_point_draft_not_deployed.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\two_point_draft_not_deployed.json",
+      "bytes": 1239,
+      "sha256": "52b6316c001063bd3dbc614ef68df4a06abe5ca32cb709b2ecc1e107b12bdcbd",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/보정표_저장완료_기록.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\보정표_저장완료_기록.txt",
+      "bytes": 2650,
+      "sha256": "2a2b0dcc92b3c0087cea7575cf30895561c4ba1189e54b5843d9064ac7b6bdad",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/boot_app0.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\boot_app0.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/boot_app0_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\boot_app0_flashed.bin",
+      "bytes": 8192,
+      "sha256": "f94c5d786a7a8fab06ac5d10e33bf37711a6697636dc037559ea19cc410a17f0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/build.options.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\build.options.json",
+      "bytes": 667,
+      "sha256": "3ea15549ae80678ca920684fec9c68dbefdb69c843f2ec046e9f70eea44c228d",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/flash_args",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\flash_args",
+      "bytes": 223,
+      "sha256": "42abdc54ba58ec56bc62cb6067c0402ce293518189107097c086967cc652c0dc",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/partitions.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\partitions.csv",
+      "bytes": 305,
+      "sha256": "ab2f33c14eb855054613fd3a4ba85457ae281c6f371c25931ccc763bc79cb0e2",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/SalinityMeterCalibrated.ino.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.bin",
+      "bytes": 307280,
+      "sha256": "7d8e44a5b9c690d1617aace04cab7dc6d64a7bd8b15880c36947998637a6d2f1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/SalinityMeterCalibrated.ino.bootloader.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.bootloader.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/SalinityMeterCalibrated.ino.bootloader_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.bootloader_flashed.bin",
+      "bytes": 19968,
+      "sha256": "883bb1e4765f12902e56b4bb901d0504df2ea2396bba8d79a7b29ae87d4b3658",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/SalinityMeterCalibrated.ino.elf",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.elf",
+      "bytes": 7188252,
+      "sha256": "80b75e402f321279602ab87f253474a7e80b0451f4cea2c87db6df645cdfd313",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/SalinityMeterCalibrated.ino.map",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.map",
+      "bytes": 9378582,
+      "sha256": "5cf1e5bead8204c1110e7856010d35d4995bce086433da68906fabf6834c114b",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/SalinityMeterCalibrated.ino.merged.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.merged.bin",
+      "bytes": 8388608,
+      "sha256": "add8fe52aa56029cc092a412f156d545b93c5399d4db8d3466eb0704fdb1f2b0",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/SalinityMeterCalibrated.ino.partitions.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.partitions.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/SalinityMeterCalibrated.ino.partitions_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.partitions_flashed.bin",
+      "bytes": 3072,
+      "sha256": "1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/SalinityMeterCalibrated.ino_flashed.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino_flashed.bin",
+      "bytes": 307280,
+      "sha256": "7d8e44a5b9c690d1617aace04cab7dc6d64a7bd8b15880c36947998637a6d2f1",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/build/sdkconfig",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\sdkconfig",
+      "bytes": 144445,
+      "sha256": "79f52b47be15e15cab9d54509c8e8411d28f60b8d056753f4b8503bccd7f03c5",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/SalinityMeterCalibrated/CalibrationTable.h",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\SalinityMeterCalibrated\\CalibrationTable.h",
+      "bytes": 581,
+      "sha256": "e3f4ff940d4fd9282daebd3d3ffe2cf20bcfa4dfa9ac7b24ff48db45fb27e868",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "history/2026-11-24/salinity-calibration/SalinityMeterCalibrated/SalinityMeterCalibrated.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\SalinityMeterCalibrated\\SalinityMeterCalibrated.ino",
+      "bytes": 24120,
+      "sha256": "257b886f5def4611516355a4e7ac1ff779c1321114a24a3081b480bce0bf0849",
+      "category": "original_archive"
+    },
+    {
+      "repository_path": "reference-photos/prototype_head_and_breadboard.png",
+      "source": "C:\\Users\\Yeon\\AppData\\Local\\Temp\\codex-clipboard-987718e1-ac6a-4767-ad81-db6bce6b55b6.png",
+      "bytes": 22110146,
+      "sha256": "0728ecf5109d162fcf5802a7a6c4f8cc5f6e932a97e6c607be1a0b9145cec337",
+      "category": "user_supplied_photo"
+    },
+    {
+      "repository_path": "reference-photos/prototype_xiao_ads1115.png",
+      "source": "C:\\Users\\Yeon\\AppData\\Local\\Temp\\codex-clipboard-e9092592-61db-45ee-b71b-9cd07c5ff32d.png",
+      "bytes": 16980693,
+      "sha256": "f29d69a03a3c6cc3744ebb1a68fa9046ab1f0ffb6bab8f78542fe6813653c7ed",
+      "category": "user_supplied_photo"
+    },
+    {
+      "repository_path": "reference-photos/prototype_breadboard_closeup.png",
+      "source": "C:\\Users\\Yeon\\AppData\\Local\\Temp\\codex-clipboard-3d3482e9-42a2-424e-bc93-24f52582161d.png",
+      "bytes": 18380169,
+      "sha256": "bad214fc6ca65eb9f26fe195fa9f13f338b45f24076e6ae5c5c38dfb4844ea09",
+      "category": "user_supplied_photo"
+    },
+    {
+      "repository_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165634599.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\바탕 화면\\새 폴더 (3)\\KakaoTalk_20261120_165634599.png",
+      "bytes": 420143,
+      "sha256": "6cf938ce5dad76bebc805728df4e61628a2ae36b4c575034a1868ff8c3cc2270",
+      "category": "user_supplied_diagram"
+    },
+    {
+      "repository_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165635775.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\바탕 화면\\새 폴더 (3)\\KakaoTalk_20261120_165635775.png",
+      "bytes": 376251,
+      "sha256": "2f4223d4859652838e3621f0ef3549c12b3ebd6601c5ccbf0210343cb5eb024d",
+      "category": "user_supplied_diagram"
+    },
+    {
+      "repository_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165636460.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\바탕 화면\\새 폴더 (3)\\KakaoTalk_20261120_165636460.png",
+      "bytes": 343261,
+      "sha256": "4453ebc088d2f094ba28000aae9e668321fbac3c6d6256a5df8b877733032d71",
+      "category": "user_supplied_diagram"
+    },
+    {
+      "repository_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165637533.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\바탕 화면\\새 폴더 (3)\\KakaoTalk_20261120_165637533.png",
+      "bytes": 371391,
+      "sha256": "48a4e1a57d012b4116fc5a0260933ce2c0e73991703fda1fabe2f47a7fbd98d3",
+      "category": "user_supplied_diagram"
+    },
+    {
+      "repository_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165639168.png",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\바탕 화면\\새 폴더 (3)\\KakaoTalk_20261120_165639168.png",
+      "bytes": 295460,
+      "sha256": "ac3a77afeef49dec0326303f46402966813167d29a87c1de3d8cefab5184b301",
+      "category": "user_supplied_diagram"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterCalibrated/CalibrationTable.h",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\SalinityMeterCalibrated\\CalibrationTable.h",
+      "bytes": 581,
+      "sha256": "e3f4ff940d4fd9282daebd3d3ffe2cf20bcfa4dfa9ac7b24ff48db45fb27e868",
+      "category": "current_firmware"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterCalibrated/SalinityMeterCalibrated.ino",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\SalinityMeterCalibrated\\SalinityMeterCalibrated.ino",
+      "bytes": 24120,
+      "sha256": "257b886f5def4611516355a4e7ac1ff779c1321114a24a3081b480bce0bf0849",
+      "category": "current_firmware"
+    },
+    {
+      "repository_path": "calibration/current/calibration_model.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\calibration_model.json",
+      "bytes": 2480,
+      "sha256": "3b63b912d687a5a1ee9d04d5c37035cf2606fd0d277340a851eef29f50abfb8a",
+      "category": "current_calibration"
+    },
+    {
+      "repository_path": "calibration/current/calibration_references.csv",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\calibration_references.csv",
+      "bytes": 666,
+      "sha256": "78e9f37ed4ee2c35a610619d85effd99509cc85c18c8c37c69d193a6b2b644ab",
+      "category": "current_calibration"
+    },
+    {
+      "repository_path": "calibration/current/completion_verification.json",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\completion_verification.json",
+      "bytes": 1052,
+      "sha256": "3416195cec2ec0e9215ec61506c4303aa9e9ddc289ebc1ca847a0da8108b8621",
+      "category": "current_calibration"
+    },
+    {
+      "repository_path": "calibration/current/보정표_저장완료_기록.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\보정표_저장완료_기록.txt",
+      "bytes": 2650,
+      "sha256": "2a2b0dcc92b3c0087cea7575cf30895561c4ba1189e54b5843d9064ac7b6bdad",
+      "category": "current_calibration"
+    },
+    {
+      "repository_path": "calibration/current/raw/final_calibration_V2_readback_20261124_003113_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\final_calibration_V2_readback_20261124_003113_raw.txt",
+      "bytes": 2807,
+      "sha256": "1533da1dcbf4012cb28d5492e1c83e8ef386e965500a6e48050ae010a62083f3",
+      "category": "calibration_raw"
+    },
+    {
+      "repository_path": "calibration/current/raw/on_device_calibration_verify_20261124_002705_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\on_device_calibration_verify_20261124_002705_raw.txt",
+      "bytes": 2825,
+      "sha256": "556002883f2272c0eb490f1306105fe17fec596665d3801846da5ec35f8775cc",
+      "category": "calibration_raw"
+    },
+    {
+      "repository_path": "calibration/current/raw/reference_0p6_20261124_000953_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\reference_0p6_20261124_000953_raw.txt",
+      "bytes": 964,
+      "sha256": "fa5826da34f75296ec507d99f636dac74fc8a870f5a0c5199196c87158f2278c",
+      "category": "calibration_raw"
+    },
+    {
+      "repository_path": "calibration/current/raw/reference_0p6_ready_20261124_001436_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\reference_0p6_ready_20261124_001436_raw.txt",
+      "bytes": 2435,
+      "sha256": "1a1d22ea1186342397ef015ae4477325d0d73e1b4ae19d997f7c1449694f98e9",
+      "category": "calibration_raw"
+    },
+    {
+      "repository_path": "calibration/current/raw/reference_2p0_20261124_001837_raw.txt",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\reference_2p0_20261124_001837_raw.txt",
+      "bytes": 2420,
+      "sha256": "9aa777c38721660d6eb2dff9c897bb721d5fbd08d8850c0aa6f72275219b824c",
+      "category": "calibration_raw"
+    },
+    {
+      "repository_path": "firmware/releases/2026-11-24/SalinityMeterCalibrated.ino.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.bin",
+      "bytes": 307280,
+      "sha256": "7d8e44a5b9c690d1617aace04cab7dc6d64a7bd8b15880c36947998637a6d2f1",
+      "category": "current_binary"
+    },
+    {
+      "repository_path": "firmware/releases/2026-11-24/SalinityMeterCalibrated.ino.merged.bin",
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.merged.bin",
+      "bytes": 8388608,
+      "sha256": "add8fe52aa56029cc092a412f156d545b93c5399d4db8d3466eb0704fdb1f2b0",
+      "category": "current_binary"
+    },
+    {
+      "repository_path": "project-workspace/.ppt-build/AI_스마트염도계_아이디어발표.validation.json",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\.ppt-build\\AI_스마트염도계_아이디어발표.validation.json",
+      "bytes": 3689,
+      "sha256": "e2d023459becb291f63c09ec77c6cf4ca9f405eef0dce73585f95eb341a163ff",
+      "category": "presentation_draft_and_validation"
+    },
+    {
+      "repository_path": "project-workspace/.ppt-build/AI_스마트염도계_아이디어발표_초안.pptx",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\.ppt-build\\AI_스마트염도계_아이디어발표_초안.pptx",
+      "bytes": 37108,
+      "sha256": "c55db9b5128ff7d8dd0eb9fe168432a9e07065ca6042d7308038b6392dc8492a",
+      "category": "presentation_draft_and_validation"
+    },
+    {
+      "repository_path": "project-workspace/.ppt-build/AI_스마트염도계_아이디어발표_초안.pptx.inspect.ndjson",
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\.ppt-build\\AI_스마트염도계_아이디어발표_초안.pptx.inspect.ndjson",
+      "bytes": 32010,
+      "sha256": "f1bf9bf0e95f7d66005bc7c305b7fb21d6e039f045c577ac9c86dbcbc293241c",
+      "category": "presentation_draft_and_validation"
+    }
+  ],
+  "excluded": [
+    {
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\.git",
+      "reason": "dependency/toolchain/cache/git metadata"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\node_modules",
+      "reason": "dependency/toolchain/cache/git metadata"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\__pycache__",
+      "reason": "dependency/toolchain/cache/git metadata"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\toolchain",
+      "reason": "dependency/toolchain/cache/git metadata"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\core",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\libraries",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\sketch",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\build_opt.h",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\compile_commands.json",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\file_opts",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\includes.cache",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-alternate\\libraries.cache",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\sketch",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\build_opt.h",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-dry-usb\\file_opts",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\core",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\libraries",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\sketch",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\build_opt.h",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\compile_commands.json",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\file_opts",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\includes.cache",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\libraries.cache",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\core",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\libraries",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\sketch",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\build_opt.h",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\compile_commands.json",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\file_opts",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\includes.cache",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\build\\libraries.cache",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\core",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\libraries",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\sketch",
+      "reason": "compiled object/dependency cache"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\build_opt.h",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\compile_commands.json",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\file_opts",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\includes.cache",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\libraries.cache",
+      "reason": "build cache/intermediate"
+    },
+    {
+      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\.ppt-build\\node_modules",
+      "reason": "dependency symlink"
+    }
+  ],
+  "unavailable_sources": [
+    "C:\\Users\\Yeon\\AppData\\Local\\Temp\\codex-clipboard-ae225f1f-7586-48cb-9a0e-c31108e14001.png"
+  ],
+  "note": "Original project-specific files are preserved byte-for-byte. Dependencies, compiler installations, object caches, OS files and Git internals are excluded. Current firmware/calibration copies are convenience entry points; history is retained."
+}

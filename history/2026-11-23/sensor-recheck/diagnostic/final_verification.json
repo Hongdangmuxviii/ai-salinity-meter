@@ -1,0 +1,20 @@
+{
+  "firmware": "CURRENT_RATIO_V1",
+  "primary_measurement_command": "k",
+  "firmware_sha256": "e569114b71fe6458e7b6e6f615a14b27e8729cdf2b2951bd85048c90a2afa3c6",
+  "final_known_1k_source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\current_ratio_1k_final_20261124_000108_raw.txt",
+  "known_1k_expected_index": 66.66666666666667,
+  "on_device_1k_indices": [
+    66.77168,
+    66.77064,
+    66.77402
+  ],
+  "mean": 66.77211333333334,
+  "A0_used_in_calculation": false,
+  "A0_physical_fault_cause_isolated": false,
+  "salinity_accuracy_validated": false,
+  "additional_user_manipulation_requested": false,
+  "physical_setup": "1k resistor is still between the two existing electrode crocodile clips; head electrodes disconnected; temperature3wires retained. GPIO driveINPUT and portclosed after command.",
+  "existing_liquid_records_reprocessed": "current_ratio_reanalysis.json",
+  "salinity_normalization_is_not_percent": true
+}

@@ -1,0 +1,4 @@
+"reference_percent","mean_raw","temperature_C","forward_mean","reverse_mean","sign_disagreement_count","phase_count","sequence"
+"0.5","92.21","19.27","90.4067","94.01","15","30","same_cup"
+"1.1","92.4867","19.25","92.8833","92.09","15","30","same_cup"
+"2","92.76","19.27","94.26","91.2567","15","30","same_cup"

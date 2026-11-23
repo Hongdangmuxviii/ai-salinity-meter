@@ -1,0 +1,26 @@
+{
+  "original_source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\HeadWaterTest\\HeadWaterTest.ino",
+  "original_source_sha256": "E89B12235F6A752C81DC8AEA52B879AB7709E6FE020F7F37E38655D69ACE6F28",
+  "previous_build_binary": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-14\\head-test\\build-water\\HeadWaterTest.ino.bin",
+  "previous_build_sha256": "A4D885B0FB091E3A449AE2B89C5A1347A8BCED94C8F995A8470F1896777428B9",
+  "diagnostic_version": "CURRENT_RATIO_V1",
+  "wiring_changed": false,
+  "diagnostic_commands": [
+    "d: eight balanced pairs, D0 first",
+    "e: eight balanced pairs, D1 first"
+  ],
+  "pulse_target_us": 20000,
+  "idle_between_each_polarity_us": 1000,
+  "sample_start_targets_us": [
+    3000,
+    9000,
+    14000
+  ],
+  "important": "New pulse spacing and direct differential conversion differ from legacy m. Diagnostic voltages are not calibrated salinity. Original m remains available.",
+  "current_protocol": "f/g: 32 alternating pairs, 8ms pulse and 1ms equal idle after each phase. Direct A0-A1 differential conversion starts 3ms after phase onset, ends about5.5ms. Warmup pairs1-24, retained25-32. f=D0 first, g=D1 first. No automatic drive between commands. Legacy m is retained but is not used for new calibration.",
+  "current_firmware_sha256": "e569114b71fe6458e7b6e6f615a14b27e8729cdf2b2951bd85048c90a2afa3c6",
+  "timing_sweep": "s:6,8,20ms pulses; one signed A0-A1 conversion at each of12fixed offset blocks;24warmup and8retained pairs, all retained raw samples logged. V3 compiled, flashed with verification, and executed successfully. m,f,g retain prior behavior.",
+  "additional_command": "c: separate electrical-only diagnostic, no temperature prerequisite. Original m/s and all acquisition functions source-compared unchanged.",
+  "last_flash_verified": true,
+  "primary_measurement": "k: current-derived response, A0 value excluded; historical sampling timing retained"
+}

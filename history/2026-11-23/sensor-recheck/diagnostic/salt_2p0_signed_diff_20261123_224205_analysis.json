@@ -1,0 +1,60 @@
+{
+  "raw_source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\sensor-recheck\\diagnostic\\salt_2p0_signed_diff_20261123_224205_raw.txt",
+  "user_last_stated_solution_percent": 2.0,
+  "calibration_validated": false,
+  "geometry_independently_verified": false,
+  "note": "Differential voltage and changed timing are diagnostic only. No salinity conversion is asserted.",
+  "runs": [
+    {
+      "run": 1,
+      "temperature_C": 19.44,
+      "first": "D0+",
+      "retained_mean_aligned_V": 0.181109375,
+      "max_pulse_us": 20083.0,
+      "D0+": {
+        "mean_aligned_V": 0.20484375,
+        "sample_stdev_V": 0.0123137689701407,
+        "range_V": 0.027749999999999997
+      },
+      "D1+": {
+        "mean_aligned_V": 0.157375,
+        "sample_stdev_V": 0.009431220316940256,
+        "range_V": 0.021875000000000006
+      }
+    },
+    {
+      "run": 2,
+      "temperature_C": 19.44,
+      "first": "D1+",
+      "retained_mean_aligned_V": 0.18003125,
+      "max_pulse_us": 20081.0,
+      "D0+": {
+        "mean_aligned_V": 0.15771875,
+        "sample_stdev_V": 0.010570879319306097,
+        "range_V": 0.023375000000000007
+      },
+      "D1+": {
+        "mean_aligned_V": 0.20234375,
+        "sample_stdev_V": 0.01310350422278966,
+        "range_V": 0.029374999999999984
+      }
+    },
+    {
+      "run": 3,
+      "temperature_C": 19.44,
+      "first": "D0+",
+      "retained_mean_aligned_V": 0.182328125,
+      "max_pulse_us": 20079.0,
+      "D0+": {
+        "mean_aligned_V": 0.208875,
+        "sample_stdev_V": 0.012556124003847676,
+        "range_V": 0.028874999999999984
+      },
+      "D1+": {
+        "mean_aligned_V": 0.15578124999999998,
+        "sample_stdev_V": 0.010959858100510849,
+        "range_V": 0.025999999999999995
+      }
+    }
+  ]
+}

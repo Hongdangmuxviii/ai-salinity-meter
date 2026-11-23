@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1600" height="1100" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1600 1100" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1600" height="1100"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-1100)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="20" y="20" width="1560" height="1060" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.7; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="45" y="1044" style="font-family: Malgun Gothic; font-size: 17px;fill: rgb(2%,42%,43%); stroke:none;" transform="translate(0,2088) scale(1,-1)">ASM-R3  /  조립업체 전달용  /  MODULE-LEVEL SCHEMATIC</text>
+			<text x="45" y="1001" style="font-family: Malgun Gothic; font-size: 30px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,2002) scale(1,-1)">S01  전원 · 메인보드 · OLED · ToF</text>
+			<text x="45" y="967" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(32%,39%,44%); stroke:none;" transform="translate(0,1934) scale(1,-1)">모듈 단자의 실제 실크 이름을 사용합니다. 모듈을 칩으로 대체하지 않습니다. U3/U6/U7은 다음 시트에서 연결합니다.</text>
+			<path d="M 20,80 L 1580,80 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1100,80 L 1100,20 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1430,80 L 1430,20 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="40" y="54" style="font-family: Malgun Gothic; font-size: 17px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,108) scale(1,-1)">스마트 염도계 · 보유 모듈 배선 조립 / 2026-11-20</text>
+			<text x="40" y="28" style="font-family: Malgun Gothic; font-size: 15px;fill: rgb(32%,39%,44%); stroke:none;" transform="translate(0,56) scale(1,-1)">같은 NET 이름은 모두 연결. ● 접속 / 교차선에 점이 없으면 비접속 / × 외부 배선 없음.</text>
+			<text x="1120" y="54" style="font-family: Malgun Gothic; font-size: 16px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,108) scale(1,-1)">기존 헤드 재사용 / 배터리 내장</text>
+			<text x="1120" y="28" style="font-family: Malgun Gothic; font-size: 16px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,56) scale(1,-1)">기판 조립·통합 검수 기준</text>
+			<text x="1481.9873046875" y="43" style="font-family: Malgun Gothic; font-size: 20px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,86) scale(1,-1)">1 / 6</text>
+			<text x="65" y="907" style="font-family: Malgun Gothic; font-size: 23px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1814) scale(1,-1)">B1  DTP803040</text>
+			<text x="65" y="875" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1750) scale(1,-1)">3.7V / 1000mAh / 1S</text>
+			<path d="M 95,835 L 95,810 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 65,810 L 125,810 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 78,799 L 112,799 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 95,799 L 95,763 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 95,835 L 205,835 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 95,763 L 205,763 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<circle cx="210" cy="835" r="5" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<circle cx="210" cy="763" r="5" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="235" y="831" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1662) scale(1,-1)">J1.B+  →  BATT_RAW</text>
+			<text x="235" y="759" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1518) scale(1,-1)">J1.B-  →  GND</text>
+			<text x="65" y="711" style="font-family: Malgun Gothic; font-size: 17px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1422) scale(1,-1)">J1 = 기존 배터리와 맞는 상대 커넥터.</text>
+			<text x="65" y="682" style="font-family: Malgun Gothic; font-size: 16px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1364) scale(1,-1)">B+/B-는 논리 표기. 실물 핀 번호를 추정하지 말 것.</text>
+			<text x="65" y="653" style="font-family: Malgun Gothic; font-size: 16px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1306) scale(1,-1)">멀티미터로 실제 극성 확인 후 전선에 + / - 라벨.</text>
+			<rect x="180" y="370" width="360" height="220" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.7; fill: rgb(95%,96%,97%); fill-rule: evenodd;"/>
+			<text x="246.869873046875" y="556" style="font-family: Malgun Gothic; font-size: 23px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1112) scale(1,-1)">U2  Pololu #2810 LV</text>
+			<path d="M 60,513 L 180,513 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="190" y="507" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1014) scale(1,-1)">VIN</text>
+			<text x="60" y="520" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1040) scale(1,-1)">BATT_RAW</text>
+			<path d="M 540,513 L 680,513 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="482.4072265625" y="507" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1014) scale(1,-1)">VOUT</text>
+			<text x="597.27734375" y="520" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1040) scale(1,-1)">VBAT_SW</text>
+			<path d="M 630,513 L 630,536 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<circle cx="630" cy="541" r="5" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="641" y="541" style="font-family: Malgun Gothic; font-size: 15px;fill: rgb(32%,39%,44%); stroke:none;" transform="translate(0,1082) scale(1,-1)">TP1</text>
+			<path d="M 60,458 L 180,458 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="190" y="452" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,904) scale(1,-1)">GND</text>
+			<text x="60" y="465" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,930) scale(1,-1)">GND</text>
+			<path d="M 540,450 L 580,450 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 575,455 L 585,445 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 575,445 L 585,455 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="502.3056640625" y="444" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,888) scale(1,-1)">ON</text>
+			<path d="M 120,458 L 120,481 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<circle cx="120" cy="486" r="5" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="131" y="486" style="font-family: Malgun Gothic; font-size: 15px;fill: rgb(32%,39%,44%); stroke:none;" transform="translate(0,972) scale(1,-1)">TP0</text>
+			<path d="M 540,400 L 580,400 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 575,405 L 585,395 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 575,395 L 585,405 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="465.6640625" y="394" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,788) scale(1,-1)">SW_EXT</text>
+			<text x="65" y="310" style="font-family: Malgun Gothic; font-size: 17px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,620) scale(1,-1)">U2 내장 슬라이드 스위치로 배터리 경로 개폐.</text>
+			<text x="65" y="276" style="font-family: Malgun Gothic; font-size: 17px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,552) scale(1,-1)">충전은 스위치 ON + XIAO USB-C 연결.</text>
+			<text x="65" y="242" style="font-family: Malgun Gothic; font-size: 17px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,484) scale(1,-1)">USB 연결 중에는 OFF라도 보드가 켜질 수 있음.</text>
+			<text x="65" y="208" style="font-family: Malgun Gothic; font-size: 17px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,416) scale(1,-1)">측정 시 USB 분리. 별도 충전 모듈은 실장하지 않음.</text>
+			<text x="65" y="174" style="font-family: Malgun Gothic; font-size: 17px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,348) scale(1,-1)">배터리 +를 3V3 또는 5V 핀에 연결하지 않음.</text>
+			<rect x="825" y="145" width="290" height="760" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.7; fill: rgb(95%,96%,97%); fill-rule: evenodd;"/>
+			<text x="914.287109375" y="869" style="font-family: Malgun Gothic; font-size: 25px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1738) scale(1,-1)">U1  XIAO</text>
+			<text x="890.988525390625" y="840" style="font-family: Malgun Gothic; font-size: 21px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1680) scale(1,-1)">ESP32-S3 Sense</text>
+			<path d="M 685,788 L 825,788 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="782" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1564) scale(1,-1)">D0 / GPIO1</text>
+			<text x="685" y="795" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1590) scale(1,-1)">DRIVE_A</text>
+			<path d="M 685,740 L 825,740 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="734" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1468) scale(1,-1)">D1 / GPIO2</text>
+			<text x="685" y="747" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1494) scale(1,-1)">DRIVE_B</text>
+			<path d="M 790,692 L 825,692 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="686" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1372) scale(1,-1)">D2 / GPIO3</text>
+			<path d="M 785,697 L 795,687 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 785,687 L 795,697 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 685,644 L 825,644 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="638" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1276) scale(1,-1)">D3 / GPIO4</text>
+			<text x="685" y="651" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1302) scale(1,-1)">TEMP_DQ</text>
+			<path d="M 685,596 L 825,596 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="590" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1180) scale(1,-1)">D4 / GPIO5</text>
+			<text x="685" y="603" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1206) scale(1,-1)">I2C_SDA</text>
+			<path d="M 685,548 L 825,548 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="542" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1084) scale(1,-1)">D5 / GPIO6</text>
+			<text x="685" y="555" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1110) scale(1,-1)">I2C_SCL</text>
+			<path d="M 685,500 L 825,500 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="494" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,988) scale(1,-1)">D6 / GPIO43</text>
+			<text x="685" y="507" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1014) scale(1,-1)">KEY1</text>
+			<path d="M 685,452 L 825,452 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="446" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,892) scale(1,-1)">D7 / GPIO44</text>
+			<text x="685" y="459" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,918) scale(1,-1)">KEY2</text>
+			<path d="M 685,404 L 825,404 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="398" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,796) scale(1,-1)">D8 / GPIO7</text>
+			<text x="685" y="411" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,822) scale(1,-1)">KEY3</text>
+			<path d="M 685,356 L 825,356 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="350" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,700) scale(1,-1)">D9 / GPIO8</text>
+			<text x="685" y="363" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,726) scale(1,-1)">BUZZ_CTRL</text>
+			<path d="M 790,308 L 825,308 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="302" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,604) scale(1,-1)">D10 / GPIO9</text>
+			<path d="M 785,313 L 795,303 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 785,303 L 795,313 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 685,262 L 825,262 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="256" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,512) scale(1,-1)">BAT+</text>
+			<text x="685" y="269" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,538) scale(1,-1)">VBAT_SW</text>
+			<path d="M 685,225 L 825,225 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="219" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,438) scale(1,-1)">BAT-</text>
+			<text x="685" y="232" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,464) scale(1,-1)">GND</text>
+			<path d="M 685,188 L 825,188 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="835" y="182" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,364) scale(1,-1)">GND</text>
+			<text x="685" y="195" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,390) scale(1,-1)">GND</text>
+			<path d="M 1115,785 L 1220,785 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="1073.7548828125" y="779" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1558) scale(1,-1)">3V3</text>
+			<text x="1174.1123046875" y="792" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1584) scale(1,-1)">+3V3</text>
+			<path d="M 1170,785 L 1170,808 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<circle cx="1170" cy="813" r="5" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1181" y="813" style="font-family: Malgun Gothic; font-size: 15px;fill: rgb(32%,39%,44%); stroke:none;" transform="translate(0,1626) scale(1,-1)">TP2</text>
+			<path d="M 1115,735 L 1150,735 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1145,740 L 1155,730 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<path d="M 1145,730 L 1155,740 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="1083.6689453125" y="729" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1458) scale(1,-1)">5V</text>
+			<text x="937.150390625" y="260" style="font-family: Malgun Gothic; font-size: 22px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,520) scale(1,-1)">USB-C</text>
+			<text x="889.488525390625" y="226" style="font-family: Malgun Gothic; font-size: 15px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,452) scale(1,-1)">5V 입력 / 충전 / 업로드</text>
+			<text x="894.58984375" y="185" style="font-family: Malgun Gothic; font-size: 15px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,370) scale(1,-1)">카메라 기존 결합 유지</text>
+			<rect x="1350" y="635" width="200" height="265" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.7; fill: rgb(95%,96%,97%); fill-rule: evenodd;"/>
+			<text x="1434.9287109375" y="867" style="font-family: Malgun Gothic; font-size: 23px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1734) scale(1,-1)">U4</text>
+			<text x="1384.68359375" y="838" style="font-family: Malgun Gothic; font-size: 16px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1676) scale(1,-1)">SSD1306 128×32</text>
+			<path d="M 1230,795 L 1350,795 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="1360" y="789" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1578) scale(1,-1)">VCC</text>
+			<text x="1230" y="802" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1604) scale(1,-1)">+3V3</text>
+			<path d="M 1230,752 L 1350,752 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="1360" y="746" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1492) scale(1,-1)">GND</text>
+			<text x="1230" y="759" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1518) scale(1,-1)">GND</text>
+			<path d="M 1230,709 L 1350,709 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="1360" y="703" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1406) scale(1,-1)">SDA</text>
+			<text x="1230" y="716" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1432) scale(1,-1)">I2C_SDA</text>
+			<path d="M 1230,666 L 1350,666 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="1360" y="660" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1320) scale(1,-1)">SCL</text>
+			<text x="1230" y="673" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,1346) scale(1,-1)">I2C_SCL</text>
+			<rect x="1350" y="270" width="200" height="265" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.7; fill: rgb(95%,96%,97%); fill-rule: evenodd;"/>
+			<text x="1434.9287109375" y="502" style="font-family: Malgun Gothic; font-size: 23px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1004) scale(1,-1)">U5</text>
+			<text x="1390.3203125" y="473" style="font-family: Malgun Gothic; font-size: 16px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,946) scale(1,-1)">VL53L5CX MINI</text>
+			<path d="M 1230,430 L 1350,430 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="1360" y="424" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,848) scale(1,-1)">3V3</text>
+			<text x="1230" y="437" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,874) scale(1,-1)">+3V3</text>
+			<path d="M 1230,387 L 1350,387 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="1360" y="381" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,762) scale(1,-1)">GND</text>
+			<text x="1230" y="394" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,788) scale(1,-1)">GND</text>
+			<path d="M 1230,344 L 1350,344 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="1360" y="338" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,676) scale(1,-1)">SDA</text>
+			<text x="1230" y="351" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,702) scale(1,-1)">I2C_SDA</text>
+			<path d="M 1230,301 L 1350,301 Z" style="stroke: rgb(9%,17%,24%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<text x="1360" y="295" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,590) scale(1,-1)">SCL</text>
+			<text x="1230" y="308" style="font-family: Malgun Gothic; font-size: 18px;fill: rgb(8%,36%,60%); stroke:none;" transform="translate(0,616) scale(1,-1)">I2C_SCL</text>
+			<text x="1225" y="602" style="font-family: Malgun Gothic; font-size: 15px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1204) scale(1,-1)">OLED 주소는 0x3C / 0x3D 중 실측 기록.</text>
+			<text x="1225" y="570" style="font-family: Malgun Gothic; font-size: 15px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,1140) scale(1,-1)">커넥터 좌우 순서는 실물 실크 기준.</text>
+			<text x="1215" y="228" style="font-family: Malgun Gothic; font-size: 16px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,456) scale(1,-1)">U5 7-bit I2C 주소 0x29.</text>
+			<text x="1215" y="198" style="font-family: Malgun Gothic; font-size: 16px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,396) scale(1,-1)">INT / LP / RST 외부 미연결.</text>
+			<text x="1215" y="168" style="font-family: Malgun Gothic; font-size: 16px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,336) scale(1,-1)">Qwiic PRT-17912 케이블 재사용.</text>
+			<text x="1215" y="138" style="font-family: Malgun Gothic; font-size: 16px;fill: rgb(9%,17%,24%); stroke:none;" transform="translate(0,276) scale(1,-1)">I2C 추가 풀업은 실장하지 않음.</text>
+		</g>
+	</g>
+</svg>

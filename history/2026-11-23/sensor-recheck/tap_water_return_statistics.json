@@ -1,0 +1,16 @@
+{
+  "condition": "tap_water_return",
+  "trials": 3,
+  "mean_raw": 51.0633,
+  "temperature_mean_C": 19.52,
+  "initial_tap_mean_raw": 47.7567,
+  "raw_difference_from_initial_tap": 3.3066,
+  "temperature_difference_from_initial_tap_C": -2.23,
+  "environment_reproduction": "user_reports_as_similar_as_possible",
+  "immersion_depth_mm": null,
+  "rinse_confirmed": null,
+  "same_water_batch_confirmed": null,
+  "return_to_initial_baseline_validated": false,
+  "salinity_accuracy_validated": false,
+  "residual_salt_temperature_geometry_and_measurement_dynamics_not_separated": true
+}

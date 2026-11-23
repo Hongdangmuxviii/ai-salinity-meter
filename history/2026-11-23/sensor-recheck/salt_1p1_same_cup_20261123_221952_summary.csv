@@ -1,0 +1,4 @@
+"condition","trial","temperature_C","raw_response","forward_response","reverse_response","pair_min","pair_max"
+"salt_1p1_same_cup","1","19.25","92.41","92.77","92.05","86.79","95"
+"salt_1p1_same_cup","2","19.25","92.5","92.91","92.09","86.93","95.06"
+"salt_1p1_same_cup","3","19.25","92.55","92.97","92.13","87.01","95.11"

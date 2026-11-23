@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Local build and scratch files
+.ppt-build/
+work/
+
+# Operating-system files
+.DS_Store
+Thumbs.db

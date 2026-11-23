@@ -1,0 +1,43 @@
+READY SALINITY_CAL_4P_V1: m=calibrated estimate(median3), k=raw response, p=calibration table, t=temperature. Drive idle.
+CAL_TABLE id=REF_4P_20261124_V2 points=4 aggregation=median3 temperature_compensated=false accuracy_independently_validated=false
+CAL_POINT i=0 reference_percent=0.5 response_index=95.21452882 reference_temp_C=19.25
+CAL_POINT i=1 reference_percent=0.6 response_index=96.21234000 reference_temp_C=20.31
+CAL_POINT i=2 reference_percent=1.1 response_index=97.67148906 reference_temp_C=19.25
+CAL_POINT i=3 reference_percent=2.0 response_index=99.42491000 reference_temp_C=21.56
+
+FINAL_V2_READBACK command=m user_reference_percent=2.0 head_unchanged=true timestamp=2026-11-24T00:31:16.2351097+09:00
+PHASE D0+ A0=1.800 A1=1.412 A2=3.231 A3=0.040 V
+PHASE D1+ A0=1.865 A1=1.487 A2=0.052 A3=3.223 V
+PHASE D0+ A0=1.695 A1=1.505 A2=3.228 A3=0.042 V
+PHASE D1+ A0=1.828 A1=1.527 A2=0.050 A3=3.224 V
+PHASE D0+ A0=1.661 A1=1.536 A2=3.227 A3=0.043 V
+PHASE D1+ A0=1.808 A1=1.549 A2=0.050 A3=3.225 V
+PHASE D0+ A0=1.644 A1=1.553 A2=3.227 A3=0.043 V
+PHASE D1+ A0=1.797 A1=1.561 A2=0.049 A3=3.225 V
+PHASE D0+ A0=1.634 A1=1.563 A2=3.228 A3=0.043 V
+PHASE D1+ A0=1.791 A1=1.568 A2=0.049 A3=3.226 V
+CURRENT_RESULT temp_C=21.62 index=99.29378 D0+=92.37856 D1+=106.20900 range=97.74589..99.87915 A0_in_calculation=false value_is_salinity=false
+PHASE D0+ A0=1.763 A1=1.446 A2=3.229 A3=0.040 V
+PHASE D1+ A0=1.845 A1=1.510 A2=0.051 A3=3.223 V
+PHASE D0+ A0=1.672 A1=1.525 A2=3.227 A3=0.043 V
+PHASE D1+ A0=1.814 A1=1.544 A2=0.051 A3=3.225 V
+PHASE D0+ A0=1.646 A1=1.550 A2=3.227 A3=0.043 V
+PHASE D1+ A0=1.799 A1=1.560 A2=0.049 A3=3.225 V
+PHASE D0+ A0=1.633 A1=1.563 A2=3.227 A3=0.043 V
+PHASE D1+ A0=1.791 A1=1.569 A2=0.049 A3=3.226 V
+PHASE D0+ A0=1.626 A1=1.570 A2=3.227 A3=0.044 V
+PHASE D1+ A0=1.786 A1=1.574 A2=0.048 A3=3.226 V
+CURRENT_RESULT temp_C=21.69 index=99.44128 D0+=93.45737 D1+=105.42519 range=98.08822..99.93700 A0_in_calculation=false value_is_salinity=false
+PHASE D0+ A0=1.760 A1=1.448 A2=3.229 A3=0.041 V
+PHASE D1+ A0=1.844 A1=1.512 A2=0.051 A3=3.224 V
+PHASE D0+ A0=1.671 A1=1.528 A2=3.227 A3=0.042 V
+PHASE D1+ A0=1.812 A1=1.544 A2=0.049 A3=3.224 V
+PHASE D0+ A0=1.645 A1=1.552 A2=3.227 A3=0.044 V
+PHASE D1+ A0=1.798 A1=1.561 A2=0.049 A3=3.226 V
+PHASE D0+ A0=1.632 A1=1.564 A2=3.227 A3=0.044 V
+PHASE D1+ A0=1.790 A1=1.569 A2=0.049 A3=3.226 V
+PHASE D0+ A0=1.625 A1=1.570 A2=3.227 A3=0.044 V
+PHASE D1+ A0=1.786 A1=1.574 A2=0.049 A3=3.226 V
+CURRENT_RESULT temp_C=21.69 index=99.44868 D0+=93.53382 D1+=105.36354 range=98.09627..99.93305 A0_in_calculation=false value_is_salinity=false
+SALINITY_RESULT estimate_percent=2.01 response_index=99.44128 temp_C=21.69 status=ABOVE_REFERENCE_SPAN calibration_id=REF_4P_20261124_V2 median_of=3 temperature_compensated=false accuracy_independently_validated=false
+

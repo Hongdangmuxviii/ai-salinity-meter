@@ -1,0 +1,62 @@
+READY SIGNED_DIFF_V1: t=temp, m=legacy, d=diff D0-first, e=diff D1-first. Drive idle.
+
+COMMAND=d timestamp=2026-11-23T22:42:07.5419891+09:00 user_last_stated_solution_percent=2.0
+DIAG_BEGIN version=SIGNED_DIFF_V1 temp_C=19.44 first=D0+ pulse_target_us=20000 idle_us=1000
+DIFF pair=1 phase=D0+ early_V=0.304625 late_V=0.557125 drive_V=3.195000 early_end_us=5489 late_end_us=11492 drive_end_us=16509 pulse_us=20076
+DIFF pair=1 phase=D1+ early_V=0.436000 late_V=0.074250 drive_V=-3.179875 early_end_us=5521 late_end_us=11495 drive_end_us=16495 pulse_us=20043
+DIFF pair=2 phase=D0+ early_V=0.001750 late_V=0.354625 drive_V=3.190000 early_end_us=5481 late_end_us=11470 drive_end_us=16475 pulse_us=20070
+DIFF pair=2 phase=D1+ early_V=0.330875 late_V=-0.041125 drive_V=-3.183125 early_end_us=5513 late_end_us=11504 drive_end_us=16514 pulse_us=20070
+DIFF pair=3 phase=D0+ early_V=-0.088125 late_V=0.280875 drive_V=3.188625 early_end_us=5487 late_end_us=11495 drive_end_us=16501 pulse_us=20062
+DIFF pair=3 phase=D1+ early_V=0.280625 late_V=-0.097875 drive_V=-3.184000 early_end_us=5482 late_end_us=11519 drive_end_us=16482 pulse_us=20037
+DIFF pair=4 phase=D0+ early_V=-0.132125 late_V=0.243500 drive_V=3.187750 early_end_us=5474 late_end_us=11512 drive_end_us=16511 pulse_us=20069
+DIFF pair=4 phase=D1+ early_V=0.249375 late_V=-0.126500 drive_V=-3.184250 early_end_us=5516 late_end_us=11502 drive_end_us=16513 pulse_us=20061
+DIFF pair=5 phase=D0+ early_V=-0.153875 late_V=0.220875 drive_V=3.187375 early_end_us=5518 late_end_us=11516 drive_end_us=16521 pulse_us=20074
+DIFF pair=5 phase=D1+ early_V=0.235625 late_V=-0.144625 drive_V=-3.185375 early_end_us=5471 late_end_us=11517 drive_end_us=16468 pulse_us=20070
+DIFF pair=6 phase=D0+ early_V=-0.170875 late_V=0.207750 drive_V=3.186750 early_end_us=5478 late_end_us=11519 drive_end_us=16474 pulse_us=20035
+DIFF pair=6 phase=D1+ early_V=0.223500 late_V=-0.156500 drive_V=-3.185625 early_end_us=5478 late_end_us=11523 drive_end_us=16483 pulse_us=20080
+DIFF pair=7 phase=D0+ early_V=-0.181375 late_V=0.197625 drive_V=3.186375 early_end_us=5477 late_end_us=11511 drive_end_us=16470 pulse_us=20083
+DIFF pair=7 phase=D1+ early_V=0.214500 late_V=-0.161875 drive_V=-3.185750 early_end_us=5521 late_end_us=11505 drive_end_us=16511 pulse_us=20057
+DIFF pair=8 phase=D0+ early_V=-0.185750 late_V=0.193125 drive_V=3.186875 early_end_us=5479 late_end_us=11512 drive_end_us=16470 pulse_us=20070
+DIFF pair=8 phase=D1+ early_V=0.213625 late_V=-0.166500 drive_V=-3.185250 early_end_us=5477 late_end_us=11523 drive_end_us=16522 pulse_us=20077
+DIAG_END drive=INPUT
+
+COMMAND=e timestamp=2026-11-23T22:42:11.1016758+09:00 user_last_stated_solution_percent=2.0
+DIAG_BEGIN version=SIGNED_DIFF_V1 temp_C=19.44 first=D1+ pulse_target_us=20000 idle_us=1000
+DIFF pair=1 phase=D1+ early_V=-0.309500 late_V=-0.561375 drive_V=-3.195250 early_end_us=5483 late_end_us=11481 drive_end_us=16495 pulse_us=20040
+DIFF pair=1 phase=D0+ early_V=-0.442125 late_V=-0.077625 drive_V=3.180250 early_end_us=5519 late_end_us=11512 drive_end_us=16517 pulse_us=20071
+DIFF pair=2 phase=D1+ early_V=-0.005375 late_V=-0.359375 drive_V=-3.190375 early_end_us=5478 late_end_us=11516 drive_end_us=16476 pulse_us=20037
+DIFF pair=2 phase=D0+ early_V=-0.334125 late_V=0.039875 drive_V=3.183000 early_end_us=5482 late_end_us=11482 drive_end_us=16483 pulse_us=20039
+DIFF pair=3 phase=D1+ early_V=0.082500 late_V=-0.283125 drive_V=-3.189500 early_end_us=5521 late_end_us=11513 drive_end_us=16474 pulse_us=20077
+DIFF pair=3 phase=D0+ early_V=-0.281500 late_V=0.094375 drive_V=3.184750 early_end_us=5481 late_end_us=11472 drive_end_us=16477 pulse_us=20035
+DIFF pair=4 phase=D1+ early_V=0.129500 late_V=-0.241625 drive_V=-3.187625 early_end_us=5488 late_end_us=11478 drive_end_us=16494 pulse_us=20048
+DIFF pair=4 phase=D0+ early_V=-0.252000 late_V=0.127125 drive_V=3.185375 early_end_us=5472 late_end_us=11511 drive_end_us=16471 pulse_us=20075
+DIFF pair=5 phase=D1+ early_V=0.156750 late_V=-0.219125 drive_V=-3.187750 early_end_us=5473 late_end_us=11511 drive_end_us=16469 pulse_us=20078
+DIFF pair=5 phase=D0+ early_V=-0.234250 late_V=0.145000 drive_V=3.185250 early_end_us=5476 late_end_us=11513 drive_end_us=16473 pulse_us=20067
+DIFF pair=6 phase=D1+ early_V=0.171250 late_V=-0.206000 drive_V=-3.186625 early_end_us=5479 late_end_us=11521 drive_end_us=16472 pulse_us=20081
+DIFF pair=6 phase=D0+ early_V=-0.222500 late_V=0.153375 drive_V=3.185375 early_end_us=5485 late_end_us=11470 drive_end_us=16474 pulse_us=20075
+DIFF pair=7 phase=D1+ early_V=0.180375 late_V=-0.194500 drive_V=-3.186875 early_end_us=5481 late_end_us=11477 drive_end_us=16484 pulse_us=20036
+DIFF pair=7 phase=D0+ early_V=-0.214875 late_V=0.164125 drive_V=3.185875 early_end_us=5476 late_end_us=11517 drive_end_us=16472 pulse_us=20081
+DIFF pair=8 phase=D1+ early_V=0.187500 late_V=-0.189750 drive_V=-3.186750 early_end_us=5480 late_end_us=11512 drive_end_us=16471 pulse_us=20070
+DIFF pair=8 phase=D0+ early_V=-0.211125 late_V=0.168375 drive_V=3.186000 early_end_us=5476 late_end_us=11518 drive_end_us=16481 pulse_us=20078
+DIAG_END drive=INPUT
+
+COMMAND=d timestamp=2026-11-23T22:42:14.6260092+09:00 user_last_stated_solution_percent=2.0
+DIAG_BEGIN version=SIGNED_DIFF_V1 temp_C=19.44 first=D0+ pulse_target_us=20000 idle_us=1000
+DIFF pair=1 phase=D0+ early_V=0.316750 late_V=0.571125 drive_V=3.195500 early_end_us=5486 late_end_us=11481 drive_end_us=16489 pulse_us=20042
+DIFF pair=1 phase=D1+ early_V=0.453250 late_V=0.086750 drive_V=-3.179750 early_end_us=5482 late_end_us=11482 drive_end_us=16490 pulse_us=20077
+DIFF pair=2 phase=D0+ early_V=0.007375 late_V=0.366125 drive_V=3.190625 early_end_us=5474 late_end_us=11515 drive_end_us=16469 pulse_us=20074
+DIFF pair=2 phase=D1+ early_V=0.343000 late_V=-0.036125 drive_V=-3.183250 early_end_us=5477 late_end_us=11516 drive_end_us=16520 pulse_us=20066
+DIFF pair=3 phase=D0+ early_V=-0.084750 late_V=0.287750 drive_V=3.188875 early_end_us=5489 late_end_us=11496 drive_end_us=16509 pulse_us=20056
+DIFF pair=3 phase=D1+ early_V=0.287500 late_V=-0.092750 drive_V=-3.183875 early_end_us=5489 late_end_us=11488 drive_end_us=16500 pulse_us=20050
+DIFF pair=4 phase=D0+ early_V=-0.131000 late_V=0.246250 drive_V=3.187250 early_end_us=5486 late_end_us=11477 drive_end_us=16485 pulse_us=20038
+DIFF pair=4 phase=D1+ early_V=0.256875 late_V=-0.124500 drive_V=-3.184750 early_end_us=5486 late_end_us=11479 drive_end_us=16491 pulse_us=20040
+DIFF pair=5 phase=D0+ early_V=-0.153875 late_V=0.224875 drive_V=3.186875 early_end_us=5520 late_end_us=11510 drive_end_us=16516 pulse_us=20074
+DIFF pair=5 phase=D1+ early_V=0.240750 late_V=-0.141375 drive_V=-3.185500 early_end_us=5475 late_end_us=11474 drive_end_us=16486 pulse_us=20035
+DIFF pair=6 phase=D0+ early_V=-0.171375 late_V=0.212125 drive_V=3.187625 early_end_us=5474 late_end_us=11521 drive_end_us=16522 pulse_us=20074
+DIFF pair=6 phase=D1+ early_V=0.226625 late_V=-0.154500 drive_V=-3.185875 early_end_us=5525 late_end_us=11516 drive_end_us=16471 pulse_us=20070
+DIFF pair=7 phase=D0+ early_V=-0.181250 late_V=0.202500 drive_V=3.186875 early_end_us=5481 late_end_us=11518 drive_end_us=16512 pulse_us=20060
+DIFF pair=7 phase=D1+ early_V=0.222500 late_V=-0.159875 drive_V=-3.186000 early_end_us=5470 late_end_us=11469 drive_end_us=16475 pulse_us=20079
+DIFF pair=8 phase=D0+ early_V=-0.188250 late_V=0.196000 drive_V=3.186500 early_end_us=5474 late_end_us=11516 drive_end_us=16471 pulse_us=20070
+DIFF pair=8 phase=D1+ early_V=0.217000 late_V=-0.167375 drive_V=-3.186375 early_end_us=5486 late_end_us=11519 drive_end_us=16476 pulse_us=20077
+DIAG_END drive=INPUT
+

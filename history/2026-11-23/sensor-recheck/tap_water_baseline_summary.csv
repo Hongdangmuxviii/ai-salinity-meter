@@ -1,0 +1,4 @@
+"condition","trial","temperature_C","raw_response","forward_response","reverse_response","pair_min","pair_max"
+"tap_water","1","21.75","47.69","43.89","51.5","46.66","48.05"
+"tap_water","2","21.75","47.77","43.96","51.59","46.81","48.1"
+"tap_water","3","21.75","47.81","44","51.63","46.87","48.13"

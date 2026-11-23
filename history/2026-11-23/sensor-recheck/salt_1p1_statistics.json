@@ -1,0 +1,50 @@
+{
+  "condition": "salt_water",
+  "reference_concentration_percent_user_stated": 1.1,
+  "concentration_method": "separate_salinity_meter_user_confirmed",
+  "reference_meter_removed_during_measurement": true,
+  "reference_meter_model": null,
+  "reference_meter_calibration_status": null,
+  "salt_and_water_mass_g": null,
+  "same_water_batch_as_tap_baseline": null,
+  "immersion_depth_mm": null,
+  "raw_is_salinity_percent": false,
+  "trials": [
+    {
+      "trial": 1,
+      "temperature_C": 21.5,
+      "raw_response": 91.6,
+      "forward_response": 90.63,
+      "reverse_response": 92.58,
+      "pair_min": 84.93,
+      "pair_max": 94.43
+    },
+    {
+      "trial": 2,
+      "temperature_C": 21.56,
+      "raw_response": 91.67,
+      "forward_response": 90.86,
+      "reverse_response": 92.47,
+      "pair_min": 85.05,
+      "pair_max": 94.51
+    },
+    {
+      "trial": 3,
+      "temperature_C": 21.5,
+      "raw_response": 91.7,
+      "forward_response": 90.98,
+      "reverse_response": 92.42,
+      "pair_min": 85.15,
+      "pair_max": 94.54
+    }
+  ],
+  "mean_raw": 91.6567,
+  "temperature_mean_C": 21.52,
+  "tap_baseline_mean_raw": 47.7567,
+  "raw_difference_from_tap": 43.9,
+  "sampled_voltage_sign_disagreement_phases": 15,
+  "total_phases": 30,
+  "observation": "Trial averages repeat closely, but within-burst pair response increases and D1+ sampled A0-A1 remains positive despite negative A2-A3. A0 and A1 are sequential samples; simultaneous physical probe polarity is not established by this data.",
+  "calibration_point_accepted": false,
+  "next_check": "Rinse and return to an uncontaminated aliquot of the same tap water, then examine pulse timing, electrode polarization, sequential-sampling effects and wiring before calibration."
+}

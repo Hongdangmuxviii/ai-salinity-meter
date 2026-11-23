@@ -1,0 +1,15 @@
+{
+  "condition": "tap_water",
+  "trials": 3,
+  "mean_raw": 47.7567,
+  "min_raw": 47.69,
+  "max_raw": 47.81,
+  "forward_mean": 43.95,
+  "reverse_mean": 51.5733,
+  "direction_gap": 7.6233,
+  "temperature_C": 21.75,
+  "immersion_depth_mm": null,
+  "known_NaCl_concentration": false,
+  "is_salinity_percent": false,
+  "complete_accuracy_validation": false
+}

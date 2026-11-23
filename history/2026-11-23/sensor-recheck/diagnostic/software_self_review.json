@@ -1,0 +1,32 @@
+{
+  "existing_acquisition_functions_unchanged": {
+    "releaseDrive": true,
+    "readChannels": true,
+    "weakPullCheck": true,
+    "checkDriveWiring": true,
+    "measurePhase": true,
+    "readTemperature": true,
+    "runMeasurement": true,
+    "differentialRead": true,
+    "differentialPhase": true,
+    "runDifferential": true,
+    "runFastDifferential": true,
+    "runTimingSweep": true
+  },
+  "firmware_diagnostic_addition": "c / electrical check only",
+  "confirmed_software_limitations": [
+    "Legacy preflight checks drive A2/A3; it does not establish A0/A1 sense integrity.",
+    "Sequential A0/A1 subtraction is not simultaneous differential voltage.",
+    "Absolute-value averaging and clipping hide sign and consistency warnings.",
+    "20ms pulse history has a large within-phase effect in the actual 2% record.",
+    "1k drive resistors are a starting/current-limiting choice, not salinity-range optimization validated by these data."
+  ],
+  "actual_new_evidence": "Dry A0/A1 track their drive nodes within0.001V for30phase records. Same0.6% water before and after dry check reproduces approximately-1V signed probe offset. Permanent dry-path failure is not observed; wet/loaded behavior requires isolation.",
+  "do_not_conclude": [
+    "Loose pin proved",
+    "ADS1115 broken",
+    "User immersion control caused the anomaly",
+    "Electrodes or entire head must be redesigned",
+    "Concentration accuracy validated"
+  ]
+}

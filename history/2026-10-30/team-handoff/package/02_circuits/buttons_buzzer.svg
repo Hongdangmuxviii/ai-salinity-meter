@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1200" height="470" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1200 470" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1200" height="470"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-470)" style="clip-path: url(#clip)">
+		<g transform="">
+			<text x="25" y="435" style="font-family: Malgun Gothic; font-size: 30px;fill: rgb(8%,18%,27%); stroke:none;" transform="translate(0,870) scale(1,-1)">버튼 1개 / 3회 반복</text>
+			<text x="720" y="435" style="font-family: Malgun Gothic; font-size: 30px;fill: rgb(8%,18%,27%); stroke:none;" transform="translate(0,870) scale(1,-1)">부저 1개</text>
+			<text x="50" y="280" style="font-family: Malgun Gothic; font-size: 24px;fill: rgb(13%,39%,62%); stroke:none;" transform="translate(0,560) scale(1,-1)">D6/7/8</text>
+			<path d="M 50,245 L 230,245 Z" style="stroke: rgb(13%,39%,62%); stroke-linecap: butt; stroke-width: 3;"/>
+			<circle cx="230" cy="245" r="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,39%,62%); fill-rule: evenodd;"/>
+			<path d="M 230,390 L 230,340.5 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 230,294.5 L 230,245 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<rect x="219" y="294.5" width="22" height="46.0" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="250" y="311.5" style="font-family: Malgun Gothic; font-size: 21px;fill: rgb(8%,18%,27%); stroke:none;" transform="translate(0,623) scale(1,-1)">10kΩ</text>
+			<text x="200" y="400" style="font-family: Malgun Gothic; font-size: 23px;fill: rgb(12%,49%,47%); stroke:none;" transform="translate(0,800) scale(1,-1)">3V3</text>
+			<path d="M 230,245 L 300,245 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 370,245 L 440,245 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<rect x="300.0" y="231" width="70.0" height="28" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="314.86376953125" y="277" style="font-family: Malgun Gothic; font-size: 22px;fill: rgb(8%,18%,27%); stroke:none;" transform="translate(0,554) scale(1,-1)">1kΩ</text>
+			<path d="M 440,245 L 470,245 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<circle cx="470" cy="245" r="5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,18%,27%); fill-rule: evenodd;"/>
+			<path d="M 470,257 L 525,300 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<circle cx="535" cy="245" r="5" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1; fill: rgb(8%,18%,27%); fill-rule: evenodd;"/>
+			<path d="M 535,245 L 575,245 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 575,245 L 575,180 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 575,180 L 575,166 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 559,166 L 591,166 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 565,158 L 585,158 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 571,150 L 579,150 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="410" y="335" style="font-family: Malgun Gothic; font-size: 23px;fill: rgb(8%,18%,27%); stroke:none;" transform="translate(0,670) scale(1,-1)">누르면 연결</text>
+			<text x="30" y="105" style="font-family: Malgun Gothic; font-size: 23px;fill: rgb(8%,18%,27%); stroke:none;" transform="translate(0,210) scale(1,-1)">4핀 버튼: 같은 접점군은 평소에도 연결됨.</text>
+			<text x="30" y="65" style="font-family: Malgun Gothic; font-size: 22px;fill: rgb(8%,18%,27%); stroke:none;" transform="translate(0,130) scale(1,-1)">다른 접점군에서 한 다리씩 사용. 멀티미터로 확인.</text>
+			<text x="715" y="280" style="font-family: Malgun Gothic; font-size: 24px;fill: rgb(13%,39%,62%); stroke:none;" transform="translate(0,560) scale(1,-1)">D9</text>
+			<path d="M 750,245 L 825,245 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 895,245 L 970,245 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<rect x="825.0" y="231" width="70.0" height="28" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="817.1708984375" y="277" style="font-family: Malgun Gothic; font-size: 22px;fill: rgb(8%,18%,27%); stroke:none;" transform="translate(0,554) scale(1,-1)">R15 1kΩ</text>
+			<path d="M 970,245 L 1110,245 Z" style="stroke: rgb(13%,39%,62%); stroke-linecap: butt; stroke-width: 3;"/>
+			<circle cx="1000" cy="245" r="5" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(13%,39%,62%); fill-rule: evenodd;"/>
+			<text x="1125" y="235" style="font-family: Malgun Gothic; font-size: 27px;fill: rgb(13%,39%,62%); stroke:none;" transform="translate(0,470) scale(1,-1)">S</text>
+			<path d="M 1000,245 L 1000,200.5 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 1000,154.5 L 1000,110 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<rect x="989" y="154.5" width="22" height="46.0" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="1020" y="171.5" style="font-family: Malgun Gothic; font-size: 21px;fill: rgb(8%,18%,27%); stroke:none;" transform="translate(0,343) scale(1,-1)">R16 10kΩ</text>
+			<path d="M 1000,110 L 1000,96 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 3;"/>
+			<path d="M 984,96 L 1016,96 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 990,88 L 1010,88 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 2;"/>
+			<path d="M 996,80 L 1004,80 Z" style="stroke: rgb(8%,18%,27%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="720" y="350" style="font-family: Malgun Gothic; font-size: 24px;fill: rgb(12%,49%,47%); stroke:none;" transform="translate(0,700) scale(1,-1)">ONE005: + → 3V3 / - → GND</text>
+			<text x="720" y="45" style="font-family: Malgun Gothic; font-size: 21px;fill: rgb(66%,16%,20%); stroke:none;" transform="translate(0,90) scale(1,-1)">S=HIGH일 때 울림. 부저 전원을 GPIO에서 공급하지 않음.</text>
+		</g>
+	</g>
+</svg>

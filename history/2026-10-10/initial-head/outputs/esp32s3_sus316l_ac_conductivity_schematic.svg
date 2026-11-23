@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<style>text{font-family:Arial,'Malgun Gothic',sans-serif;fill:#172033} .t{font-size:22px} .s{font-size:17px} .h{font-size:28px;font-weight:bold} .box{fill:#f5f8fc;stroke:#253858;stroke-width:3} .wire{fill:none;stroke:#172033;stroke-width:3} .sig{fill:none;stroke:#1769aa;stroke-width:4} .gnd{fill:none;stroke:#137a45;stroke-width:3} .warn{fill:#fff4db;stroke:#b05a00;stroke-width:2}</style>
+<rect width="1600" height="900" fill="white"/>
+<text x="55" y="55" class="h">ESP32-S3 + ADS1115: SUS316L 전극 2개 교번(AC) 임피던스 측정 — 브레드보드용</text>
+<text x="55" y="85" class="s">3.3 V 전용 · USB 전원만 사용 · 모든 GND 공통 · A/B는 물에 잠기는 SUS316L 전극</text>
+
+<rect x="65" y="220" width="270" height="340" rx="15" class="box"/><text x="105" y="260" class="h">ESP32-S3 보드</text>
+<text x="95" y="310" class="t">3V3</text><circle cx="335" cy="302" r="6" fill="#172033"/><text x="95" y="360" class="t">GND</text><circle cx="335" cy="352" r="6" fill="#172033"/>
+<text x="95" y="420" class="t">GPIO4 = DRV_A</text><circle cx="335" cy="412" r="6" fill="#172033"/>
+<text x="95" y="470" class="t">GPIO5 = DRV_B</text><circle cx="335" cy="462" r="6" fill="#172033"/>
+<text x="95" y="520" class="t">GPIO8 = SDA</text><circle cx="335" cy="512" r="6" fill="#172033"/>
+<text x="95" y="550" class="t">GPIO9 = SCL</text><circle cx="335" cy="542" r="6" fill="#172033"/>
+
+<rect x="650" y="180" width="270" height="220" rx="15" class="box"/><text x="700" y="220" class="h">ADS1115 모듈</text>
+<text x="680" y="265" class="t">VDD (3.3 V)</text><circle cx="650" cy="257" r="6" fill="#172033"/><text x="680" y="300" class="t">GND</text><circle cx="650" cy="292" r="6" fill="#172033"/>
+<text x="680" y="335" class="t">SDA / SCL</text><circle cx="650" cy="327" r="6" fill="#172033"/><circle cx="650" cy="350" r="6" fill="#172033"/>
+<text x="680" y="375" class="t">AIN0 (+), AIN1 (−)</text><circle cx="920" cy="367" r="6" fill="#172033"/><circle cx="920" cy="388" r="6" fill="#172033"/>
+
+<path d="M335 302 H610 V257 H650" class="sig"/><path d="M335 352 H600 V292 H650" class="gnd"/><path d="M335 512 H580 V327 H650" class="sig"/><path d="M335 542 H560 V350 H650" class="sig"/>
+<text x="395" y="285" class="s">3.3 V</text><text x="395" y="342" class="s">공통 GND</text>
+
+<path d="M335 412 H430" class="sig"/><rect x="430" y="392" width="105" height="40" fill="white" stroke="#172033" stroke-width="3"/><text x="443" y="419" class="s">4.7 kΩ</text><path d="M535 412 H1090" class="sig"/><circle cx="1090" cy="412" r="8" fill="#1769aa"/><text x="1015" y="395" class="t">노드 A</text>
+<path d="M335 462 H430" class="sig"/><rect x="430" y="442" width="105" height="40" fill="white" stroke="#172033" stroke-width="3"/><text x="443" y="469" class="s">4.7 kΩ</text><path d="M535 462 H1090" class="sig"/><circle cx="1090" cy="462" r="8" fill="#1769aa"/><text x="1015" y="495" class="t">노드 B</text>
+<path d="M1090 412 H1220" class="wire"/><path d="M1090 462 H1220" class="wire"/>
+<rect x="1220" y="350" width="220" height="175" rx="15" class="box"/><text x="1257" y="387" class="h">소금물 셀</text><path d="M1280 420 v55 M1370 420 v55" class="wire" stroke-width="9"/><text x="1240" y="505" class="s">SUS316L A / B</text>
+<path d="M920 367 H1010" class="sig"/><rect x="1010" y="347" width="78" height="40" fill="white" stroke="#172033" stroke-width="3"/><text x="1018" y="374" class="s">1 kΩ</text><path d="M1088 367 V412" class="sig"/>
+<path d="M920 388 H970 V462 H1010" class="sig"/><rect x="1010" y="442" width="78" height="40" fill="white" stroke="#172033" stroke-width="3"/><text x="1018" y="469" class="s">1 kΩ</text><path d="M1088 462 H1090" class="sig"/>
+<path d="M1090 412 V330 H1150 M1090 462 V545 H1150" class="wire"/><rect x="1150" y="290" width="235" height="75" rx="10" class="warn"/><text x="1170" y="320" class="t">보호: 각 노드에</text><text x="1170" y="348" class="s">Schottky 2개 → 3V3/GND</text><rect x="1150" y="535" width="235" height="50" rx="10" class="warn"/><text x="1170" y="567" class="s">100 pF: A–B 사이</text>
+<path d="M1090 412 H1108 M1090 462 H1108" class="wire"/><path d="M1108 412 V462" class="wire"/><text x="930" y="620" class="s">ADS1115는 AIN0−AIN1 차동 측정. PGA ±4.096 V, 860 SPS 권장.</text>
+
+<rect x="65" y="690" width="1370" height="145" rx="14" class="warn"/><text x="90" y="725" class="t">펌웨어 상태(반드시 지키십시오): ① 둘 다 INPUT(유휴) → ② GPIO4=HIGH, GPIO5=LOW, 2 ms 대기 후 2~3회 읽기 →</text><text x="90" y="755" class="t">③ 둘 다 INPUT 100 µs → ④ GPIO4=LOW, GPIO5=HIGH, 2 ms 대기 후 2~3회 읽기. 100~125 Hz/상(최대 4 ms/상)으로 반복.</text><text x="90" y="795" class="s">전극에는 절대로 5 V·DC 고정 전압·상용전원(220 V)을 연결하지 마십시오. 물은 전자회로에서 분리하고, 젖은 손으로 USB/배선을 만지지 마십시오.</text>
+</svg>

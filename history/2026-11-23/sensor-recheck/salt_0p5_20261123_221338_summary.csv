@@ -1,0 +1,4 @@
+"condition","trial","temperature_C","raw_response","forward_response","reverse_response","pair_min","pair_max"
+"salt_0p5","1","19.31","92.17","90.29","94.04","86.12","94.86"
+"salt_0p5","2","19.25","92.21","90.42","94","86.21","94.92"
+"salt_0p5","3","19.25","92.25","90.51","93.99","86.3","94.94"
