@@ -1,0 +1,23 @@
+{
+  "reason": "Pre-R7 D9 initialization binaries superseded by verified R7.1 rebuild",
+  "source_commit": "b47d2b11c8bd8585bde1b6142e4da37eba5b3c5b",
+  "replacement": "firmware/releases/R7.1-2026-11-24",
+  "files": [
+    {
+      "path": "firmware/releases/2026-11-24/SalinityMeterCalibrated.ino.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d48c5d134822f32de8e3510e2a6373ea311910a",
+      "size": 307280,
+      "url": "https://api.github.com/repos/Hongdangmuxviii/ai-salinity-meter/git/blobs/9d48c5d134822f32de8e3510e2a6373ea311910a"
+    },
+    {
+      "path": "firmware/releases/2026-11-24/SalinityMeterCalibrated.ino.merged.bin",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f765976725370c75e2e8e98df27581c8cb014a5c",
+      "size": 8388608,
+      "url": "https://api.github.com/repos/Hongdangmuxviii/ai-salinity-meter/git/blobs/f765976725370c75e2e8e98df27581c8cb014a5c"
+    }
+  ]
+}

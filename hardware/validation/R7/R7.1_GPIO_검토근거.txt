@@ -1,0 +1,4 @@
+ESP32 Arduino core3.3.12 official GPIO implementation:
+https://github.com/espressif/arduino-esp32/blob/3.3.12/cores/esp32/esp32-hal-gpio.c
+__digitalWrite calls gpio_set_level only if perimanGetPinBus(...ESP32_BUS_TYPE_GPIO) is registered. __pinMode registers the GPIO bus. R7.1 therefore sets OUTPUT before LOW.
+NW connector fit and DS18B20 pull-up preservation require inspection of the actual supplied parts, not only document checks.

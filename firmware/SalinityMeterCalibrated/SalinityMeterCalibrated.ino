@@ -558,9 +558,10 @@ void runCalibratedMeasurement() {
 }
 
 void setup() {
-  // R7: silence the active-HIGH buzzer after boot, before any peripheral setup.
-  digitalWrite(D9, LOW);
+  // R7.1: ESP32 core 3.3.12 requires GPIO registration before digitalWrite.
+  // Boot chirp is accepted; set the active-HIGH buzzer LOW before peripheral setup.
   pinMode(D9, OUTPUT);
+  digitalWrite(D9, LOW);
   releaseDrive();
   Serial.begin(115200);
   Wire.begin(5, 6);

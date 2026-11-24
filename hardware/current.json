@@ -18,5 +18,10 @@
   "cart_total_krw": 54411,
   "shipping": "separate; current UI selects quick delivery collect",
   "physical_tests": "not performed",
-  "production_enclosure_CAD": "not finalized"
+  "production_enclosure_CAD": "not finalized",
+  "patch": "R7.1",
+  "firmware_release": "firmware/releases/R7.1-2026-11-24",
+  "firmware_compile": "passed",
+  "firmware_upload": "not performed; no XIAO USB serial device connected",
+  "buzzer_initialization": "pinMode(D9, OUTPUT); digitalWrite(D9, LOW);"
 }

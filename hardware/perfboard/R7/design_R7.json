@@ -5544,5 +5544,16 @@
       "GJ2": "09-13, former C4 ground hole; bare solder junction, no component"
     }
   },
-  "firmware_change": "setup(): digitalWrite(D9, LOW) before pinMode(D9, OUTPUT); boot chirp accepted, normal idle silent. Measurement and calibration otherwise unchanged. Firmware compile/flash not performed in this environment."
+  "firmware_change": "setup(): pinMode(D9, OUTPUT) then digitalWrite(D9, LOW), before peripheral startup. ESP32 3.3.12 GPIO registration required. Boot chirp accepted; normal-idle active-HIGH buzzer commanded silent. Measurement/calibration otherwise unchanged. Actual upload and physical beep test NOT performed.",
+  "patch": "R7.1",
+  "assembly_addenda": {
+    "NW_factory_pigtail": "Before cutting or soldering, physically mate each supplied header/cable pair and check latch, pitch/pin count and per-pin continuity; vendor states manufacturer-dependent random connector appearance.",
+    "DS18B20": "Keep existing heat-shrinked internal 4.7k pull-up and splice section intact. Splice the new SM4 cable only at free wire outside that section."
+  },
+  "firmware_build": {
+    "patch": "R7.1",
+    "compile_success": true,
+    "metadata": "펌웨어_R7.1_빌드/build-info.json",
+    "device_upload": false
+  }
 }

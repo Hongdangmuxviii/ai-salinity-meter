@@ -2081,20 +2081,6 @@
       "category": "calibration_raw"
     },
     {
-      "repository_path": "firmware/releases/2026-11-24/SalinityMeterCalibrated.ino.bin",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.bin",
-      "bytes": 307280,
-      "sha256": "7d8e44a5b9c690d1617aace04cab7dc6d64a7bd8b15880c36947998637a6d2f1",
-      "category": "current_binary"
-    },
-    {
-      "repository_path": "firmware/releases/2026-11-24/SalinityMeterCalibrated.ino.merged.bin",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\build\\SalinityMeterCalibrated.ino.merged.bin",
-      "bytes": 8388608,
-      "sha256": "add8fe52aa56029cc092a412f156d545b93c5399d4db8d3466eb0704fdb1f2b0",
-      "category": "current_binary"
-    },
-    {
       "repository_path": "project-workspace/.ppt-build/AI_스마트염도계_아이디어발표.validation.json",
       "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\문서\\ChatGPT\\ai창업프로젝트\\.ppt-build\\AI_스마트염도계_아이디어발표.validation.json",
       "bytes": 3689,
@@ -2124,326 +2110,6 @@
       "category": "current_R6"
     },
     {
-      "repository_path": "hardware/perfboard/R7/design_R7.json",
-      "bytes": 116760,
-      "sha256": "7e933cfa1b8f9d00d2ec8a064ad13c7a1b3f314cbd6698cb0de145e4538b932e",
-      "git_blob_sha": "cd396c5b7940d32cfb240a1f3149c304129e80b9",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/R7_03_전극_ADC배선.png",
-      "bytes": 600879,
-      "sha256": "071feda1c19a2c4f9643486f9422abb882b427d727d3f489f8ea85f36c397a30",
-      "git_blob_sha": "2c83955aea5ba9487655d576570df609b4b6629a",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "parts/R7/08_장바구니대조_R7.csv",
-      "bytes": 4502,
-      "sha256": "46da841b132202e1125aa400df975950054f0003ae5a6b1624964b00654fa52f",
-      "git_blob_sha": "3fefdc7d868a3b80deade8d460b2dea2edd5ae7f",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/schematics/R7/05_정식회로도_조립사양_R7.pdf",
-      "bytes": 108023,
-      "sha256": "ea6177def0323c049a3b18e7a45b422543a2c60c79b46886a907796948679983",
-      "git_blob_sha": "fbd3033e7945f5be65dd90121bd86c4a552250a2",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "assembly/R7/R7_07_USB접근_조립단면.png",
-      "bytes": 286321,
-      "sha256": "d094acb9ab0520fd696c2bb78e793dd34377d9ad94116f0d6eaa62c55318460f",
-      "git_blob_sha": "8c54220cf15d4fe4a98ed342e30c5498ca3b9c5b",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/validation/R7/11_자료검사결과_R7.json",
-      "bytes": 201349,
-      "sha256": "0415d3dd53fa14fb9c42302ae0a5a6f76e97aa531fa959cd7043a8d0d2afcea3",
-      "git_blob_sha": "ec2d9f75119940314b7c6e80929c454cc5345fac",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "parts/R7/BOM_R7.csv",
-      "bytes": 7962,
-      "sha256": "37a2d645b743e8d30b90ee34832beb10a75b14cd2289a21a12b7f616dbb243f0",
-      "git_blob_sha": "c43a91b2c00359bb4cb433b568f159d81284f562",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/R7_02_전원배선.png",
-      "bytes": 634678,
-      "sha256": "dcb9b282e6751c04f914f89e7aa3c6240fd6fff03af6cf1a749f5ec3f8ba9c45",
-      "git_blob_sha": "9e0860515327e0ea43c100486371b8cd56d230c2",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/02_부품실장위치.csv",
-      "bytes": 486,
-      "sha256": "75f788cb6c578843d8d2aa01dd4d7e3088b8aee352e74bc151459393afed031e",
-      "git_blob_sha": "329ae0a8e6d02384fa4a2463d55c66cfe5ce95ec",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/07_전체전기연결표.csv",
-      "bytes": 1949,
-      "sha256": "bfaa3e3278fc6f6067e8a151111994fd56e4ebb734f7f18342dbe82ed9f64c30",
-      "git_blob_sha": "6a184158842d6a8bff3bd5fefce507713962d381",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "assembly/R7/09_실물검사기록_미실시.csv",
-      "bytes": 2885,
-      "sha256": "46ceb98181710bcfb5ae17b440451ad9f2fa333dcbeddb6fa172c30b14411de0",
-      "git_blob_sha": "95fc5d6a68678cc483403a73ee5dd0a609a7aa51",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/R7_01_전체실배선.png",
-      "bytes": 684047,
-      "sha256": "07687ad1b1456c448fecbf66657f28cef3e1f0111166224016a5df477b58bb47",
-      "git_blob_sha": "c3fea7069a363f31b191c77c37df2a8819d94cce",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/R7_04_통신_버튼_부저.png",
-      "bytes": 626731,
-      "sha256": "a40ce7c29ca10112099d4bc40d929fa63c76f2d8a976eb70d8a8dab72d7a5fcf",
-      "git_blob_sha": "74835a63eaabc73189edc7a6767cb0415fdd5927",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/validation/R7/SHA256SUMS.json",
-      "bytes": 3561,
-      "sha256": "88062952179ba9d7f96d7829c23b4a03718f451e3a241edb7efa98bdea41f2ff",
-      "git_blob_sha": "2c070358a6215d28da81972cb2782ceda85e9495",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/01_전체패드_구멍좌표.csv",
-      "bytes": 4308,
-      "sha256": "16ace021b1b991407858ae5911c5c8972e601eeae1a4b528d17aa6ba26302463",
-      "git_blob_sha": "de7575eebb9dbbc4c371ae0a96266f739efe286b",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/06_R6대비_변경.csv",
-      "bytes": 419,
-      "sha256": "313f8491e6e45bc61bf614410cfe4bba7d3eea886e372ccc0f30de8dc1eb30f9",
-      "git_blob_sha": "86dc19c7cc900766c22238fcc557fc609019fd64",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/harness/R7/R7_05_모듈양끝_결선.png",
-      "bytes": 379922,
-      "sha256": "4a952e218ad4119b352b6259b721c548524aaa6abc8a34305bfa0303f83e3e2b",
-      "git_blob_sha": "30a712f9d318459778dd743bfb473406e70c0e23",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/07_납땜면_전체배선_R7.png",
-      "bytes": 289657,
-      "sha256": "df6997caef100ef608c7097871b394496526afbf20b2a2847a6a2456ac5cea2c",
-      "git_blob_sha": "a1268be2277a52c64b811743aac5b138d6d622c3",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/validation/R7/10_규격확인출처.csv",
-      "bytes": 1689,
-      "sha256": "7ae10478853e6ae00a22b788a637af56b4d63735eb40beec79ca5c85210cfa07",
-      "git_blob_sha": "60a3e6d4796ba96dc16e127c5ff44ba3f9e50d40",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "assembly/R7/00_업체에_전달할_내용.txt",
-      "bytes": 4713,
-      "sha256": "4d3c1b348fd14ad56fc157166d4118396b7b25d1396fcc38a61c7d41a117ea88",
-      "git_blob_sha": "973ac7d5b545dcb09b8539d030023228aca9fea5",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/validation/R7/schematic_endpoint_check.json",
-      "bytes": 159,
-      "sha256": "e24e9f52c964d7e1d26717524eccaa5de2569dbb7f47d6a8a609140858d296b3",
-      "git_blob_sha": "67e30582ac11edbd3c48a5fb39480498152c2976",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/harness/R7/R7_06_센서봉_SM2_SM4_결선.png",
-      "bytes": 259572,
-      "sha256": "45a31334ca0718ef83c592021a3c1f0b71c7832f41219378703d236ad9083402",
-      "git_blob_sha": "189140cc872d65e14043866d489e334f2a0194a9",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/harness/R7/06_플러그핀맵_조립전달_R7.png",
-      "bytes": 301613,
-      "sha256": "3396ce0634a0aa47176cd6526b49122acdf7c16e26714e7a96adaccc8d400419",
-      "git_blob_sha": "534d85645f6e76123857b1e9af7a533c0f9a9cfd",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/03_기판배선_양끝좌표.csv",
-      "bytes": 9845,
-      "sha256": "c37818655fef45b6737e0eff5fe360f6cc45a402b01fd8624bdb27ae4640024c",
-      "git_blob_sha": "aff1cc70901520642813b23a8da3ff81950a146f",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/harness/R7/04_모듈하네스_핀대응.csv",
-      "bytes": 20316,
-      "sha256": "a3e40059ac74be90348d5dcee34ff9933eb8413ef5c2eb163bd5f0b89911c4bd",
-      "git_blob_sha": "9b099de8e385f539850f38f6dcb07fe934416b78",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/perfboard/R7/05_NET별연결.csv",
-      "bytes": 855,
-      "sha256": "044db43ed3557ba73e48b82a989aa61223b1b669379d3703e97d5ece1ae5ed70",
-      "git_blob_sha": "93ad6035ea836cacb5f6c8073088f7611e2323cf",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "parts/R7/08_구매목록_요약.txt",
-      "bytes": 3206,
-      "sha256": "ec8df1b1ece8995d33545e26d8d04b1748ab29fa25ab0d4243a08b53f4b37605",
-      "git_blob_sha": "c65d5eb9ff098fa8a0e775b3e75997777650689d",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/schematics/R7/images/회로도_R7-1.png",
-      "bytes": 326070,
-      "sha256": "fcbb5ae936eed9cd85d4120794d435ea8d74efaa92a25960ee1b63e418a49a0d",
-      "git_blob_sha": "2afe68237602a44e402e49216a4bd02f346c69f9",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/schematics/R7/images/회로도_R7-2.png",
-      "bytes": 262090,
-      "sha256": "ff62a59eec1892c5e73b02142f22c4559fe0ef3897171cf373ba97bab1df15b8",
-      "git_blob_sha": "2a40aa8d4f6015ae5dd73287ff772bfdbfe6dec2",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/schematics/R7/images/회로도_R7-3.png",
-      "bytes": 242281,
-      "sha256": "3b2ecbd7c42203023f55e3de1fa193b39b870695794cbde150acd020af4d3df5",
-      "git_blob_sha": "a48d81c2eae3a0b3f408378e663bccf72393abb0",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/schematics/R7/images/회로도_R7-4.png",
-      "bytes": 198245,
-      "sha256": "e86b0690b46be4b59b6d527174a8fbcb76208022cbd0fe49bbbfa620a971a20e",
-      "git_blob_sha": "74c3c78fc8fa39c6de5ee2752e287bbcdaee2399",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/schematics/R7/images/회로도_R7-5.png",
-      "bytes": 329884,
-      "sha256": "0c7369d48a90e22ff151b44a7f8cf18f9d44597e6ed71da904e14f9a12a5a804",
-      "git_blob_sha": "11ef6d46482184f17f477333101866eb707e83a1",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "firmware/SalinityMeterCalibrated/SalinityMeterCalibrated.ino",
-      "bytes": 23847,
-      "sha256": "65abf988078dbb951f6ed5eefe00868d8277a662ed9cd1d9ee25c2141800d74a",
-      "git_blob_sha": "73f37798d017f9fdef98e8298fd6448c343eab9e",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "README.md",
-      "bytes": 9891,
-      "sha256": "60bff60851eb5bac1f9687255332cb23b91cd79b581847c9b52b6799ed82ea01",
-      "git_blob_sha": "cd0ad8bb0bf9c1c89b2bda66ecd09eeb441e91ff",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/README.md",
-      "bytes": 435,
-      "sha256": "b8366e6050db7221e863a4dd7d6488db2ffdb292649859cf63a3ce4785961e3c",
-      "git_blob_sha": "b705d90f694ebd5e6ffdc9202ebee9ea46859af2",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "parts/README.md",
-      "bytes": 600,
-      "sha256": "28fbb4dcf09dd6fc98e3498a633c84bb1aabf004efa70aa5ea3fe0088cb4e1db",
-      "git_blob_sha": "f498ebcbf5c02c578944146c2853f0d6b01d255b",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "assembly/README.md",
-      "bytes": 679,
-      "sha256": "c9375122e22c285c1293f2aa75d32df6cc910b99c014f21da56f904c24acbfdb",
-      "git_blob_sha": "68b1c945b0506f00c1d82ca24af9b10458528655",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "assembly/R7/README.md",
-      "bytes": 519,
-      "sha256": "fc85439ac605d15d5c8b692959bd47ffbc386c367a85e2db97812d23408edd43",
-      "git_blob_sha": "67a760a4bfdb49b39f389554b2c64ef7bb307e4f",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "history/README.md",
-      "bytes": 555,
-      "sha256": "80fe6face92f1396b26c488b186837bbe31724c81d820376103a02f1d10c76fa",
-      "git_blob_sha": "e0d69fd7c11a288e84ec87d8d22a39cab567fb9d",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
-      "repository_path": "hardware/current.json",
-      "bytes": 674,
-      "sha256": "b14d8b0920e8f57bf9ba249c23c415b863bc42ac2007b1c150cefa2ce0ef7475",
-      "git_blob_sha": "b40069df5697bc5959c38070c340b3ce095e36fc",
-      "source": "R7 MVP revision 2026-11-24",
-      "category": "current_R7"
-    },
-    {
       "repository_path": "history/retired-assembly/retired_R6_2026-11-24.json",
       "bytes": 5118,
       "sha256": "5e4c470cde78cc6267d206d66048722647a3815950968cfa71fdcdd69cf296c6",
@@ -2452,11 +2118,411 @@
       "category": "current_R7"
     },
     {
+      "repository_path": "hardware/perfboard/R7/design_R7.json",
+      "bytes": 117442,
+      "sha256": "6dec8fdab0fda4289ca0025363e7a734dab7fea90e091b8635396c8fdf3c647b",
+      "git_blob_sha": "fc7ec3b72dba14fcc7996a1b33e274b8ff59f9ba",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/R7_03_전극_ADC배선.png",
+      "bytes": 600879,
+      "sha256": "071feda1c19a2c4f9643486f9422abb882b427d727d3f489f8ea85f36c397a30",
+      "git_blob_sha": "2c83955aea5ba9487655d576570df609b4b6629a",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "parts/R7/08_장바구니대조_R7.csv",
+      "bytes": 4502,
+      "sha256": "46da841b132202e1125aa400df975950054f0003ae5a6b1624964b00654fa52f",
+      "git_blob_sha": "3fefdc7d868a3b80deade8d460b2dea2edd5ae7f",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/schematics/R7/05_정식회로도_조립사양_R7.pdf",
+      "bytes": 108443,
+      "sha256": "833542257e97ca1b9e052e3d85684cd4d7ec5022f35e37c0514e8b705187d9ae",
+      "git_blob_sha": "c4cdf009e4cde5e86f1f3fcc712edb3051b0a4f7",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "assembly/R7/R7_07_USB접근_조립단면.png",
+      "bytes": 286321,
+      "sha256": "d094acb9ab0520fd696c2bb78e793dd34377d9ad94116f0d6eaa62c55318460f",
+      "git_blob_sha": "8c54220cf15d4fe4a98ed342e30c5498ca3b9c5b",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/validation/R7/11_자료검사결과_R7.json",
+      "bytes": 201593,
+      "sha256": "e636f237f4dfc17c2c47e3465be7579cc8962aa50e8c7bb5dc82e0abdb8b9d55",
+      "git_blob_sha": "87a6f383ef46baaff57113084109a0ac3c6bba58",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "parts/R7/BOM_R7.csv",
+      "bytes": 8432,
+      "sha256": "2700b3982b8e4a84def1b700e870ad689861002bb7718c45b870ef7fe67c0fce",
+      "git_blob_sha": "40bf23d6a8199509c25fafec313b4fe43017f2cf",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/R7_02_전원배선.png",
+      "bytes": 634678,
+      "sha256": "dcb9b282e6751c04f914f89e7aa3c6240fd6fff03af6cf1a749f5ec3f8ba9c45",
+      "git_blob_sha": "9e0860515327e0ea43c100486371b8cd56d230c2",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/02_부품실장위치.csv",
+      "bytes": 486,
+      "sha256": "75f788cb6c578843d8d2aa01dd4d7e3088b8aee352e74bc151459393afed031e",
+      "git_blob_sha": "329ae0a8e6d02384fa4a2463d55c66cfe5ce95ec",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/07_전체전기연결표.csv",
+      "bytes": 1949,
+      "sha256": "bfaa3e3278fc6f6067e8a151111994fd56e4ebb734f7f18342dbe82ed9f64c30",
+      "git_blob_sha": "6a184158842d6a8bff3bd5fefce507713962d381",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "assembly/R7/09_실물검사기록_미실시.csv",
+      "bytes": 3208,
+      "sha256": "925ed84bc283eaa7bafa6c00aad574da1a0cdc8021990cc0e52c4abc4b6b3c8e",
+      "git_blob_sha": "11061133f38d874b7baa61f33734b2be994479c4",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/R7_01_전체실배선.png",
+      "bytes": 684047,
+      "sha256": "07687ad1b1456c448fecbf66657f28cef3e1f0111166224016a5df477b58bb47",
+      "git_blob_sha": "c3fea7069a363f31b191c77c37df2a8819d94cce",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/R7_04_통신_버튼_부저.png",
+      "bytes": 626731,
+      "sha256": "a40ce7c29ca10112099d4bc40d929fa63c76f2d8a976eb70d8a8dab72d7a5fcf",
+      "git_blob_sha": "74835a63eaabc73189edc7a6767cb0415fdd5927",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/validation/R7/SHA256SUMS.json",
+      "bytes": 6525,
+      "sha256": "146a657c4574614aca9c69dbbe768152471ffd0d4017f5239bc889f72a32f2ca",
+      "git_blob_sha": "365b15b7d9f5b25d273f59d45c426ba9b79935fe",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/01_전체패드_구멍좌표.csv",
+      "bytes": 4308,
+      "sha256": "16ace021b1b991407858ae5911c5c8972e601eeae1a4b528d17aa6ba26302463",
+      "git_blob_sha": "de7575eebb9dbbc4c371ae0a96266f739efe286b",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/06_R6대비_변경.csv",
+      "bytes": 419,
+      "sha256": "313f8491e6e45bc61bf614410cfe4bba7d3eea886e372ccc0f30de8dc1eb30f9",
+      "git_blob_sha": "86dc19c7cc900766c22238fcc557fc609019fd64",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/harness/R7/R7_05_모듈양끝_결선.png",
+      "bytes": 384234,
+      "sha256": "322a1a5876075e90e749611c5313b9686bcd75a5637ed0a1ad93e707c4defed4",
+      "git_blob_sha": "ab27a76d75a83c0fc3a1b7ad6197b1705f71fab9",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/07_납땜면_전체배선_R7.png",
+      "bytes": 289657,
+      "sha256": "df6997caef100ef608c7097871b394496526afbf20b2a2847a6a2456ac5cea2c",
+      "git_blob_sha": "a1268be2277a52c64b811743aac5b138d6d622c3",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/validation/R7/10_규격확인출처.csv",
+      "bytes": 1689,
+      "sha256": "7ae10478853e6ae00a22b788a637af56b4d63735eb40beec79ca5c85210cfa07",
+      "git_blob_sha": "60a3e6d4796ba96dc16e127c5ff44ba3f9e50d40",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "assembly/R7/00_업체에_전달할_내용.txt",
+      "bytes": 5863,
+      "sha256": "6ff47475282fd8398851e1a899c86afd9033530d8e6aea91b9f075d724a65890",
+      "git_blob_sha": "753585c475db7004892c8cc670223b77e45474f3",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/validation/R7/schematic_endpoint_check.json",
+      "bytes": 159,
+      "sha256": "e24e9f52c964d7e1d26717524eccaa5de2569dbb7f47d6a8a609140858d296b3",
+      "git_blob_sha": "67e30582ac11edbd3c48a5fb39480498152c2976",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/harness/R7/R7_06_센서봉_SM2_SM4_결선.png",
+      "bytes": 265582,
+      "sha256": "3de7ba52b598c1db9cbd9e810ce374b1032f57511fda881cca8f40da91f246ac",
+      "git_blob_sha": "661331e119f478ee24bae85735e730872b397517",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/harness/R7/06_플러그핀맵_조립전달_R7.png",
+      "bytes": 301613,
+      "sha256": "3396ce0634a0aa47176cd6526b49122acdf7c16e26714e7a96adaccc8d400419",
+      "git_blob_sha": "534d85645f6e76123857b1e9af7a533c0f9a9cfd",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/03_기판배선_양끝좌표.csv",
+      "bytes": 9845,
+      "sha256": "c37818655fef45b6737e0eff5fe360f6cc45a402b01fd8624bdb27ae4640024c",
+      "git_blob_sha": "aff1cc70901520642813b23a8da3ff81950a146f",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/harness/R7/04_모듈하네스_핀대응.csv",
+      "bytes": 20316,
+      "sha256": "a3e40059ac74be90348d5dcee34ff9933eb8413ef5c2eb163bd5f0b89911c4bd",
+      "git_blob_sha": "9b099de8e385f539850f38f6dcb07fe934416b78",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/perfboard/R7/05_NET별연결.csv",
+      "bytes": 855,
+      "sha256": "044db43ed3557ba73e48b82a989aa61223b1b669379d3703e97d5ece1ae5ed70",
+      "git_blob_sha": "93ad6035ea836cacb5f6c8073088f7611e2323cf",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "parts/R7/08_구매목록_요약.txt",
+      "bytes": 3206,
+      "sha256": "ec8df1b1ece8995d33545e26d8d04b1748ab29fa25ab0d4243a08b53f4b37605",
+      "git_blob_sha": "c65d5eb9ff098fa8a0e775b3e75997777650689d",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/schematics/R7/images/회로도_R7-1.png",
+      "bytes": 326070,
+      "sha256": "fcbb5ae936eed9cd85d4120794d435ea8d74efaa92a25960ee1b63e418a49a0d",
+      "git_blob_sha": "2afe68237602a44e402e49216a4bd02f346c69f9",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/schematics/R7/images/회로도_R7-2.png",
+      "bytes": 262090,
+      "sha256": "ff62a59eec1892c5e73b02142f22c4559fe0ef3897171cf373ba97bab1df15b8",
+      "git_blob_sha": "2a40aa8d4f6015ae5dd73287ff772bfdbfe6dec2",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/schematics/R7/images/회로도_R7-3.png",
+      "bytes": 245254,
+      "sha256": "c96678b55a219730a82079af26cc254c6911b7296ece69a3cf951708d717b991",
+      "git_blob_sha": "2a001f5b71aa9366242639a42f1405aa8cf895d3",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/schematics/R7/images/회로도_R7-4.png",
+      "bytes": 198245,
+      "sha256": "e86b0690b46be4b59b6d527174a8fbcb76208022cbd0fe49bbbfa620a971a20e",
+      "git_blob_sha": "74c3c78fc8fa39c6de5ee2752e287bbcdaee2399",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/schematics/R7/images/회로도_R7-5.png",
+      "bytes": 331418,
+      "sha256": "7f25bf1486534bd8f59355061f689a5e3f6a851b2c2d67cd2ef37c14110cbef3",
+      "git_blob_sha": "fcc64467e32875216cf7bd28a74923b4f470dcc4",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterCalibrated/SalinityMeterCalibrated.ino",
+      "bytes": 23928,
+      "sha256": "46add6d58ff13d9c315af6886d00719ebf39d02ebf3d374526d40b3c0a08328e",
+      "git_blob_sha": "f2fb8e23a00e51634f7081cef2173a331fddb98a",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "firmware/releases/R7.1-2026-11-24/build-info.json",
+      "bytes": 1802,
+      "sha256": "6abf060bf32937f58186cc0a1194c09517bed2d610a402620461065d14556d26",
+      "git_blob_sha": "0a2b360f47875dbe2ec6b8828313415377a0216e",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "firmware/releases/R7.1-2026-11-24/SalinityMeterCalibrated.ino.merged.bin",
+      "bytes": 8388608,
+      "sha256": "82807d7342e46d23d0fa457c41103c59ba5af084b16905d93094c41b20c8cb59",
+      "git_blob_sha": "b1160a77961405255ac80ee333dd4d1a062d0f09",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "firmware/releases/R7.1-2026-11-24/image-info.txt",
+      "bytes": 1498,
+      "sha256": "2febbd7aa6af66a4153cf1f449b059251d67c48ec632148794fba4615f466b0c",
+      "git_blob_sha": "33452e43704e827cb909d67f8437531c9321ef2f",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "firmware/releases/R7.1-2026-11-24/SalinityMeterCalibrated.ino.bin",
+      "bytes": 307376,
+      "sha256": "2e4d2e26f568ede83b08dddf1f1730de28ae13d43388261683035da4be6e9445",
+      "git_blob_sha": "72fe5941940883b70fa3929604210562274edd69",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "firmware/releases/R7.1-2026-11-24/compile.log",
+      "bytes": 812,
+      "sha256": "5efb18e71f999e8fdf900659e9378826f663feb11153a3a9b8d09417650f7933",
+      "git_blob_sha": "0a8bb4ec95f2c259f9dbd54995d95b4ce71727d7",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "firmware/releases/R7.1-2026-11-24/README.txt",
+      "bytes": 2250,
+      "sha256": "2a6f7eff8b628a68356b1195f452b94f22fca6d262ba4050b770c03be1700eab",
+      "git_blob_sha": "c11de531d62a5d21b0429b43bc8548cedabb073e",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "firmware/releases/R7.1-2026-11-24/SalinityMeterCalibrated/SalinityMeterCalibrated.ino",
+      "bytes": 23928,
+      "sha256": "46add6d58ff13d9c315af6886d00719ebf39d02ebf3d374526d40b3c0a08328e",
+      "git_blob_sha": "f2fb8e23a00e51634f7081cef2173a331fddb98a",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "firmware/releases/R7.1-2026-11-24/SalinityMeterCalibrated/CalibrationTable.h",
+      "bytes": 573,
+      "sha256": "abd2edfc2fa8d8a9a2829871687b4d48b38fe73484689573221a5090764229cd",
+      "git_blob_sha": "e4fe06aa0bfcb8170a0e6eb421aa8de2ffe6ac29",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "README.md",
+      "bytes": 10686,
+      "sha256": "75b22e4633e190752ad3fc7684fb3d077d713d0994054f938cd5cc88ac0bb8b2",
+      "git_blob_sha": "b2f804ce2daf71b7f46f637d4ad4866e6f6f2ea8",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/README.md",
+      "bytes": 561,
+      "sha256": "971478c875f4beef53290524c747feb25c354c0d23948bc5060cac5024903c06",
+      "git_blob_sha": "4fe43d0897e3d9e28bfaea8509268dd668311409",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "parts/README.md",
+      "bytes": 760,
+      "sha256": "b4c49926d1e3608098234365669a20444afa902518b3b4752014bb950422e23a",
+      "git_blob_sha": "22d6f75ff2b4723cd0c757f6803742ae5e2040cf",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "assembly/README.md",
+      "bytes": 974,
+      "sha256": "698add1831dcc45e2a3b48a9722c3b67cb174f4df39a59e7e686fb1724f9e29b",
+      "git_blob_sha": "68ee5b96781a132c59275cb6826a03d77ea14ff7",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "assembly/R7/README.md",
+      "bytes": 814,
+      "sha256": "9f33ab7495cc5ab8a52cf5abd72ee18c6fdbb74827e1a05652034390454e66a3",
+      "git_blob_sha": "08a54c18c3faf353204c68311954803460e9c97f",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "history/README.md",
+      "bytes": 555,
+      "sha256": "80fe6face92f1396b26c488b186837bbe31724c81d820376103a02f1d10c76fa",
+      "git_blob_sha": "e0d69fd7c11a288e84ec87d8d22a39cab567fb9d",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
       "repository_path": "tools/verify_manifest.py",
       "bytes": 695,
       "sha256": "107dacb606bf328d57138027c5212f3e5963cbcec42b198ed198aadd22634107",
       "git_blob_sha": "334ef0c468ada4aae796f86852a255725961f47a",
-      "source": "R7 MVP revision 2026-11-24",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/current.json",
+      "bytes": 933,
+      "sha256": "f4815c257221bec1eaee606807957c7088daabd59b6bfd4b01a330f8898b9c05",
+      "git_blob_sha": "0664f3d1eb458e788c9a1eaf7fed79bda7bcab65",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "history/retired-assembly/retired_firmware_pre_R7.1_2026-11-24.json",
+      "bytes": 919,
+      "sha256": "196cac204b7057efe7d7af894329fa666a5fe373fe0c694f630aeb29bd3a8ae6",
+      "git_blob_sha": "9289cfb80b55c26b41664985a1516c70567d2657",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "category": "current_R7"
+    },
+    {
+      "repository_path": "hardware/validation/R7/R7.1_GPIO_검토근거.txt",
+      "bytes": 437,
+      "sha256": "bb740f28ccc32b9284378a115f52777321380d10454c58cf11d75e7a6e0c6835",
+      "git_blob_sha": "c3014a573d80f566e6ac803f3b6c1304c9ef331b",
+      "source": "R7.1 firmware and assembly addendum 2026-11-24",
       "category": "current_R7"
     }
   ],
@@ -2625,7 +2691,7 @@
   "unavailable_sources": [
     "C:\\Users\\Yeon\\AppData\\Local\\Temp\\codex-clipboard-ae225f1f-7586-48cb-9a0e-c31108e14001.png"
   ],
-  "note": "R7 MVP; measurement/calibration unchanged; actual hardware tests not performed",
+  "note": "ESP32 core3.3.12 actual firmware build passed. Measurement/calibration and 99pads/71wires preserved. Device upload/physical tests not performed.",
   "revision": "R7",
   "updated_date": "2026-11-24",
   "retired_assembly_files": 115,
@@ -2694,5 +2760,10 @@
     "hardware/validation/R6/schematic_endpoint_check.json",
     "parts/R6/08_장바구니대조_R6.csv",
     "parts/R6/BOM_R6.csv"
+  ],
+  "patch": "R7.1",
+  "retired_pre_R71_binaries": [
+    "firmware/releases/2026-11-24/SalinityMeterCalibrated.ino.bin",
+    "firmware/releases/2026-11-24/SalinityMeterCalibrated.ino.merged.bin"
   ]
 }

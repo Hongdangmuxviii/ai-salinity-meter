@@ -1,0 +1,52 @@
+{
+  "revision": "R7.1",
+  "assembly_revision": "R7",
+  "built_at_utc": "2026-11-24T05:51:32.050623+00:00",
+  "compile_success": true,
+  "source_basis_commit": "b47d2b11c8bd8585bde1b6142e4da37eba5b3c5b",
+  "fqbn": "esp32:esp32:XIAO_ESP32S3:USBMode=hwcdc,CDCOnBoot=default",
+  "arduino_cli": "1.6.0",
+  "esp32_core": "3.3.12",
+  "libraries": {
+    "Adafruit ADS1X15": "2.6.2",
+    "Adafruit BusIO": "1.17.4",
+    "OneWire": "2.3.8",
+    "DallasTemperature": "4.0.5"
+  },
+  "host": "macOS x86_64",
+  "program_bytes": 307229,
+  "program_max_bytes": 3342336,
+  "global_ram_bytes": 23368,
+  "source_sha256": "46add6d58ff13d9c315af6886d00719ebf39d02ebf3d374526d40b3c0a08328e",
+  "calibration_sha256": "abd2edfc2fa8d8a9a2829871687b4d48b38fe73484689573221a5090764229cd",
+  "measurement_code_change": "None except D9 initialization pinMode OUTPUT before digitalWrite LOW; comments clarified",
+  "buzzer_init_order": [
+    "pinMode(D9, OUTPUT)",
+    "digitalWrite(D9, LOW)"
+  ],
+  "sd_init": false,
+  "battery_display": false,
+  "device_upload": false,
+  "physical_buzzer_charge_usb_tests": false,
+  "detected_ports": [
+    "/dev/cu.BLTH",
+    "/dev/cu.Bluetooth-Incoming-Port"
+  ],
+  "warnings": [
+    "OneWire 2.3.8 upstream OneWire.cpp lines599/600: extra tokens at end of #undef directive; 2 warnings, compilation succeeds; library unchanged"
+  ],
+  "files": {
+    "SalinityMeterCalibrated.ino.merged.bin": {
+      "bytes": 8388608,
+      "sha256": "82807d7342e46d23d0fa457c41103c59ba5af084b16905d93094c41b20c8cb59"
+    },
+    "SalinityMeterCalibrated.ino.bin": {
+      "bytes": 307376,
+      "sha256": "2e4d2e26f568ede83b08dddf1f1730de28ae13d43388261683035da4be6e9445"
+    }
+  },
+  "app_offset": "0x10000",
+  "merged_offset": "0x0",
+  "merged_flash_size_bytes": 8388608,
+  "merged_contains_exact_app": true
+}

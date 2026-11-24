@@ -1,0 +1,8 @@
+/Users/mac/Documents/Codex/2026-11-20/referenced-chatgpt-conversation-this-is-an/work/r71/toolchain/user/libraries/OneWire/OneWire.cpp:599:22: warning: extra tokens at end of #undef directive
+  599 | #  undef noInterrupts() {portMUX_TYPE mux = portMUX_INITIALIZER_UNLOCKED;portENTER_CRITICAL(&mux)
+      |                      ^
+/Users/mac/Documents/Codex/2026-11-20/referenced-chatgpt-conversation-this-is-an/work/r71/toolchain/user/libraries/OneWire/OneWire.cpp:600:20: warning: extra tokens at end of #undef directive
+  600 | #  undef interrupts() portEXIT_CRITICAL(&mux);}
+      |                    ^
+Sketch uses 307229 bytes (9%) of program storage space. Maximum is 3342336 bytes.
+Global variables use 23368 bytes (7%) of dynamic memory, leaving 304312 bytes for local variables. Maximum is 327680 bytes.

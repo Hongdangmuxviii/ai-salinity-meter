@@ -9,7 +9,7 @@
   "physical_tests": "NOT PERFORMED",
   "enclosure": "Production enclosure CAD not finalized; closed-case USB/charge/upload not physically tested",
   "geometry_scope": "Allocated component bodies, pad centerline routes and <=6.5mm fasteners. AWG24 insulation OD, solder/wire height and actual case clearance require physical assembly checks.",
-  "firmware": "D9 LOW output initialization added before peripheral startup; measurement/calibration otherwise unchanged; no battery feature originally implemented; compile and flash NOT performed here",
+  "firmware": "D9 LOW output initialization added before peripheral startup; measurement/calibration otherwise unchanged; no battery feature originally implemented; build status recorded in firmware release metadata; device upload and physical beep test NOT performed",
   "cart_total_krw": 54411,
   "results": [
     {
@@ -9903,7 +9903,7 @@
       "detail": ""
     },
     {
-      "check": "D9 latch LOW before OUTPUT and peripheral init",
+      "check": "D9 GPIO OUTPUT before LOW and peripheral init",
       "result": "PASS",
       "detail": ""
     },
@@ -10422,5 +10422,8 @@
       "result": "PASS",
       "detail": ""
     }
-  ]
+  ],
+  "patch": "R7.1",
+  "firmware_compile": "PASS, ESP32 Arduino core3.3.12, CLI1.6.0; see build-info.json",
+  "device_upload": "NOT PERFORMED: no XIAO USB serial device connected"
 }
