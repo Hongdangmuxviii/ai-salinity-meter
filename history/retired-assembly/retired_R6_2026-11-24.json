@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-24",
+  "basis_commit": "b5e32d3af1f71467370857f7dec3aa6c547d4eaa",
+  "replacement": "R7",
+  "reason": "MVP omits battery display/divider; no Sense rework; factory precrimp pigtails and SM2+SM4; AWG24 loose wiring",
+  "files": [
+    {
+      "path": "assembly/R6/00_업체에_전달할_내용.txt",
+      "git_blob_sha": "788e42798770a1e3bb55bdd60e000d2e96a1ecc1"
+    },
+    {
+      "path": "assembly/R6/09_실물검사기록_미실시.csv",
+      "git_blob_sha": "ecb1b8fd9101a4f07f7f2e94ec241d82b0ef494c"
+    },
+    {
+      "path": "assembly/R6/R6_07_USB접근_조립단면.png",
+      "git_blob_sha": "8ab08e2538089a751acce856d563918e9b45d45b"
+    },
+    {
+      "path": "assembly/R6/README.md",
+      "git_blob_sha": "f1d9026c2ff922d1db251c26e9f182de024230da"
+    },
+    {
+      "path": "hardware/harness/R6/04_모듈하네스_핀대응.csv",
+      "git_blob_sha": "67bfa846fd24fb8eea5503dde76d38d99f10b788"
+    },
+    {
+      "path": "hardware/harness/R6/06_플러그핀맵_조립전달_R6.png",
+      "git_blob_sha": "ec9d1e72903e7dda9acac59de2aff82cf7ca19d9"
+    },
+    {
+      "path": "hardware/harness/R6/R6_05_모듈양끝_결선.png",
+      "git_blob_sha": "28398b7d51539addeaeff5521a137cedf707d669"
+    },
+    {
+      "path": "hardware/perfboard/R6/01_전체패드_구멍좌표.csv",
+      "git_blob_sha": "a811f772d76403e4a0deec5566c5ed29ee3a8df0"
+    },
+    {
+      "path": "hardware/perfboard/R6/02_부품실장위치.csv",
+      "git_blob_sha": "1ed1a7febf12b0a2464d87c3807d48634739e00d"
+    },
+    {
+      "path": "hardware/perfboard/R6/03_기판배선_양끝좌표.csv",
+      "git_blob_sha": "f8634e167b8c50239507f2ee2a0f1c760b15a4bd"
+    },
+    {
+      "path": "hardware/perfboard/R6/05_NET별연결.csv",
+      "git_blob_sha": "52a538198e1ddf9f289fa373d7d2bbb621964629"
+    },
+    {
+      "path": "hardware/perfboard/R6/07_납땜면_전체배선_R6.png",
+      "git_blob_sha": "eb90d8753192c821fb99a07a3e41c61af5683690"
+    },
+    {
+      "path": "hardware/perfboard/R6/07_전체전기연결표.csv",
+      "git_blob_sha": "a956f12accae166ec51ad63216bb4a732892d430"
+    },
+    {
+      "path": "hardware/perfboard/R6/R6_01_전체실배선.png",
+      "git_blob_sha": "db8264e2332f6608dfa209afe4c102bbfc6812f8"
+    },
+    {
+      "path": "hardware/perfboard/R6/R6_02_전원배선.png",
+      "git_blob_sha": "58dee03ed0e6a21b330ed4c6adddf375dac27a6c"
+    },
+    {
+      "path": "hardware/perfboard/R6/R6_03_전극_ADC배선.png",
+      "git_blob_sha": "c9e4e94017f1804605933dac6d806a3dd6c2c0ee"
+    },
+    {
+      "path": "hardware/perfboard/R6/R6_04_통신_버튼_부저.png",
+      "git_blob_sha": "fceb981fe0d8f89d6e4e21d94ef43e1c8b46f33e"
+    },
+    {
+      "path": "hardware/perfboard/R6/design_R6.json",
+      "git_blob_sha": "adbb7bf1d481e77581fae2e88ced03f43b9abd56"
+    },
+    {
+      "path": "hardware/schematics/R6/05_정식회로도_조립사양_R6.pdf",
+      "git_blob_sha": "2f96cfa7229b966b61a39291896cb000752d889e"
+    },
+    {
+      "path": "hardware/schematics/R6/images/회로도_R6-1.png",
+      "git_blob_sha": "d80fa42e223b7b6b9257d1a68da5e10bd1411e5f"
+    },
+    {
+      "path": "hardware/schematics/R6/images/회로도_R6-2.png",
+      "git_blob_sha": "d31dec3b185b369a9ebd5cdc1f9b82aa938c2c50"
+    },
+    {
+      "path": "hardware/schematics/R6/images/회로도_R6-3.png",
+      "git_blob_sha": "d38693e5f56c4e1176a08c8f9c39163ee0a0ee22"
+    },
+    {
+      "path": "hardware/schematics/R6/images/회로도_R6-4.png",
+      "git_blob_sha": "3be2cb54d08b3e67abfe2f91a609f16c5db5a6d3"
+    },
+    {
+      "path": "hardware/schematics/R6/images/회로도_R6-5.png",
+      "git_blob_sha": "f7b25ba6e18871e65aee779db0c4a003985ac8c2"
+    },
+    {
+      "path": "hardware/schematics/R6/images/회로도_R6-6.png",
+      "git_blob_sha": "822bb98434e991558545448b652277d3752090ad"
+    },
+    {
+      "path": "hardware/validation/R6/06_R4P2대비_위치변경.csv",
+      "git_blob_sha": "cee26ae6e50f69f656a8f82cfef0c911c73f9d9e"
+    },
+    {
+      "path": "hardware/validation/R6/10_규격확인출처.csv",
+      "git_blob_sha": "10902739247276068e8b4ccb50d78d8bf4996a5b"
+    },
+    {
+      "path": "hardware/validation/R6/11_자료검사결과_R6.json",
+      "git_blob_sha": "3023b89462a943a090a2f9edf85af1e2f353eca4"
+    },
+    {
+      "path": "hardware/validation/R6/12_외부접속_추가검사.json",
+      "git_blob_sha": "17267650eaccd8453f74bc824b9623afdd231bb1"
+    },
+    {
+      "path": "hardware/validation/R6/R6_06_Sense_SD풀업_수정.png",
+      "git_blob_sha": "fbf11a00149195c4c1f3aa2351278894d3a2ca22"
+    },
+    {
+      "path": "hardware/validation/R6/SHA256SUMS.json",
+      "git_blob_sha": "3eb18c86251d0e4825d734ee448162961fc6a11b"
+    },
+    {
+      "path": "hardware/validation/R6/schematic_endpoint_check.json",
+      "git_blob_sha": "5a9c368518692c9876ce38d81aa9200dc1b7026e"
+    },
+    {
+      "path": "parts/R6/08_장바구니대조_R6.csv",
+      "git_blob_sha": "3537e9aeb26a2085ccd59da9b2f1747c5c1e01af"
+    },
+    {
+      "path": "parts/R6/BOM_R6.csv",
+      "git_blob_sha": "62455565d9151b7a39a7070ad694585245590b26"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "revision": "R7",
+  "mainboard_endpoints": 99,
+  "external_endpoints": 50,
+  "all_mainboard_endpoints_same_net": true,
+  "hardware_test": "not performed"
+}

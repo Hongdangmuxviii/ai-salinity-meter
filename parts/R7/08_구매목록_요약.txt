@@ -1,0 +1,52 @@
+R7 구매목록 / 2026-11-24
+장바구니23종: 상품49,465원+VAT4,946원=54,411원. 배송비 별도: 현재 장바구니는 퀵(착불) 선택으로 0원이 표시됩니다. 주문 전 배송방식·실제 배송비 확인. 납기표시1~4영업일은 실재고/당일출고 보장이 아님.
+추가 필요 부품 없음: 현재 보유 모듈·버튼·배터리 제공 및 외함/프레임 제작 전제. 소모품 여분 수량 유지.
+R17/R18 10k2개,C4 100nF1개는 실장 생략하지만 구매20개/10개는 여분 포함 유지.
+수동 압착 하우징/단자/압착공구,AWG26 전선롤,Gravity 케이블,추가 충전보드는 구매하지 않음.
+
+테스트[CH254]소켓 점퍼 케이블 40P (칼라) (F/F) × 1 / 15심 사용
+https://www.devicemart.co.kr/goods/view?no=32284
+케이블타이/100mm/흑색/100개입 × 1 / 100개입1봉
+https://www.devicemart.co.kr/goods/view?no=14883168
+JST SH1.0-4핀 점퍼케이블 (암) × 1 / 1개
+https://www.devicemart.co.kr/goods/view?no=15240937
+케이블타이마운트/양면접착/전선고정/18*18/50개입/CB × 1 / 50개입1봉
+https://www.devicemart.co.kr/goods/view?no=14889234
+PCB 플라스틱 서포트 키트 M3 [NT-KIT-E018] × 1 / 1키트 유지
+https://www.devicemart.co.kr/goods/view?no=1323561
+PCB 플라스틱 서포트 키트 M2 [NT-KIT-E017] × 1 / 1키트 유지
+https://www.devicemart.co.kr/goods/view?no=1323562
+1/4W 1% Axial Resistor 102F (1KΩ) × 10 / 1kΩ 6개 실장+시험부하1개
+https://www.devicemart.co.kr/goods/view?no=2014
+1/4W 1% Axial Resistor 103F (10KΩ) × 20 / 10kΩ 10개 실장
+https://www.devicemart.co.kr/goods/view?no=2034
+Ceramic 0.1㎌, 50V × 10 / 100nF 3개 실장
+https://www.devicemart.co.kr/goods/view?no=1343
+E/C 25V 100uF (105℃)/6.3X11 × 10 / 100uF 1개 실장
+https://www.devicemart.co.kr/goods/view?no=29527
+NW-A2510-4A (4핀) × 6 / 4핀6개
+https://www.devicemart.co.kr/goods/view?no=1357821
+NW-A2510-3A (3핀) × 3 / 3핀3개
+https://www.devicemart.co.kr/goods/view?no=1357820
+NW-A2510-2A (2핀) × 3 / 2핀3개
+https://www.devicemart.co.kr/goods/view?no=1357819
+53047-02 × 1 / 1개
+https://www.devicemart.co.kr/goods/view?no=9042
+만능기판 큰 홀(1.2mm) 100*100 [SMEBGD1010] × 1 / 1장
+https://www.devicemart.co.kr/goods/view?no=1377099
+열수축튜브 종합키트(대) × 1 / 1키트
+https://www.devicemart.co.kr/goods/view?no=12857
+하네스 케이블 커넥터 4핀 [NW3-5051-04] × 6 / 4핀6개
+https://www.devicemart.co.kr/goods/view?no=10894387
+하네스 케이블 커넥터 3핀 [NW3-5051-03] × 3 / 3핀3개
+https://www.devicemart.co.kr/goods/view?no=10894386
+하네스 케이블 커넥터 2핀 [NW3-5051-02] × 3 / 2핀3개
+https://www.devicemart.co.kr/goods/view?no=10894385
+극세선 내열 난연성 전선 (배선용) [UL-AWG24] × 1 / AWG24 검정 20m 1롤
+https://www.devicemart.co.kr/goods/view?no=14602
+하네스 커넥터 SM 4핀-4핀 케이블 × 1 / SM4 암수 완성1쌍
+https://www.devicemart.co.kr/goods/view?no=1342792
+하네스 커넥터 SM 2핀-2핀 케이블 × 1 / SM2 암수 완성1쌍
+https://www.devicemart.co.kr/goods/view?no=1342790
+핀헤더 Single 1x40Pin Straight(2.54mm) × 1 / 최대18핀
+https://www.devicemart.co.kr/goods/view?no=2825

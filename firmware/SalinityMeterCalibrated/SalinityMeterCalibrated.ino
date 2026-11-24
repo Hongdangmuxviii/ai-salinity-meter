@@ -1,7 +1,8 @@
 // Head response test. Send 'm' over USB to measure five polarity pairs.
-// R6: D0/D1 drive E1/E2 via R1/R2; J7.1..4 -> ADS A0:A..A3:A.
-// Use R6 hole/harness CSVs; old breadboard coordinates are obsolete.
-// Sense SD pull-up isolation is required; removing the SD card alone is insufficient.
+// R7 MVP: D0/D1 -> R1/R2 -> E1/E2; J7 -> ADS A0:A..A3:A.
+// Battery display omitted; D10 unwired. Sense resistors/J3 remain intact.
+// SD/shared SPI unused. Boot buzzer chirp is acceptable.
+// USB-C charging uses the onboard charger; battery ADC is not used.
 #include <Wire.h>
 #include <Adafruit_ADS1X15.h>
 #include <OneWire.h>
@@ -557,6 +558,9 @@ void runCalibratedMeasurement() {
 }
 
 void setup() {
+  // R7: silence the active-HIGH buzzer after boot, before any peripheral setup.
+  digitalWrite(D9, LOW);
+  pinMode(D9, OUTPUT);
   releaseDrive();
   Serial.begin(115200);
   Wire.begin(5, 6);
