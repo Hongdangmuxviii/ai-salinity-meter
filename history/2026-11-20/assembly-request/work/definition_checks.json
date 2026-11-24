@@ -1,9 +1,0 @@
-{
-  "pages": 6,
-  "nets": 23,
-  "connected_pin_endpoints": 101,
-  "external_resistors": 16,
-  "external_capacitors": 3,
-  "duplicate_pin_assignments": 0,
-  "firmware_sha256": "e89b12235f6a752c81dc8aea52b879ab7709e6fe020f7f37e38655d69ace6f28"
-}

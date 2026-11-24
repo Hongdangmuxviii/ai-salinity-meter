@@ -1,0 +1,13 @@
+{
+  "revision": "R5",
+  "date": "2026-11-24",
+  "schematics": "hardware/schematics/R5",
+  "perfboard": "hardware/perfboard/R5",
+  "harness": "hardware/harness/R5",
+  "validation": "hardware/validation/R5",
+  "parts": "parts/R5",
+  "assembly": "assembly/R5",
+  "firmware": "firmware/SalinityMeterCalibrated",
+  "physical_tests": "not performed",
+  "production_enclosure_CAD": "not finalized"
+}

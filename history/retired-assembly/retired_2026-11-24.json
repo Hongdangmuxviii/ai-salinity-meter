@@ -1,0 +1,584 @@
+{
+  "retired_date": "2026-11-24",
+  "replacement": "R5",
+  "previous_commit": "19cff9927a79a1940cea21a5b8552e5fbfd756d2",
+  "reason": "Superseded circuit, perfboard, BOM and assembly handoff materials; use hardware, parts and assembly R5.",
+  "deletion_kind": "removed from current tree; retained in Git history",
+  "files": [
+    {
+      "previous_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165634599.png",
+      "git_blob_sha": "69d03639a211df55ad304896f1c761602af933f5",
+      "bytes": 420143
+    },
+    {
+      "previous_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165635775.png",
+      "git_blob_sha": "b2970c71a831cc46d30c66e4bfa975fc053a8173",
+      "bytes": 376251
+    },
+    {
+      "previous_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165636460.png",
+      "git_blob_sha": "00d63b99566536ada0e1e00be3479986d5fde45e",
+      "bytes": 343261
+    },
+    {
+      "previous_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165637533.png",
+      "git_blob_sha": "84c11e249bdc483654303a6f16914e7804dd9216",
+      "bytes": 371391
+    },
+    {
+      "previous_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165639168.png",
+      "git_blob_sha": "da33f10f2c3186b1a520031514a5959a2259b76c",
+      "bytes": 295460
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/output/pdf/스마트염도계_팀공유_설계검토본.pdf",
+      "git_blob_sha": "3899151d86d4d61e70cc285bbae4100c1c949589",
+      "bytes": 298644
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/02_circuits/adc_clamp.svg",
+      "git_blob_sha": "4286a2d86da1189d5af300e6eeaaa6d3a70d4e14",
+      "bytes": 4656
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/02_circuits/buttons_buzzer.svg",
+      "git_blob_sha": "7f74d60549ffc460b4432524da877f23e366108b",
+      "bytes": 7119
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/02_circuits/electrode_test_circuit.png",
+      "git_blob_sha": "a4d319e539b9eaec3fc15b315130527eef88e242",
+      "bytes": 157319
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/02_circuits/electrode_test_circuit.svg",
+      "git_blob_sha": "859e04b925d7616ed7f0100bc2a2e287ed3ce77e",
+      "bytes": 12186
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/02_circuits/system_wiring.png",
+      "git_blob_sha": "38efb11cdfa5978542d2bdc1801d131aa781e142",
+      "bytes": 205444
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/02_circuits/system_wiring.svg",
+      "git_blob_sha": "3800450958ea0543103d6373227afed8abfb500c",
+      "bytes": 8828
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/02_circuits/wiring_and_limits.md",
+      "git_blob_sha": "0859a9cb1508700abfa1fa6160c24017e01e50ca",
+      "bytes": 5028
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/03_assembly/assembly_preview.png",
+      "git_blob_sha": "a2e302fbfe18a4702950b9749c07eebaa1776409",
+      "bytes": 26195
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/03_assembly/assembly_steps_current.md",
+      "git_blob_sha": "9fbf3133a30bb83778d598dc99e2125117747154",
+      "bytes": 2354
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/03_assembly/exploded_preview.png",
+      "git_blob_sha": "ee88baeb31d40215fcc85113e00b6d4e5763119a",
+      "bytes": 42754
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/03_assembly/front_alignment.png",
+      "git_blob_sha": "b10fdb5f32a867e09c315ceb40cb1aca5c9a3fe6",
+      "bytes": 8413
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/03_assembly/mvp_layout_concept.png",
+      "git_blob_sha": "b2d3a8d17eefb76f4245d4b2be1a3baa62a05981",
+      "bytes": 103520
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/03_assembly/mvp_layout_concept.svg",
+      "git_blob_sha": "c64d4a29cd2fdec616b9039a60fc929cea74b97f",
+      "bytes": 7715
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/03_assembly/tip_alignment_jig_preview.png",
+      "git_blob_sha": "fd4981b0aa39bd9a13942c01880ec4f2d111fb37",
+      "bytes": 13885
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/04_parts/parts_list.md",
+      "git_blob_sha": "ee8a3ae36ba28788dd1d67e31ba285ca6444acd3",
+      "bytes": 4640
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/README_먼저읽기.md",
+      "git_blob_sha": "cb8df730441c0a8e044cb516bdcc8d3a797fd649",
+      "bytes": 2704
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/manifest.json",
+      "git_blob_sha": "81279237bbb24f0903f1aa87773296324f2e3af7",
+      "bytes": 5911
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/package/스마트염도계_팀공유_설계검토본.pdf",
+      "git_blob_sha": "3899151d86d4d61e70cc285bbae4100c1c949589",
+      "bytes": 298644
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/adc_clamp.pdf",
+      "git_blob_sha": "cc58b9a24001e27ad0de6dbcaa744595e8d8b43c",
+      "bytes": 47227
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/build_handoff.py",
+      "git_blob_sha": "66f530087ae7497edcc7f75010b2f71c8bfdcd10",
+      "bytes": 49941
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/buttons_buzzer.pdf",
+      "git_blob_sha": "e5a62203dd31b76d9f5fb9a81cf3538eb78b27bb",
+      "bytes": 48800
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/electrode_test_circuit.pdf",
+      "git_blob_sha": "54b764b89021dea4ad582e66c3edf03c0d626c44",
+      "bytes": 59822
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/finalcheck-03.png",
+      "git_blob_sha": "c7e1dc46d1839a32880892f0a041dd0b1cfdbdcd",
+      "bytes": 164524
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/finalcheck-08.png",
+      "git_blob_sha": "c93c23235b8c138301bc690f5e6459015b25bf7b",
+      "bytes": 135681
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-01.png",
+      "git_blob_sha": "ba0b7cb5517a2f7db9d65ea18d96bbce2a083f64",
+      "bytes": 152920
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-02.png",
+      "git_blob_sha": "f6b05e3902d951e4a7f64b317d41f1c3dc5d3a53",
+      "bytes": 161333
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-03.png",
+      "git_blob_sha": "666e1834ab4eaed6fdca3d8bdda99ab4b3a1030e",
+      "bytes": 193711
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-04.png",
+      "git_blob_sha": "ba88b4725f87dacb0927adc5d8050a3533a2dbca",
+      "bytes": 187676
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-05.png",
+      "git_blob_sha": "fcf48679f368b28614d9bee6179c41fc78a270f1",
+      "bytes": 164100
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-06.png",
+      "git_blob_sha": "cc309f7ccef5c9e501d2a116a128d60dded9c85a",
+      "bytes": 180255
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-07.png",
+      "git_blob_sha": "a22b47cf9dc24472a68378b24b703257f699baf6",
+      "bytes": 105339
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-08.png",
+      "git_blob_sha": "9b7fd83fa04edc39520c898f2b0415911d7339fa",
+      "bytes": 156725
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-09.png",
+      "git_blob_sha": "045d4de33cff3d06ec7be3feec6f58d0b9c5ce55",
+      "bytes": 176478
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-10.png",
+      "git_blob_sha": "aa610c7d39d409c3d03da05a4f205df4acf7eae2",
+      "bytes": 218842
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/guide-11.png",
+      "git_blob_sha": "4f1976c3d28329fb5393e2c410d6afbdc36380d5",
+      "bytes": 241940
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/mvp_layout_concept.pdf",
+      "git_blob_sha": "13748058956fc32d7129b388077415d7d28c3360",
+      "bytes": 57595
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/work/system_wiring.pdf",
+      "git_blob_sha": "50c971a9b8855cf945c05229650b9004e09c93ca",
+      "bytes": 57867
+    },
+    {
+      "previous_path": "history/2026-10-30/team-handoff/스마트염도계_팀공유_2026-10-30_R1.zip",
+      "git_blob_sha": "0d00a5550dec08808114b4481223e63252ed98a8",
+      "bytes": 966870
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/BOM.csv",
+      "git_blob_sha": "111528b39964eaafe2efd0180dd2e12b33673630",
+      "bytes": 1998
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/README_업체전달.md",
+      "git_blob_sha": "b0da78ce1592e65622a4e46efbf29e52047aa0b0",
+      "bytes": 5009
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/S01_preview.png",
+      "git_blob_sha": "882e096e350317514955d657a1dc260c1e319863",
+      "bytes": 268542
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/S02_preview.png",
+      "git_blob_sha": "abb2faf81542fac27b6019d95d9dc7bd2fcafc0d",
+      "bytes": 164461
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/S03_preview.png",
+      "git_blob_sha": "d29a28974b55b1bcedd3f392112a10c92c96ea9d",
+      "bytes": 193212
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/editable_schematics/S01_ASM-R3.svg",
+      "git_blob_sha": "c727acfae1930cb1c3007f45a88e2300ba71428d",
+      "bytes": 24970
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/editable_schematics/S02_ASM-R3.svg",
+      "git_blob_sha": "c1833127bae0cfe2256ff24ac0c2c35fb18e7835",
+      "bytes": 20821
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/editable_schematics/S03_ASM-R3.svg",
+      "git_blob_sha": "3bcb63eabd9afe63fd3ab7056639fe65d02fbaed",
+      "bytes": 29171
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/electrical_definition.json",
+      "git_blob_sha": "5537105c921fcbb182f2cc4aebd32c76d72a06dd",
+      "bytes": 2383
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/netlist.csv",
+      "git_blob_sha": "95926ed4c54da2c66cc9be8221de59f3235e5e5a",
+      "bytes": 1350
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/pdf/조립의뢰용_실배선회로도_ASM-R3.pdf",
+      "git_blob_sha": "9ae7716baafbdcd229d5e9a01ccd1f0d316ab6e9",
+      "bytes": 144106
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/test_firmware/HeadWaterTest.ino",
+      "git_blob_sha": "3de6a6cd9a9d63874304ffddddafce11ce617072",
+      "bytes": 5815
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/output/wire_connections.csv",
+      "git_blob_sha": "c39ef08b9218a61c578064a16262bd7d37bf0f4c",
+      "bytes": 5727
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/work/build_assembly.py",
+      "git_blob_sha": "053ff2dca6868022b8d01b7198d99c1fd88674f9",
+      "bytes": 29119
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/work/definition_checks.json",
+      "git_blob_sha": "2ef5853ae6976e507092c482c8fbbed7280dd066",
+      "bytes": 251
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/work/page-1.png",
+      "git_blob_sha": "882e096e350317514955d657a1dc260c1e319863",
+      "bytes": 268542
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/work/page-2.png",
+      "git_blob_sha": "abb2faf81542fac27b6019d95d9dc7bd2fcafc0d",
+      "bytes": 164461
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/work/page-3.png",
+      "git_blob_sha": "d29a28974b55b1bcedd3f392112a10c92c96ea9d",
+      "bytes": 193212
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/work/page-4.png",
+      "git_blob_sha": "4f5c89737d7bc947a4ac3af02dd9589ee98abb53",
+      "bytes": 226874
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/work/page-5.png",
+      "git_blob_sha": "22304dd37db0586583b62b4d22b6de7b7736b211",
+      "bytes": 260411
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/work/page-6.png",
+      "git_blob_sha": "c600626e5f256a5cbf07506e3e4e8dd3b2e9227b",
+      "bytes": 379701
+    },
+    {
+      "previous_path": "history/2026-11-20/assembly-request/조립업체전달_ASM-R3.zip",
+      "git_blob_sha": "3df6d2ac823150444e5f5a7c7f61f296afe6808a",
+      "bytes": 755397
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/battery_mvp_design_R2.zip",
+      "git_blob_sha": "76d443846837e1feb252438c4826075d23c0e56c",
+      "bytes": 1297256
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/model/mvp_concept.scad",
+      "git_blob_sha": "2c75c4d74f776f19aac6175c56ad5d28730cad7e",
+      "bytes": 3680
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/model/reference_head.scad",
+      "git_blob_sha": "3f22578d8eb0ec627defd501c77598dcb196ff07",
+      "bytes": 8779
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/output/calibration_and_mechanical.png",
+      "git_blob_sha": "45485d01250546ca350a58ecd770f4fd7fb29ab1",
+      "bytes": 300161
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/output/display_temperature_controls.png",
+      "git_blob_sha": "a6acc1cc0a8db6dd2e0305aa3b51a3f3948c5cfb",
+      "bytes": 166970
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/output/electrode_circuit.png",
+      "git_blob_sha": "39792f1d0f33954fc7afb94395972928868b89ed",
+      "bytes": 144801
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/output/exterior_design.png",
+      "git_blob_sha": "e4f7882c5bb59be4bbe4b055ea7a58a65e7d5664",
+      "bytes": 163480
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/output/pdf/스마트염도계_배터리내장_설계안_R2.pdf",
+      "git_blob_sha": "d0ff6611b88bd3b748d00060179f3d90fb8599c8",
+      "bytes": 208654
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/output/pin_connections.csv",
+      "git_blob_sha": "7788c379bfade8b0ffe70793e510d1cffbd56815",
+      "bytes": 374
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/output/pinmap_and_parts.png",
+      "git_blob_sha": "3195c46a4c3e872dd39e3da43c9b1196d03e55c1",
+      "bytes": 198693
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/output/power_circuit.png",
+      "git_blob_sha": "4055900e6400c7fdb7b533d60fdf36fc1f933b4d",
+      "bytes": 175015
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/output/설계상태.md",
+      "git_blob_sha": "d8ae1ff39cd7f594bba403040354e31b78caeb03",
+      "bytes": 2110
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/work/assembled.png",
+      "git_blob_sha": "153c6041f8ec50edf028656f339c03d1028dec55",
+      "bytes": 33753
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/work/build_design.py",
+      "git_blob_sha": "7d99f4744f8d41c767c925fc7bcce04d68230b5f",
+      "bytes": 19098
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/work/cutaway.png",
+      "git_blob_sha": "1c023b4cae275a1f8f70751da2364d1400aa0c13",
+      "bytes": 34343
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/work/page-1.png",
+      "git_blob_sha": "e4f7882c5bb59be4bbe4b055ea7a58a65e7d5664",
+      "bytes": 163480
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/work/page-2.png",
+      "git_blob_sha": "4055900e6400c7fdb7b533d60fdf36fc1f933b4d",
+      "bytes": 175015
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/work/page-3.png",
+      "git_blob_sha": "39792f1d0f33954fc7afb94395972928868b89ed",
+      "bytes": 144801
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/work/page-4.png",
+      "git_blob_sha": "a6acc1cc0a8db6dd2e0305aa3b51a3f3948c5cfb",
+      "bytes": 166970
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/work/page-5.png",
+      "git_blob_sha": "3195c46a4c3e872dd39e3da43c9b1196d03e55c1",
+      "bytes": 198693
+    },
+    {
+      "previous_path": "history/2026-11-20/final-mvp-design/work/page-6.png",
+      "git_blob_sha": "45485d01250546ca350a58ecd770f4fd7fb29ab1",
+      "bytes": 300161
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/AI검토전달자료_R4P2.zip",
+      "git_blob_sha": "b6b9c44c29c74b11ebc44cdb7a64144608dcbfb4",
+      "bytes": 3439850
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/baseline_firmware/HeadWaterTest.ino",
+      "git_blob_sha": "3de6a6cd9a9d63874304ffddddafce11ce617072",
+      "bytes": 5815
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/baseline_firmware/소스의범위.txt",
+      "git_blob_sha": "18d9d9d12f451f486fc27e8fac6df86336d7f4b9",
+      "bytes": 287
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_01_overview.png",
+      "git_blob_sha": "69d03639a211df55ad304896f1c761602af933f5",
+      "bytes": 420143
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_02_power.png",
+      "git_blob_sha": "b2970c71a831cc46d30c66e4bfa975fc053a8173",
+      "bytes": 376251
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_03_electrode_adc.png",
+      "git_blob_sha": "00d63b99566536ada0e1e00be3479986d5fde45e",
+      "bytes": 343261
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_04_communication_controls.png",
+      "git_blob_sha": "84c11e249bdc483654303a6f16914e7804dd9216",
+      "bytes": 371391
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_05_battery_divider_correction.png",
+      "git_blob_sha": "da33f10f2c3186b1a520031514a5959a2259b76c",
+      "bytes": 295460
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/pdf/AI검토용_프로젝트목표_보유부품_R4P2_인계문서.pdf",
+      "git_blob_sha": "71109e2ea78328f2acb3e385734f3dc46c9267a1",
+      "bytes": 2197329
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/다른AI_프로젝트설명과_회로검토요청.txt",
+      "git_blob_sha": "30768c5ed3fbb5742ddea91b39f82a2d46a8f27a",
+      "bytes": 22050
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/먼저읽기.txt",
+      "git_blob_sha": "767206bc4a9a908ff9e89098ef9c9a9bcfe9384a",
+      "bytes": 467
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/output/원본자료목록.json",
+      "git_blob_sha": "cbc624a71533f613fa2c44e973f3b514d5cece3d",
+      "bytes": 1801
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/build_handoff.py",
+      "git_blob_sha": "51e7a93924670c034fba407eaf404a38fbbf690a",
+      "bytes": 29982
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/layout.json",
+      "git_blob_sha": "1aeb7d79e9c324190ebcbae9257b7f1d48467b17",
+      "bytes": 1062
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-01.png",
+      "git_blob_sha": "e73fd7cf67569fdf4db7d1322ef1c06cb796c67e",
+      "bytes": 164252
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-02.png",
+      "git_blob_sha": "94a600694fbf0c2df2ce8e7603b4ccdb0f6a5198",
+      "bytes": 141123
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-03.png",
+      "git_blob_sha": "b7641260079c9d19166c5a7cbaf819b6ac229634",
+      "bytes": 150330
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-04.png",
+      "git_blob_sha": "6a6c11ae86068314adbc92428a01bd7708c0c385",
+      "bytes": 119973
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-05.png",
+      "git_blob_sha": "b1ba5c4f10cfce588bc0b31073761854a7cbdab4",
+      "bytes": 151883
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-06.png",
+      "git_blob_sha": "c8d6935f3ab4e99774b52dd9915406e7b4aa14d0",
+      "bytes": 185250
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-07.png",
+      "git_blob_sha": "18d9478e1d54ade03ff19ee1bb21171950b1ff57",
+      "bytes": 171503
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-08.png",
+      "git_blob_sha": "a2b7b5d468d03f4c99485d4ce702c41ef16b31a8",
+      "bytes": 198847
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-09.png",
+      "git_blob_sha": "00796c012578d8e3f3aaf6f7de9aa5c49f322771",
+      "bytes": 223865
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-10.png",
+      "git_blob_sha": "5668c1a8dfadc357144010ce4a783f087716017d",
+      "bytes": 300341
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-11.png",
+      "git_blob_sha": "112aeff7385a0dc34790ef860e82052955f69cea",
+      "bytes": 268596
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-12.png",
+      "git_blob_sha": "a8ca1891a05bdd1ae8505d734880393fd1413dbd",
+      "bytes": 248241
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-13.png",
+      "git_blob_sha": "44acfd0aedc0116ab665f31cd86343fe0e0807b4",
+      "bytes": 268411
+    },
+    {
+      "previous_path": "history/2026-11-23/ai-review-handoff/work/page-14.png",
+      "git_blob_sha": "acb0f0e87fe61a4c3ea560a9a68c32d3fabcf1e9",
+      "bytes": 145515
+    }
+  ]
+}

@@ -471,41 +471,6 @@
       "category": "original_archive"
     },
     {
-      "repository_path": "history/2026-10-30/team-handoff/스마트염도계_팀공유_2026-10-30_R1.zip",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\스마트염도계_팀공유_2026-10-30_R1.zip",
-      "bytes": 966870,
-      "sha256": "bf17cf10ff2e713990199140dcd06c247ebc12bc951f24f5aefcf221933ea028",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/output/pdf/스마트염도계_팀공유_설계검토본.pdf",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\output\\pdf\\스마트염도계_팀공유_설계검토본.pdf",
-      "bytes": 298644,
-      "sha256": "9f5111b39b857277432dd77cf66511f8d513e5e1a21b6ddd7e1a44869c2629ee",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/manifest.json",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\manifest.json",
-      "bytes": 5911,
-      "sha256": "1ddd3e64e984436dc4cd4ec5bf5d63e0c0e5aec4866e1ed8d3262a477ab39352",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/README_먼저읽기.md",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\README_먼저읽기.md",
-      "bytes": 2704,
-      "sha256": "3c6eb258f5f5222b4785fcf49983b48af95eb99d7ae6f6c09f20b387bc040dbc",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/스마트염도계_팀공유_설계검토본.pdf",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\스마트염도계_팀공유_설계검토본.pdf",
-      "bytes": 298644,
-      "sha256": "9f5111b39b857277432dd77cf66511f8d513e5e1a21b6ddd7e1a44869c2629ee",
-      "category": "original_archive"
-    },
-    {
       "repository_path": "history/2026-10-30/team-handoff/package/01_models/cap_core.stl",
       "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\cap_core.stl",
       "bytes": 307011,
@@ -573,244 +538,6 @@
       "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\01_models\\파일검사_결과.md",
       "bytes": 1836,
       "sha256": "36408340db80c7ae1db35d89927a1a9081e40aabc73cb377300f59cdd704cf81",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/adc_clamp.svg",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\adc_clamp.svg",
-      "bytes": 4656,
-      "sha256": "14cc38ec7cb833f6e1819a696ad905e35157963a0afc28680d6a4a24b7c016f9",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/buttons_buzzer.svg",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\buttons_buzzer.svg",
-      "bytes": 7119,
-      "sha256": "07ab51c59f6a5c999e6421cc39a3c01310463c2326ad0370564feef1b748a11d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/electrode_test_circuit.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\electrode_test_circuit.png",
-      "bytes": 157319,
-      "sha256": "20efd73ad46370dbff5ffa8053ecac5df47494a568984f5fcba22bcdaccb6e60",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/electrode_test_circuit.svg",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\electrode_test_circuit.svg",
-      "bytes": 12186,
-      "sha256": "03efce00eb12fcda131fa2cd191daaba0ecd889194f91a438a29caf4d231b08f",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/system_wiring.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\system_wiring.png",
-      "bytes": 205444,
-      "sha256": "e083bcbdec2838528f2d98c6439f11e79ef794f6d3918c4a79c4277419c708e1",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/system_wiring.svg",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\system_wiring.svg",
-      "bytes": 8828,
-      "sha256": "0f1643740cac8eb8b974ccaf8fb31d184559e71375d9514bffff48037616f5fd",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/02_circuits/wiring_and_limits.md",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\02_circuits\\wiring_and_limits.md",
-      "bytes": 5028,
-      "sha256": "b2ee939cb30a057b1c37990e28c4891db2646d1f9fdfd1a2bc3515395dd4d32d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/assembly_preview.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\assembly_preview.png",
-      "bytes": 26195,
-      "sha256": "6925ff3c7c60fc292e936d19ba184b72a6d507870de7c716f1b526b3f748ce5c",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/assembly_steps_current.md",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\assembly_steps_current.md",
-      "bytes": 2354,
-      "sha256": "eac9e9e5eed89fdbe838f53a2c7e0969cf51ffa8b8e052b6eba5330ceb56adec",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/exploded_preview.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\exploded_preview.png",
-      "bytes": 42754,
-      "sha256": "2e2466412e7ced9ee28d591a0dba11f3bf778a5d3f3cc0b7465d55ab1fe4f992",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/front_alignment.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\front_alignment.png",
-      "bytes": 8413,
-      "sha256": "b4b5367e2b4b0c92ed5ebdc47d505e493b390480c86ad529d4bf7a4da0a337d6",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/mvp_layout_concept.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\mvp_layout_concept.png",
-      "bytes": 103520,
-      "sha256": "1631beeb8b0949b076412bc737ade808064ff7ce1e2ea50065067778cfe5143d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/mvp_layout_concept.svg",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\mvp_layout_concept.svg",
-      "bytes": 7715,
-      "sha256": "4eb66451ebd94421a9d961ebbe4a35f85a111004ce7f4b04c94169814447b822",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/03_assembly/tip_alignment_jig_preview.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\03_assembly\\tip_alignment_jig_preview.png",
-      "bytes": 13885,
-      "sha256": "10ca6bbc6f600cb90e8e63f1101f73fd43f38ce787541c77a4c8fa374f9c07a2",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/package/04_parts/parts_list.md",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\package\\04_parts\\parts_list.md",
-      "bytes": 4640,
-      "sha256": "2710fb3dbf2f010d3b5ab62b3eed646cc85068be13d97b9c5992d71830215d04",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/adc_clamp.pdf",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\adc_clamp.pdf",
-      "bytes": 47227,
-      "sha256": "f0d5971faf7b016a349553e0d3d6028fc954db505b74f367a0967d2966f8df14",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/build_handoff.py",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\build_handoff.py",
-      "bytes": 49941,
-      "sha256": "7fd2e032ade41231fa2e14378d72c48ed4d330a37d70314291da7a343c05b996",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/buttons_buzzer.pdf",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\buttons_buzzer.pdf",
-      "bytes": 48800,
-      "sha256": "945257a76536ed694dae33e0c6e85396fa6288aecc549c11f34215bb57985d6d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/electrode_test_circuit.pdf",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\electrode_test_circuit.pdf",
-      "bytes": 59822,
-      "sha256": "998c98c0356dd4d31e71aea78cc371a75e8611b7071a6355e7b3845eed9e4b4d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/finalcheck-03.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\finalcheck-03.png",
-      "bytes": 164524,
-      "sha256": "40e0edc9f442ac6004424d74824709913fd6c808c3db4e18bfe3dc93f1eb71fc",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/finalcheck-08.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\finalcheck-08.png",
-      "bytes": 135681,
-      "sha256": "1061b627d6cab40acd9d13b13be728303bfb42853564dcf8f04574e85d6cefa8",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-01.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-01.png",
-      "bytes": 152920,
-      "sha256": "a91bd4aac93b00169db1f6c14b40197ff7ccf20ad77459d2a90ddcab50f46783",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-02.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-02.png",
-      "bytes": 161333,
-      "sha256": "075d8b72eb3b738c342bdc3fcd9882a25a0b7bbf827604a03887c7899c27715d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-03.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-03.png",
-      "bytes": 193711,
-      "sha256": "ad87174e2fd04e2df19306a1e438bfa0379938a270ca991aa1d0f7570ac4db15",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-04.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-04.png",
-      "bytes": 187676,
-      "sha256": "b623ef1690168ff2ed60c4ad1f2d1dd16236c04e150855e02dafc5b0a6e4b1fb",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-05.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-05.png",
-      "bytes": 164100,
-      "sha256": "9ea5347854e297431a858d01186fafd55ad805f982918aebc7ae6ba3d635deaf",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-06.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-06.png",
-      "bytes": 180255,
-      "sha256": "b6cbec907b0a4361a4626ea1f23d70259c63ec4b24b35ce604727b23d990ca7c",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-07.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-07.png",
-      "bytes": 105339,
-      "sha256": "410545dbeef6bb2f012cf2f30bf9eb41f266de027135678fab30f47b6171834e",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-08.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-08.png",
-      "bytes": 156725,
-      "sha256": "df677add15183a56d54eaa4ee3db60957c0b7e3b9c03af21c37913f0eba1e5a9",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-09.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-09.png",
-      "bytes": 176478,
-      "sha256": "3af00f00e01d0bae8e0c515273251b1df4330887c5085f30c56f52d8d2fb7e04",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-10.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-10.png",
-      "bytes": 218842,
-      "sha256": "03a7836d477316d5490b7e6a8cf5b8ea576bb87c28c3137f26f6eff5bcbeef9c",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/guide-11.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\guide-11.png",
-      "bytes": 241940,
-      "sha256": "cb99471cb15df1fe25ead0289f8cf0bb705a88b772b6261e73ece63cab08b410",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/mvp_layout_concept.pdf",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\mvp_layout_concept.pdf",
-      "bytes": 57595,
-      "sha256": "b41d80abd3863300277d4c59788843de9ebcceecd2ae962640f79dafbc6f2854",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-10-30/team-handoff/work/system_wiring.pdf",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-10-30\\salinity-team-handoff\\work\\system_wiring.pdf",
-      "bytes": 57867,
-      "sha256": "5d48ba604d0cca7f6bfb1023d2a4ef446b751c8036145136223890d23e918fe7",
       "category": "original_archive"
     },
     {
@@ -1406,503 +1133,6 @@
       "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\cup90-stand-10mm\\work\\check_mesh.py",
       "bytes": 2783,
       "sha256": "2be4a1bd51dd3a0f4ce6a4d7d4e474e0cd5e61026913454baad6099a9ff07d8e",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/battery_mvp_design_R2.zip",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\battery_mvp_design_R2.zip",
-      "bytes": 1297256,
-      "sha256": "646ff7fc7f3428033ede07b56d53e18548f71d63724f4433a508292d10ccd34b",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/model/mvp_concept.scad",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\model\\mvp_concept.scad",
-      "bytes": 3680,
-      "sha256": "d957eea65fc0299c8f917ad1e1433d3ab76c57f380a9b69029f44bdddcab731f",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/model/reference_head.scad",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\model\\reference_head.scad",
-      "bytes": 8779,
-      "sha256": "bbce8175633289edf6112b6c57c3d8ee866ae87ee7eb308a15ed24d065e059d4",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/output/calibration_and_mechanical.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\calibration_and_mechanical.png",
-      "bytes": 300161,
-      "sha256": "2eb1ee72fbd37475d721e001e4e3a6d4504df9a30cbf52cb4d603983065d2089",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/output/display_temperature_controls.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\display_temperature_controls.png",
-      "bytes": 166970,
-      "sha256": "96fe1c6df787549cc79659fbfae08f784ee7a9eaee5aab4d89758c99078aa88d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/output/electrode_circuit.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\electrode_circuit.png",
-      "bytes": 144801,
-      "sha256": "9d7d5ddbede3d05bf17e30a60624663416d906b1d18a79cfb8e57a7c52a9ca86",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/output/exterior_design.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\exterior_design.png",
-      "bytes": 163480,
-      "sha256": "2e9b08608956a94b62205144a92d363b25c316ab0aaedf2b6c202dd7e83b4f46",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/output/pinmap_and_parts.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\pinmap_and_parts.png",
-      "bytes": 198693,
-      "sha256": "ae2fe3d8f9839ee1f24e9e26b2510d4c2ea044e17d313895507c5ceff726433c",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/output/pin_connections.csv",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\pin_connections.csv",
-      "bytes": 374,
-      "sha256": "08cab9aa1099de37eada48d19bd63e2b5ac11e346de1d1e33df0fda4b90e09f5",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/output/power_circuit.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\power_circuit.png",
-      "bytes": 175015,
-      "sha256": "de8cd44ebb05dcff6d9ed30e763c35ef602932f608e64007c1237093664ce932",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/output/설계상태.md",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\설계상태.md",
-      "bytes": 2110,
-      "sha256": "7914e2af525cb8eee08a11b4bd8989b066de4f2d3f3cffc93776232755370ca1",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/output/pdf/스마트염도계_배터리내장_설계안_R2.pdf",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\output\\pdf\\스마트염도계_배터리내장_설계안_R2.pdf",
-      "bytes": 208654,
-      "sha256": "5e0af1a370823051891b8f6ebb3d084a2737193a3abe6ee7303407103ae2aadf",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/work/assembled.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\assembled.png",
-      "bytes": 33753,
-      "sha256": "6b8ffe09d5f9c7b4e9b17df344a32d09a2c2a37ad43134288cb5e3b91ea9f9f7",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/work/build_design.py",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\build_design.py",
-      "bytes": 19098,
-      "sha256": "2af06300a0dd78d6f06e7f5821b1846eb5d07d7bd06d5d0a1786573769f8723a",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/work/cutaway.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\cutaway.png",
-      "bytes": 34343,
-      "sha256": "b99b3e325d00d8f1fcd3139db052353c12272dee777e924e0c09436aabcbdba3",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/work/page-1.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-1.png",
-      "bytes": 163480,
-      "sha256": "2e9b08608956a94b62205144a92d363b25c316ab0aaedf2b6c202dd7e83b4f46",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/work/page-2.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-2.png",
-      "bytes": 175015,
-      "sha256": "de8cd44ebb05dcff6d9ed30e763c35ef602932f608e64007c1237093664ce932",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/work/page-3.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-3.png",
-      "bytes": 144801,
-      "sha256": "9d7d5ddbede3d05bf17e30a60624663416d906b1d18a79cfb8e57a7c52a9ca86",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/work/page-4.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-4.png",
-      "bytes": 166970,
-      "sha256": "96fe1c6df787549cc79659fbfae08f784ee7a9eaee5aab4d89758c99078aa88d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/work/page-5.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-5.png",
-      "bytes": 198693,
-      "sha256": "ae2fe3d8f9839ee1f24e9e26b2510d4c2ea044e17d313895507c5ceff726433c",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/final-mvp-design/work/page-6.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\final-mvp-design\\work\\page-6.png",
-      "bytes": 300161,
-      "sha256": "2eb1ee72fbd37475d721e001e4e3a6d4504df9a30cbf52cb4d603983065d2089",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/조립업체전달_ASM-R3.zip",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\조립업체전달_ASM-R3.zip",
-      "bytes": 755397,
-      "sha256": "6c04c4924724b345d022d9e5165c0ed9248849b618328850ff02966b15dc1ba1",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/BOM.csv",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\BOM.csv",
-      "bytes": 1998,
-      "sha256": "25dfba76d11c3b7ff67e9ca9244cf316250186fe042822d185cd78d3c58a7d2e",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/electrical_definition.json",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\electrical_definition.json",
-      "bytes": 2383,
-      "sha256": "a3aa0e3087385c815e024a4fa6605c7cb77bf0c7187d06cc56cfb657bfb5ce5b",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/netlist.csv",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\netlist.csv",
-      "bytes": 1350,
-      "sha256": "a2e7f3c0dd75900c57852b28d1506eef225a210e82af79613e128140a90e4177",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/README_업체전달.md",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\README_업체전달.md",
-      "bytes": 5009,
-      "sha256": "93f0bf8ada94ece0ce6638d5b67b49bdc3dab3fcb81cd0b7b19011b8bf3d37e4",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/S01_preview.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\S01_preview.png",
-      "bytes": 268542,
-      "sha256": "333f1795e028d5bad680095c9d080520d94d7dc18e23773df2a5e2d5f8c655b1",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/S02_preview.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\S02_preview.png",
-      "bytes": 164461,
-      "sha256": "0226395da280a6ab4bf60a5676558dd062f72237c363b527dd31f7bd25f5ea34",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/S03_preview.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\S03_preview.png",
-      "bytes": 193212,
-      "sha256": "86c664f97021b2cbbb98a4b68bc335ea76216c574a89bb680844b749ffee572a",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/wire_connections.csv",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\wire_connections.csv",
-      "bytes": 5727,
-      "sha256": "e2768cf3a62f82477a5143c291e7615ceaf7cf6fc79d381479d3a2578e2194c1",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/editable_schematics/S01_ASM-R3.svg",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\editable_schematics\\S01_ASM-R3.svg",
-      "bytes": 24970,
-      "sha256": "0096a38a76701bbc51ffa2970fddd04778f51cac04a989ef7ddd8d1391cbd2b9",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/editable_schematics/S02_ASM-R3.svg",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\editable_schematics\\S02_ASM-R3.svg",
-      "bytes": 20821,
-      "sha256": "132170964d386968ba2dfa0bbc659a8cd6509da9b45e25dc0758cff1f2c4ecc2",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/editable_schematics/S03_ASM-R3.svg",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\editable_schematics\\S03_ASM-R3.svg",
-      "bytes": 29171,
-      "sha256": "9565b2c70539ecd26d3488442a8dac032359b97459ff5c5062b7a8c6e34fea13",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/pdf/조립의뢰용_실배선회로도_ASM-R3.pdf",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\pdf\\조립의뢰용_실배선회로도_ASM-R3.pdf",
-      "bytes": 144106,
-      "sha256": "7dc6a172968bb9936b4d5d0c891ec27a6c1bf8788c391bfd62b1a999e5131b32",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/output/test_firmware/HeadWaterTest.ino",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\output\\test_firmware\\HeadWaterTest.ino",
-      "bytes": 5815,
-      "sha256": "e89b12235f6a752c81dc8aea52b879ab7709e6fe020f7f37e38655d69ace6f28",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/work/build_assembly.py",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\build_assembly.py",
-      "bytes": 29119,
-      "sha256": "20e9d410646705293023ceb1ca4dbc86378d4c125542a30d261edad22f62dd4a",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/work/definition_checks.json",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\definition_checks.json",
-      "bytes": 251,
-      "sha256": "d0ba2ce2a3d0d87cfe43550b4ef720241c4566c7478753b87dd05d551e12fdbd",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/work/page-1.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-1.png",
-      "bytes": 268542,
-      "sha256": "333f1795e028d5bad680095c9d080520d94d7dc18e23773df2a5e2d5f8c655b1",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/work/page-2.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-2.png",
-      "bytes": 164461,
-      "sha256": "0226395da280a6ab4bf60a5676558dd062f72237c363b527dd31f7bd25f5ea34",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/work/page-3.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-3.png",
-      "bytes": 193212,
-      "sha256": "86c664f97021b2cbbb98a4b68bc335ea76216c574a89bb680844b749ffee572a",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/work/page-4.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-4.png",
-      "bytes": 226874,
-      "sha256": "8e4f3358c69dbd284e74afeb62aa924e2ee69a74e5b984f2b307f742eb3c20e1",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/work/page-5.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-5.png",
-      "bytes": 260411,
-      "sha256": "abe3425116947bbb78a3fa48eec16c768a8032acc63106b468bab46796b6afd5",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-20/assembly-request/work/page-6.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-20\\assembly-request\\work\\page-6.png",
-      "bytes": 379701,
-      "sha256": "9d015c2a0e9273fcffaf1981280083dad2c52203846e66a1e35d18bab361de64",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/AI검토전달자료_R4P2.zip",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\AI검토전달자료_R4P2.zip",
-      "bytes": 3439850,
-      "sha256": "1149ca6a89ed72ff80816c03b9e2c8dcd392c7b1a052d8e295b9972318581643",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/다른AI_프로젝트설명과_회로검토요청.txt",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\다른AI_프로젝트설명과_회로검토요청.txt",
-      "bytes": 22050,
-      "sha256": "e34f53651468ea229d273204c2abfaea4b3b972cc11ab00603a603fea292ff50",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/먼저읽기.txt",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\먼저읽기.txt",
-      "bytes": 467,
-      "sha256": "476ce62dc22260c12a65b6c0db2b38c7d3f2592fd9b5a0d2394058f0be4f4e20",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/원본자료목록.json",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\원본자료목록.json",
-      "bytes": 1801,
-      "sha256": "95264cb02898b7141238e6c253c6e540f3870d2ea4097f23807f6480a7469f88",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/baseline_firmware/HeadWaterTest.ino",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\baseline_firmware\\HeadWaterTest.ino",
-      "bytes": 5815,
-      "sha256": "e89b12235f6a752c81dc8aea52b879ab7709e6fe020f7f37e38655d69ace6f28",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/baseline_firmware/소스의범위.txt",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\baseline_firmware\\소스의범위.txt",
-      "bytes": 287,
-      "sha256": "d1db2d7d00dfa3abb145dd7bdac5365d5ed10ca11abfff9124686ffab9e2db8d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_01_overview.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\diagrams\\R4P2_01_overview.png",
-      "bytes": 420143,
-      "sha256": "6cf938ce5dad76bebc805728df4e61628a2ae36b4c575034a1868ff8c3cc2270",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_02_power.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\diagrams\\R4P2_02_power.png",
-      "bytes": 376251,
-      "sha256": "2f4223d4859652838e3621f0ef3549c12b3ebd6601c5ccbf0210343cb5eb024d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_03_electrode_adc.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\diagrams\\R4P2_03_electrode_adc.png",
-      "bytes": 343261,
-      "sha256": "4453ebc088d2f094ba28000aae9e668321fbac3c6d6256a5df8b877733032d71",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_04_communication_controls.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\diagrams\\R4P2_04_communication_controls.png",
-      "bytes": 371391,
-      "sha256": "48a4e1a57d012b4116fc5a0260933ce2c0e73991703fda1fabe2f47a7fbd98d3",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/diagrams/R4P2_05_battery_divider_correction.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\diagrams\\R4P2_05_battery_divider_correction.png",
-      "bytes": 295460,
-      "sha256": "ac3a77afeef49dec0326303f46402966813167d29a87c1de3d8cefab5184b301",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/output/pdf/AI검토용_프로젝트목표_보유부품_R4P2_인계문서.pdf",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\output\\pdf\\AI검토용_프로젝트목표_보유부품_R4P2_인계문서.pdf",
-      "bytes": 2197329,
-      "sha256": "d5e3317b477ec23276ed23fb1a4fce447e8ff4f3f5267a777c4862077e077aca",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/build_handoff.py",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\build_handoff.py",
-      "bytes": 29982,
-      "sha256": "50dec3e513569a6d7aaabf060d41a5bbfc2b9e3474f098a92f9fafe15aec8b7d",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/layout.json",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\layout.json",
-      "bytes": 1062,
-      "sha256": "786a86ccb8166f2f3fefef5ead8a86658c7f96430c061084e0978a547d1dd3d7",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-01.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-01.png",
-      "bytes": 164252,
-      "sha256": "3af7b6fa6b11d68e75bd0951b8001b0016d4b16a33f17fbf65b5fcae16b491c2",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-02.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-02.png",
-      "bytes": 141123,
-      "sha256": "959bd446c4dce276c0b4b6dde95c46b89710d6d3d6d43e87c330a5236ea5335c",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-03.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-03.png",
-      "bytes": 150330,
-      "sha256": "49b29ca8b3e9c594492e34b345029d02e10a777461ca22437004f3b905574345",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-04.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-04.png",
-      "bytes": 119973,
-      "sha256": "99efc27045a5f91dc5ce6b8a441c652b2d9e98d5904cc16bd82ea00a642604ed",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-05.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-05.png",
-      "bytes": 151883,
-      "sha256": "a8660d67d31f0d16c7642547af7d16577113b2a44a33fd5f51c14ec675335798",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-06.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-06.png",
-      "bytes": 185250,
-      "sha256": "84e5d89a230c97583ff195eec7e6818f47752fb51c8105bc215a305dee3c8b84",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-07.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-07.png",
-      "bytes": 171503,
-      "sha256": "a3445615675e3746cd4411dd2f755f43e5d2208d8a4cfd30eaf51c4aacd09e2a",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-08.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-08.png",
-      "bytes": 198847,
-      "sha256": "edcbddab876344abb47480c5ee1064adfb751833fd386d0cbb374b0a5cf07cd1",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-09.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-09.png",
-      "bytes": 223865,
-      "sha256": "6b4a6f09bc49871847889eee66177239a214e407d209694b904780e6c11c7b2c",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-10.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-10.png",
-      "bytes": 300341,
-      "sha256": "2f66ec1a0994e20c3446392e85ba1546a4d16fc27926e4d2d63b841f20cddc46",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-11.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-11.png",
-      "bytes": 268596,
-      "sha256": "6ca2a0aa46d1630fee3481a01659844116121381645751c5ab0c0f8cc3671c35",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-12.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-12.png",
-      "bytes": 248241,
-      "sha256": "48e144e071f347225219fff7c47b7eb744befb3ec34871adb95520efc383d025",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-13.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-13.png",
-      "bytes": 268411,
-      "sha256": "4ab9b09e235477bf46921be8c5fee5685943c084d0f94829f53f42ac50535a09",
-      "category": "original_archive"
-    },
-    {
-      "repository_path": "history/2026-11-23/ai-review-handoff/work/page-14.png",
-      "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-23\\ai-review-handoff\\work\\page-14.png",
-      "bytes": 145515,
-      "sha256": "4ee01c9314ab47da45ee53a69ebd8bf49746b80efcc44df8bedc216c7e2d5dfc",
       "category": "original_archive"
     },
     {
@@ -2781,41 +2011,6 @@
       "category": "user_supplied_photo"
     },
     {
-      "repository_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165634599.png",
-      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\바탕 화면\\새 폴더 (3)\\KakaoTalk_20261120_165634599.png",
-      "bytes": 420143,
-      "sha256": "6cf938ce5dad76bebc805728df4e61628a2ae36b4c575034a1868ff8c3cc2270",
-      "category": "user_supplied_diagram"
-    },
-    {
-      "repository_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165635775.png",
-      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\바탕 화면\\새 폴더 (3)\\KakaoTalk_20261120_165635775.png",
-      "bytes": 376251,
-      "sha256": "2f4223d4859652838e3621f0ef3549c12b3ebd6601c5ccbf0210343cb5eb024d",
-      "category": "user_supplied_diagram"
-    },
-    {
-      "repository_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165636460.png",
-      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\바탕 화면\\새 폴더 (3)\\KakaoTalk_20261120_165636460.png",
-      "bytes": 343261,
-      "sha256": "4453ebc088d2f094ba28000aae9e668321fbac3c6d6256a5df8b877733032d71",
-      "category": "user_supplied_diagram"
-    },
-    {
-      "repository_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165637533.png",
-      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\바탕 화면\\새 폴더 (3)\\KakaoTalk_20261120_165637533.png",
-      "bytes": 371391,
-      "sha256": "48a4e1a57d012b4116fc5a0260933ce2c0e73991703fda1fabe2f47a7fbd98d3",
-      "category": "user_supplied_diagram"
-    },
-    {
-      "repository_path": "hardware/original-R4-P2-images/KakaoTalk_20261120_165639168.png",
-      "source": "C:\\Users\\Yeon\\OneDrive - 한국공학대학교\\바탕 화면\\새 폴더 (3)\\KakaoTalk_20261120_165639168.png",
-      "bytes": 295460,
-      "sha256": "ac3a77afeef49dec0326303f46402966813167d29a87c1de3d8cefab5184b301",
-      "category": "user_supplied_diagram"
-    },
-    {
       "repository_path": "firmware/SalinityMeterCalibrated/CalibrationTable.h",
       "source": "C:\\Users\\Yeon\\Documents\\Codex\\2026-11-24\\salinity-calibration\\SalinityMeterCalibrated\\CalibrationTable.h",
       "bytes": 581,
@@ -2926,6 +2121,188 @@
       "bytes": 32010,
       "sha256": "f1bf9bf0e95f7d66005bc7c305b7fb21d6e039f045c577ac9c86dbcbc293241c",
       "category": "presentation_draft_and_validation"
+    },
+    {
+      "repository_path": "hardware/schematics/R5/05_정식회로도_조립사양_R5.pdf",
+      "bytes": 108218,
+      "sha256": "e2c16d3869117ee0c6c8e66de326261c7ec22ee335fa6fd2396c172c5199407e",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/R5_01_전체실배선.png",
+      "bytes": 400677,
+      "sha256": "d38f42f57463d027a8999fc9c59d17280f91ad7ff60b6798c368658e7c2df30e",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/R5_02_전원배선.png",
+      "bytes": 357349,
+      "sha256": "e6b2495bcbb92a1e25038ff09dac6cc407d46d239d57b5adfacd33049354df53",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/R5_03_전극_ADC배선.png",
+      "bytes": 323901,
+      "sha256": "ab20956fb700822fb551114e35c99d63a1b8b5e74e07631dd9278d7f0f509796",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/R5_04_통신_버튼_부저.png",
+      "bytes": 353118,
+      "sha256": "f81787a1825d757fb6ec464a443645ec1908827678d819bf83fe29b491a97559",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/07_납땜면_전체배선_R5.png",
+      "bytes": 296395,
+      "sha256": "663ded78d7cf40a77fe4ff94ad51eeef0f8e660b872a9b2a17dc26f66c414533",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/01_전체패드_구멍좌표.csv",
+      "bytes": 4548,
+      "sha256": "195f9507e8ec0b5ff8b1d50b4e5f09cae1663ac8cc672328513cbcdb02f17641",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/02_부품실장위치.csv",
+      "bytes": 567,
+      "sha256": "bb233f6ad2749f5dbe1275d996185cb6ecc93a6d5177956e33b6ab9eb498309d",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/03_기판배선_양끝좌표.csv",
+      "bytes": 7418,
+      "sha256": "94a254303d5794fad8841d9dcb3560ef11258dbe8c64dc75028d0f4f3ecaab8f",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/05_NET별연결.csv",
+      "bytes": 893,
+      "sha256": "5c3d14fb6e0f9eb377f08421ec7115b3e2521cbe102c95f335abffa94907495c",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/07_전체전기연결표.csv",
+      "bytes": 1989,
+      "sha256": "c37f853c0022398c78ada0bfcf2bdecb5d2696900ee658f9d7f1aa096c54aff2",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/perfboard/R5/design_R5.json",
+      "bytes": 104220,
+      "sha256": "93a7a9a0b48f439730c6cfe9aeab52330ab84c7ec94af45c15d134641e7f475b",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/harness/R5/06_플러그핀맵_조립전달_R5.png",
+      "bytes": 302657,
+      "sha256": "183d811020c1ef97936ede094a23fc6bad01691955b405e68308cb491e1ad2fc",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/harness/R5/04_모듈하네스_핀대응.csv",
+      "bytes": 9914,
+      "sha256": "2c6ec8f36dc656a9144b2205d02f5ed8a38c85d9fa852945a3c9ef50ccebc8e5",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/validation/R5/06_R4P2대비_위치변경.csv",
+      "bytes": 1435,
+      "sha256": "e48ddc68e19e5a70c65e4ba9ea38a53dceedf9025230bdb00603d7754e30f219",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/validation/R5/11_자료검사결과_R5.json",
+      "bytes": 205939,
+      "sha256": "c3785287919d335fdfbb55903b66e5b6bc1c7ba9f7571e772786e8f8e285daf6",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/validation/R5/schematic_endpoint_check.json",
+      "bytes": 160,
+      "sha256": "66686b65d1214b96da920edc082d7b218fefad71608dd344c8d5d70c0c4af470",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/validation/R5/10_규격확인출처.csv",
+      "bytes": 1042,
+      "sha256": "db7d5cce0dabc3d0755b7ba9b31d56859ff049e6250c975c88d3c2512ed4cd70",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "parts/R5/BOM_R5.csv",
+      "bytes": 6847,
+      "sha256": "6654b727b4a1e702b272ca29ed7b92cdc677f2990a5085dc26bba4c6f3dc4412",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "assembly/R5/00_업체에_전달할_내용.txt",
+      "bytes": 3108,
+      "sha256": "b605e74f7164a212fe31eca4bc984a28a28b79c216a82c4d93675b4edc8001a4",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "assembly/R5/09_실물검사기록_미실시.csv",
+      "bytes": 2083,
+      "sha256": "cd877acb41cec0d3492e663d3f5c4816684dc045bd848f2140050e93e09f477f",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/schematics/R5/images/회로도_R5-1.png",
+      "bytes": 445796,
+      "sha256": "c477492f9e92ba950aad63adff40cd40287c3caa38fba1374215a7ffb8d6c6ac",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/schematics/R5/images/회로도_R5-2.png",
+      "bytes": 372943,
+      "sha256": "82e860936037e241344ef4b04bad1200e8e4076adfaef173074ce2e6f2b7282d",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/schematics/R5/images/회로도_R5-3.png",
+      "bytes": 372807,
+      "sha256": "bab8c9a069c7b47cd3b537e7dd0f5e968e0c70f97623c4abe927084890c0d766",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/schematics/R5/images/회로도_R5-4.png",
+      "bytes": 283673,
+      "sha256": "5b707de4fd0a2f22ab31b8b1a375d0f3ac5fffcbfc1d26edf1166e924723bf6d",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
+    },
+    {
+      "repository_path": "hardware/schematics/R5/images/회로도_R5-5.png",
+      "bytes": 471311,
+      "sha256": "21a417944747bfdb87797ac490ffd6cf2c8561045d21cb301947d47e3ff1ed45",
+      "source": "R5 reviewed assembly revision, 2026-11-24",
+      "category": "current_R5"
     }
   ],
   "excluded": [
@@ -3093,5 +2470,9 @@
   "unavailable_sources": [
     "C:\\Users\\Yeon\\AppData\\Local\\Temp\\codex-clipboard-ae225f1f-7586-48cb-9a0e-c31108e14001.png"
   ],
-  "note": "Original project-specific files are preserved byte-for-byte. Dependencies, compiler installations, object caches, OS files and Git internals are excluded. Current firmware/calibration copies are convenience entry points; history is retained."
+  "note": "Current source-file verification list: retained imported files plus individually published R5 assembly assets. Superseded electrical/assembly deliverables were removed from HEAD and recorded in history/retired-assembly/retired_2026-11-24.json. Raw measurement/calibration data and current firmware/head CAD are retained. This manifest excludes itself and repository navigation metadata.",
+  "revision": "R5",
+  "updated_date": "2026-11-24",
+  "retired_assembly_files": 115,
+  "initial_import_manifest": "history/import/2026-11-24/SOURCE_MANIFEST.json"
 }
