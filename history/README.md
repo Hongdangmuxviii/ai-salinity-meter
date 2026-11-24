@@ -7,3 +7,6 @@
 [최초 반입 매니페스트](import/2026-11-24/SOURCE_MANIFEST.json)는 당시 반입 사실을 기록한 원본입니다. 현재 파일 검사는 저장소 루트의 SOURCE_MANIFEST.json 및 tools/verify_manifest.py를 사용합니다.
 
 현재 제작은 [hardware](../hardware/), [parts](../parts/), [assembly](../assembly/)의 R5만 사용합니다. 과거 측정 펌웨어는 당시 실험 재현용이며 최종 UI·통신 구현으로 간주하지 않습니다.
+
+
+R5 회로·조립본도 R6로 교체했습니다. [R5 폐기 목록](retired-assembly/retired_R5_2026-11-24.json)을 참조합니다. 주기판 배선은 유지되지만 SD 확장보드·모듈 접속 지시는 R6를 적용합니다.

@@ -1,5 +1,7 @@
 // Head response test. Send 'm' over USB to measure five polarity pairs.
-// D0 -> B10 (ADS A2), D1 -> B22 (ADS A3), probe -> C14/C18 (ADS A0/A1).
+// R6: D0/D1 drive E1/E2 via R1/R2; J7.1..4 -> ADS A0:A..A3:A.
+// Use R6 hole/harness CSVs; old breadboard coordinates are obsolete.
+// Sense SD pull-up isolation is required; removing the SD card alone is insufficient.
 #include <Wire.h>
 #include <Adafruit_ADS1X15.h>
 #include <OneWire.h>
@@ -588,3 +590,4 @@ void loop() {
   if (!ready) { Serial.println("STOP: ADS1115 missing."); return; }
   runCurrentMeasurement(celsius);
 }
+

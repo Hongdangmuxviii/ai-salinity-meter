@@ -1,0 +1,23 @@
+{
+  "qwiic_manufacturer_pins": {
+    "2": "3.3V",
+    "1": "GND",
+    "4": "SCL",
+    "3": "SDA"
+  },
+  "head_branch": {
+    "J2.1": 1,
+    "J2.2": 2,
+    "J3.1": 5,
+    "J3.2": 4,
+    "J3.3": 3
+  },
+  "cart_lines": 27,
+  "cart_total_krw": 67424,
+  "dc_example": {
+    "BAT": 4.2,
+    "J3_cut_only_D9_low_D10": 1.3708333333333336,
+    "SD_resistors_removed_D10": 2.1
+  },
+  "physical_test": false
+}

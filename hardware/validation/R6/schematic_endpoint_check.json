@@ -1,0 +1,7 @@
+{
+  "revision": "R6",
+  "mainboard_endpoints": 104,
+  "external_endpoints": 48,
+  "all_mainboard_endpoints_same_net": true,
+  "hardware_test": "not performed"
+}

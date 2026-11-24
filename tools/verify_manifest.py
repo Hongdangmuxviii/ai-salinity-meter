@@ -13,4 +13,5 @@ for item in manifest['files']:
 if failures:
     for failure in failures:print(*failure)
     raise SystemExit(1)
-print(f"Verified {len(manifest['files'])} current source/R5 files against SHA-256 manifest.")
+print(f"Verified {len(manifest['files'])} current source/R6 files against SHA-256 manifest.")
+

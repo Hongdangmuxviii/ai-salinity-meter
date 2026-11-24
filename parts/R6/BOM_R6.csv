@@ -1,0 +1,42 @@
+﻿REF,품명,실장필요량,구매또는제공량,조달,디바이스마트링크,주의사항
+PCB-A,SMEBGD1010 / 100×100 / 홀1.2 / 피치2.54 / 두께1.6mm,1,1,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=1377099,50.80×91.44mm로 재단. 19열×35행. 패드 지름2.0mm. 원판 고정홀을 새 좌표 고정홀로 오인하지 않음.
+"R1,R2,R12~R15",1kΩ 1% 1/4W 금속피막 리드형,6,10,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=2014,실장 리드 간격10.16mm. 여분1개는 전극 대체1kΩ 검사 부하로 사용.
+"R3~R11,R16~R18",10kΩ 1% 1/4W 금속피막 리드형,12,20,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=2034,실장 리드 간격10.16mm. 몸체 길이≤7.0mm / 지름≤2.5mm.
+C1~C4,100nF / 0.1uF / 50V 리드형 세라믹,4,10,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=1343,C1~C3는 모듈 바로 옆. C4는 주기판 BAT_SENSE-GND. C4 몸체 할당 최대6mm.
+C5,100uF / 25V 전해 / 6.3×11mm,1,10,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=29527,+는3V3 / -는GND. 리드간격2.5/2.54mm. 2.5mm는2.54mm로 가볍게 성형.
+NW 4P 기판측,NW-A2510-4A / 2.54mm,6,6,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=1357821,스트레이트. 몸체 큰 쪽을 핀열 아래(+행)로 배치. R6 위치 사용.
+NW 4P 케이블측,NW-A2510-4Y,6,6,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=1357814,A2510 전용 단자 사용. 하우징 캐비티 번호와 R6의 핀1 대응.
+NW 3P 기판측,NW-A2510-3A / 2.54mm,3,3,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=1357820,스트레이트. 몸체 큰 쪽을 핀열 아래(+행)로 배치. R6 위치 사용.
+NW 3P 케이블측,NW-A2510-3Y,3,3,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=10919298,A2510 전용 단자 사용. 하우징 캐비티 번호와 R6의 핀1 대응.
+NW 2P 기판측,NW-A2510-2A / 2.54mm,3,3,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=1357819,스트레이트. 몸체 큰 쪽을 핀열 아래(+행)로 배치. R6 위치 사용.
+NW 2P 케이블측,NW-A2510-2Y,3,3,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=1357813,A2510 전용 단자 사용. 하우징 캐비티 번호와 R6의 핀1 대응.
+NW 모든 하우징,NW-A2510 압착단자 / AWG24~30,39,50,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=1357818,4P×6+3P×3+2P×3=39개. 11개 여유. 다른 계열 단자 혼용 금지.
+JH1A 본체측,YEONHO SMH250-05,1,1,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=33524,YST025 암접점 사용. 본체 전원측에 노출 수접점을 두지 않음. 건조부.
+JH1B 헤드측,YEONHO SMP250-05,1,1,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=1067066,SMT025 수접점 사용. 기판 삽입용 아님. 건조부.
+JH1A 단자,YEONHO YST025,5,100,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=33565,제조사 AWG22~24. 헤드5가닥 모두AWG24. AWG26을 그대로 압착하지 않음.
+JH1B 단자,YEONHO SMT025,5,100,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=1067087,제조사 AWG24~26. 양쪽 공통 AWG24 사용. 페이지 기본 판매수량100 기준.
+J1 배터리 상대측,MOLEX 53047-02,1,1,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=9042,기존51021-0200의 상대. 짧은 절연 전선과 NW2P 하우징으로 P_B1에 연결. 각 핀 개별 절연·몸체 고정.
+전원·헤드5심,UL1007 AWG24,약2m + 경로 여유,20m 1롤,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=14602,헤드5가닥은 신호도AWG24. 기존 가는 센서선은 절연 접속부에서 AWG24로 전환.
+기판 신호·하네스,UL1007 AWG26,약3m + 경로 여유,20m 1롤,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=9203,NW단자에는 사용 가능. YST025 헤드 암접점에는 사용하지 않음.
+절연,열수축튜브 혼합96개입,1,1,사용자 구매·제공,https://www.devicemart.co.kr/goods/view?no=12857,배터리 짝선/헤드 이음부/낙하·인장 가능 부위를 절연.
+U1,XIAO ESP32-S3 Sense + 카메라,1,1개 제공,사용자 보유품 제공,,주기판 7핀×2 헤더에 직접 장착. 밑면 BAT/BOOT/EN 선을 먼저 납땜·절연. 별도 절연 받침으로 지지. Sense SD 풀업 분리 지시 필수.
+U2,Pololu #2810 LV,1,1개 제공,사용자 보유품 제공,,기존품 재사용. 실물 검수. 모듈은 별도 고정하고 R6 하네스로 연결.
+U3,DFRobot DFR0553 ADS1115,1,1개 제공,사용자 보유품 제공,,P2 2.54mm 보조 I2C 헤더 사용: 실크 D/C/-/+에 대응. P1 Gravity 케이블 불필요. A0~A3은 A 열만 연결.
+U4,SSD1306 OLED 0.91inch128×32,1,1개 제공,사용자 보유품 제공,,기존품 재사용. 실물 검수. 모듈은 별도 고정하고 R6 하네스로 연결.
+U5,SparkFun SEN-19013 VL53L5CX Mini,1,1개 제공,사용자 보유품 제공,,SH1.0-4P 연결. 추가 케이블 15240937 사용 가능. 케이블 색상이 Qwiic 표준과 같다고 가정하지 않음.
+U6,EM Tech DS18B20 내장풀업형,1,1개 제공,사용자 보유품 제공,,기존품 재사용. 실물 검수. 모듈은 별도 고정하고 R6 하네스로 연결.
+U7,ONE005 액티브 부저,1,1개 제공,사용자 보유품 제공,,ONE005 공급사 HIGH 동작 명시. 실제 + / - / S와 3.3V HIGH/LOW 동작 확인. 임의로 LOW 활성형으로 변경 금지.
+B1,DTP803040 1S3.7V1000mAh,1,1개 제공,사용자 보유품 제공,,셀 보호회로·극성·허용전류 확인. 내장 USB 충전. 별도TP4056 구매하지 않음.
+"E1,E2",기존 SUS316L 전극·캡형헤드,2,2개 제공,사용자 보유품 제공,,기존품 재사용. 실물 검수. 모듈은 별도 고정하고 R6 하네스로 연결.
+SW1~SW3,기존 VLT-TSW015 조작버튼,3,3개 제공,사용자 보유품 제공,,기존품 재사용. 실물 검수. 모듈은 별도 고정하고 R6 하네스로 연결.
+"SW4,SW5",NO 서비스 버튼 / 기존 여분 우선,2,2개 제공,사용자 보유품 제공,,기존품 재사용. 실물 검수. 모듈은 별도 고정하고 R6 하네스로 연결.
+U1 장착,기존 2.54mm 7핀×2 헤더 + 절연 지지,14핀 + 고정1식,추가 구매 핀헤더에서 7핀×2 확보 / 기존 정상핀 우선,기존품/실물 상태 대조,,아래 HDR-M 행에서 40핀 한 줄 구매. U1 14핀 + ADS P2 4핀 = 최대18핀 사용.
+TP0~TP8,접근 가능한 라벨 부착 납땜 패드,9,0,업체 가공,,별도TP 부품 불필요. 실제 부품이나 하우징에 가리지 않게 함.
+MOD-F,CH254 40P F/F 30cm 완성 암커넥터 연결선,15가닥 사용,1세트,사용자 구매·제공 / 2026-11-24 장바구니 보충,https://www.devicemart.co.kr/goods/view?no=32284,"ADC P2 4 + ADC A입력4 + OLED4 + 부저3. 한쪽 암단자 유지, 짧게 잘라 지정 전선에 절연 접속. 개별 1P 플러그 기능 라벨·묶음·당김방지."
+HDR-M,2.54mm 1×40 수 핀헤더,최대18핀,1줄,사용자 구매·제공 / 2026-11-24 장바구니 보충,https://www.devicemart.co.kr/goods/view?no=2825,ADS P2 4핀 장착; XIAO 미장착 시 7핀×2. 컷팅 후 버 제거. 인접핀 브리지 검사.
+TOF-CABLE,JST SH1.0-4P → 암 점퍼 200mm,1개,1개,사용자 구매·제공 / 2026-11-24 장바구니 보충,https://www.devicemart.co.kr/goods/view?no=15240937,SH측만 ToF에 사용. 점퍼쪽 절단·단축 후 NW4Y 짝선에 신호별 접속. SH1=GND/2=3V3/3=SDA/4=SCL. 색상 대신 도통 확인.
+FIX-M3,NT-KIT-E018 M3 절연 서포트·볼트·너트,주기판 4세트 + ADS/프레임 여유,1키트,사용자 구매·제공 / 2026-11-24 장바구니 보충,https://www.devicemart.co.kr/goods/view?no=1323561,"주기판 아래 10mm 지지대4개 우선. 외경≤6.5mm, 아래 유효 여유≥5mm. 볼트는 실제 받침/판 두께 및 나사 깊이에 맞춰 선택, 양쪽 볼트끼리 충돌 금지."
+FIX-M2,NT-KIT-E017 M2 절연 서포트·볼트·너트,소형 모듈 6세트 가공 여유,1키트,사용자 구매·제공 / 2026-11-24 장바구니 보충,https://www.devicemart.co.kr/goods/view?no=1323562,Pololu/ToF/부저 실물 홀에 맞춰 선택. 홀 없는 OLED에는 관통 체결하지 않고 별도 프레임 클램프 사용.
+TIE,100mm 검정 케이블타이,약10개,100개입 1봉,사용자 구매·제공 / 2026-11-24 장바구니 보충,https://www.devicemart.co.kr/goods/view?no=14883168,하네스 묶음/당김방지. 배터리 셀을 세게 조이거나 센서선을 꺾지 않음. 타이 끝을 짧게 다듬음.
+TIE-MOUNT,18×18mm 접착식 타이마운트,약6개,50개입 1봉,사용자 구매·제공 / 2026-11-24 장바구니 보충,https://www.devicemart.co.kr/goods/view?no=14889234,절연판/프레임의 평평한 건조면에 부착. 납땜면·셀·고온부에 붙이지 않음. 접착만으로 무거운 부품 지지 금지.
+FRAME/CASE,실측 전면 프레임·절연 받침·외함 개구 가공,맞춤 가공1식,기성 구매품 아님 / 업체 실측 제작,제작 범위·실물 대조 필요,,"OLED+버튼 공통 프레임, USB-C/Pololu 접근 개구. 현재 최종 외함 생산 CAD/실물 끼움 검증 없음. R6_07 단면 조건 적용."

@@ -1,6 +1,6 @@
 # AI 스마트 염도·부피 측정기
 
-프로젝트의 코드, 원시 측정 기록, 보정표, R5 회로·만능기판 제작 자료, 헤드 CAD, 발표 자료와 사진을 관리합니다. **현재 제작 기준은 R5(2026-11-24)**입니다. 구형 회로·조립 전달본 115개는 현재 파일 목록에서 폐기하고 용도별 R5 파일로 교체했습니다.
+프로젝트의 코드, 원시 측정 기록, 보정표, R6 회로·만능기판 제작 자료, 헤드 CAD, 발표 자료와 사진을 관리합니다. **현재 제작 기준은 R6(2026-11-24)**입니다. R5 조립본은 제작 기준에서 제외하고 용도별 R6 파일로 교체했습니다. 이전 파일은 Git 이력에 남습니다.
 
 ## 현재 사용할 파일
 
@@ -11,31 +11,35 @@
 | 보정 모델과 기준값 | [calibration/current](calibration/current) |
 | 보정 완료·확인 기록 | [보정표_저장완료_기록.txt](calibration/current/보정표_저장완료_기록.txt) |
 | 해당 펌웨어 바이너리 | [firmware/releases/2026-11-24](firmware/releases/2026-11-24) |
-| R5 정식 회로도·페이지별 이미지 | [hardware/schematics/R5](hardware/schematics/R5) |
-| R5 만능기판 부품면·납땜면·구멍 좌표·배선표 | [hardware/perfboard/R5](hardware/perfboard/R5) |
-| R5 플러그 핀맵·하네스 | [hardware/harness/R5](hardware/harness/R5) |
-| R5 부품 구매·제공 목록 | [parts/R5/BOM_R5.csv](parts/R5/BOM_R5.csv) |
-| R5 업체 전달·실물 검사표 | [assembly/R5](assembly/R5) |
-| R5 자료 검사·규격 출처 | [hardware/validation/R5](hardware/validation/R5) |
+| R6 정식 회로도·페이지별 이미지 | [hardware/schematics/R6](hardware/schematics/R6) |
+| R6 만능기판 부품면·납땜면·구멍 좌표·배선표 | [hardware/perfboard/R6](hardware/perfboard/R6) |
+| R6 플러그 핀맵·하네스 | [hardware/harness/R6](hardware/harness/R6) |
+| R6 부품 구매·제공 목록 | [parts/R6/BOM_R6.csv](parts/R6/BOM_R6.csv) |
+| R6 업체 전달·실물 검사표 | [assembly/R6](assembly/R6) |
+| R6 자료 검사·규격 출처 | [hardware/validation/R6](hardware/validation/R6) |
 | 헤드 CAD·STL 및 발표 자료 | [project-workspace/outputs](project-workspace/outputs) |
 | 측정·기구 이력 및 구형 조립본 폐기 목록 | [history](history) |
-| 현재 원본·R5 파일 SHA-256 검사 목록 | [SOURCE_MANIFEST.json](SOURCE_MANIFEST.json) |
+| 현재 원본·R6 파일 SHA-256 검사 목록 | [SOURCE_MANIFEST.json](SOURCE_MANIFEST.json) |
 
 현재 프로그램은 `SALINITY_CAL_4P_V1`, 기기에서 읽어 확인한 보정표는 `REF_4P_20261124_V2`입니다. `history`의 이전 코드·설명·회로는 당시 자료이며, 현재 버전의 지시로 혼동하지 않아야 합니다.
 
-## R5 제작·조립 기준
+## R6 제작·조립 기준
+
+- **필수: Sense 카메라/SD 확장보드의 SD 풀업 R4(D9)/R5(D10)/R6(SD_CS)를 실제 리비전 대조 후 개별 분리합니다. J3 절단만으로 완료하지 않습니다. 주기판의 R4/R5/R6 10kΩ와 온도 J3는 유지합니다.**
+- 모듈 쪽은 CH254 암15심(ADS P2/입력·OLED·부저) 및 SH1.0 ToF 케이블로 마감합니다. [양끝 연결도](hardware/harness/R6/R6_05_모듈양끝_결선.png)와 [SD 수정도](hardware/validation/R6/R6_06_Sense_SD풀업_수정.png)를 함께 사용합니다.
+- 조립 소모품7종을 보충했습니다. 장바구니27품목/67,424원(VAT 포함, 표시 배송비0원), 2026-11-24 화면 기준입니다. 실제 재고·출고일은 판매처 확인 대상입니다.
 
 - SMEBGD1010 에폭시 양면 기판: 홀1.2mm/피치2.54mm/두께1.6mm, 50.80×91.44mm로 재단합니다.
 - 기판 커넥터는 NW-A2510: 4P6쌍/3P3쌍/2P3쌍, 압착단자39개 필요(구매50개)입니다.
 - 헤드는 SMH250-05/YST025 ↔ SMP250-05/SMT025, 5가닥 모두 AWG24입니다. 1=E1,2=E2,3=GND,4=TEMP_DQ,5=3V3입니다.
 - TP0~TP8은 별도 구매품 없이 접근 가능한 검사 패드를 사용합니다. 저항 리드 간격은10.16mm입니다.
 - 부품은 사용자가 전량 구매·제공합니다. 업체는 재단·납땜·압착·절연·고정·도통·전원·충전·업로드 검사를 수행합니다.
-- 전기적 연결과 XIAO GPIO 배정은 유지하고, 커넥터·수동부품·검사점 위치와 배선 경로를 수정했습니다. 회로도·실배선도·결선표를 함께 사용합니다.
-- 104개 접속점과76개 배선을 대조하고 지정 외형·고정물·경로를 검사했습니다. **실물 통전·충전·A0 경로·USB 삽입 검사는 미실시**입니다. [빈 실물 검사표](assembly/R5/09_실물검사기록_미실시.csv)에 결과를 기록합니다.
+- R5의 주기판 좌표·76개 배선·부품값·GPIO 배정은 유지합니다. Sense 확장보드 SD 풀업 분리, 모듈 양끝 접속과 추가 소모품을 명시했습니다. 회로도·실배선도·결선표를 함께 사용합니다.
+- 104개 접속점과76개 배선을 대조하고 지정 외형·고정물·경로를 검사했습니다. **실물 통전·충전·A0 경로·USB 삽입 검사는 미실시**입니다. [빈 실물 검사표](assembly/R6/09_실물검사기록_미실시.csv)에 결과를 기록합니다.
 - XIAO 내장 USB-C는 외함을 열지 않고 직접 꽂도록 기판 상단 밖으로 노출합니다. 닫힌 외함에서 완전 삽입·충전·업로드 검사가 필요하며, **최종 외함 생산용 CAD는 확정되지 않았습니다.**
 - OLED·버튼·부저·ToF·Wi-Fi 통합과 무선 업데이트는 후속 펌웨어 작업입니다. 현재 USB 측정용 코드의 미구현 기능을 배선 오류로 판단하지 않습니다.
 
-![R5 전체 실배선](hardware/perfboard/R5/R5_01_전체실배선.png)
+![R6 전체 실배선](hardware/perfboard/R6/R6_01_전체실배선.png)
 
 ## 확인된 상태
 
@@ -68,7 +72,7 @@
 
 ADS1115는 주소 `0x48`, 3.3V 전원, I2C 100kHz, `GAIN_ONE`, 860SPS를 사용합니다. DFR0553의 `A0:A`는 A0 행의 **A 신호 단자**이며, 같은 행의 `+/-` 전원 단자와 구별해야 합니다. DS18B20은 빨강=VDD, 검정=GND, 노랑=DATA입니다.
 
-현재 조립 자료는 R5만 사용합니다. R5의 자료 검사는 전체 장치의 실물 조립·충전·정확도 검증을 뜻하지 않습니다. SD카드를 제거하고 공유 SPI를 초기화하지 않습니다.
+현재 조립 자료는 R6만 사용합니다. R6의 자료 검사는 전체 장치의 실물 조립·충전·정확도 검증을 뜻하지 않습니다. SD카드 제거와 함께 확장보드 SD 풀업을 개별 분리하고, 공유 SPI를 초기화하지 않습니다.
 
 ## 펌웨어 빌드와 명령
 
@@ -112,3 +116,4 @@ USB 시리얼은 115200 baud입니다.
 ```sh
 python tools/verify_manifest.py
 ```
+
