@@ -14,8 +14,26 @@
 | 조립 지시·USB 접근 단면·빈 검사표 | [assembly/R7](assembly/R7) |
 | 자료 검사 결과·규격 출처 | [hardware/validation/R7](hardware/validation/R7) |
 | 현재 검사용 펌웨어·보정표 | [firmware/SalinityMeterCalibrated](firmware/SalinityMeterCalibrated) |
+| **통합 펌웨어 R8.0 (OLED·버튼·부저·ToF·카메라·BLE)** | [firmware/SalinityMeterApp](firmware/SalinityMeterApp) — 컴파일 통과, 실물 검증 전 |
+| **안드로이드 앱 v0.2 (BLE·부피 추정·투입 가이드)** | [android](android) — 빌드·단위 테스트 통과, 실기기 실행 전 |
+| USB 시험 클라이언트 | [tools/serial_client.py](tools/serial_client.py) |
 | 보정 모델·기준값 | [calibration/current](calibration/current) |
 | 기존 실측/기구/CAD 이력 | [project-workspace/outputs](project-workspace/outputs), [history](history) |
+
+## R8.0 통합 펌웨어와 안드로이드 앱 (2026-11-24, 실물 검증 전)
+
+- **펌웨어 [SalinityMeterApp](firmware/SalinityMeterApp/README.md)**: R7 배선은 그대로 둡니다. R7.1의 측정 코드(펄스 타이밍, 3회 중앙값, 보정표 `REF_4P_20261124_V2`, `m/k/t/p` 명령)는 그대로 옮겼습니다.
+  - 추가 기능: OLED 화면 5개, 버튼 3개(짧게/길게), 부저 패턴, VL53L5CX 깊이맵, 카메라 JPEG, NVS 설정·이력
+  - 휴대폰 연결: BLE(Nordic UART 서비스 + 사진 전송용 서비스)
+  - 측정하는 동안에는 I2C를 보정 때와 같은 100kHz로 두고, 카메라·부저·BLE 통신을 멈춥니다.
+  - 빌드 옵션은 `PSRAM=opi`가 필요합니다.
+- **안드로이드 앱 [android](android/README.md)**: 특허 P2026-070의 S100~S700 흐름을 따릅니다. 국물 부피는 아래 네 가지 방법을 함께 써서 구합니다.
+  - A. ToF로 용기 모양 학습
+  - B. 건더기 넣기 전후의 수면 변위
+  - C. 단안 깊이 모델(Depth Anything V2 Small, Apache-2.0)과 ToF 거리 융합
+  - D. 투입 전후 염도로 국물량 역산, 가중 융합, 음식별 학습
+  - 소금·물 투입량은 나눠 넣기와 재측정으로 맞춥니다.
+- **아직 하지 않은 것**: 기기 업로드, 휴대폰 실행, 실제 음식·용기로 정확도 확인. 통합 펌웨어에서는 0.6%·2.0% 기준액으로 보정표를 다시 확인해야 합니다.
 
 ## R7 MVP 조립 기준
 

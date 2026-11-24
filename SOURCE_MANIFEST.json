@@ -2447,10 +2447,10 @@
     },
     {
       "repository_path": "README.md",
-      "bytes": 10686,
-      "sha256": "75b22e4633e190752ad3fc7684fb3d077d713d0994054f938cd5cc88ac0bb8b2",
-      "git_blob_sha": "b2f804ce2daf71b7f46f637d4ad4866e6f6f2ea8",
-      "source": "R7.1 firmware and assembly addendum 2026-11-24",
+      "bytes": 12521,
+      "sha256": "3dbec8b861177bf7405a9b2b89a8e79817d60319c717643f23ee767dc88ef6fb",
+      "git_blob_sha": "ee82f4e7a26c405ec0593384e13529b2049edf7d",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
       "category": "current_R7"
     },
     {
@@ -2524,6 +2524,558 @@
       "git_blob_sha": "c3014a573d80f566e6ac803f3b6c1304c9ef331b",
       "source": "R7.1 firmware and assembly addendum 2026-11-24",
       "category": "current_R7"
+    },
+    {
+      "repository_path": "android/.gitignore",
+      "bytes": 65,
+      "sha256": "15fc5e95e238617471db56790a1c5b49932410fbf958afa6cc3dc14bd2999954",
+      "git_blob_sha": "8847a6b6caab4d83eee1aea1e1811e92cee0b2f4",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/README.md",
+      "bytes": 11406,
+      "sha256": "24dfe0b6dd0cbf544ffa6b60b04bd870018582448eae8bf082ea01a9111ef193",
+      "git_blob_sha": "9f03a7dde215b756a7f16da6225e3c4815621a7b",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/build.gradle.kts",
+      "bytes": 1625,
+      "sha256": "4840d5e7e28de9a8d912bd3417b366c9c516628d7ac4a7068dd046a594cedc74",
+      "git_blob_sha": "081afe1e59a902750bca6d6c0678cd334534ca9b",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/AndroidManifest.xml",
+      "bytes": 1561,
+      "sha256": "be0ef3b95f2a3936ee320422de866d1256bb1f343e6ea256633a67d4467024e5",
+      "git_blob_sha": "064074228a87e42c14f822732ea3a19cfc038454",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/MainActivity.kt",
+      "bytes": 474,
+      "sha256": "bb7c807616551cbe7744bd364739f534162ae4b5e7596e2728d10e246fd04061",
+      "git_blob_sha": "073d37fd3b0c619e1d44e1122d153aab0b51e5f0",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/analysis/BrothEstimator.kt",
+      "bytes": 6791,
+      "sha256": "9b05829e80738a2a7f973dbb9ed02cf285f853ec141ea00786cb1e1b8b9472f7",
+      "git_blob_sha": "89c08ab8ad18f618cd32c8be58f9935a5e12bc8c",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/analysis/Container.kt",
+      "bytes": 4782,
+      "sha256": "bc7f3c508f133fced5d0d34e9f42b647602506e3aa63b3ecd730fbdc218b078b",
+      "git_blob_sha": "09f7a68cfa320c80b438861b7a4e9f908d879b35",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/analysis/ContainerLearning.kt",
+      "bytes": 2835,
+      "sha256": "3be242975c14d64c7f9d87050224408a76215a64aab48bb36470ac6939081d48",
+      "git_blob_sha": "82c8ec5cb6052dd0cee450af8df9dee45d2fd645",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/analysis/DepthFusion.kt",
+      "bytes": 6125,
+      "sha256": "20665b3a5763587424577d29936b8a66aca38fc462b2bbed39a6fd14296942a8",
+      "git_blob_sha": "426623734bfb768ca09a8e3c3e942c4b8d583a88",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/analysis/Displacement.kt",
+      "bytes": 2172,
+      "sha256": "4a017179ac03e3679ce593b9e3787122498f2ee5898c712822433fc55e298e14",
+      "git_blob_sha": "99248240b95829668bed53e4b4fc5b99dc2de43d",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/analysis/Geometry.kt",
+      "bytes": 2703,
+      "sha256": "eac26026f0dafbd37e8476614c76f2e8c8fa2376e34d9b1d2eb87ae3e87e316e",
+      "git_blob_sha": "ac7d76b9bfafa40b43a0c73c1844553daead39b3",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/analysis/Refinement.kt",
+      "bytes": 9019,
+      "sha256": "56ff8099817be56b7326da0a79e99d540ae485877612464eb56839061af6ce66",
+      "git_blob_sha": "07a8c7900dd910065ff1453ca7f62fcf6609f1ba",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/analysis/SaltGuide.kt",
+      "bytes": 2256,
+      "sha256": "bf4d979c385e4651ed96040f748ad39a7b8bb6d0a519ed7322619a221ba14f39",
+      "git_blob_sha": "d16e8d02128c7aeff6f151865e9bbef8c4a808e6",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/analysis/SolidsSegmenter.kt",
+      "bytes": 6875,
+      "sha256": "a933aeef85965bb98f227e0ab3a7e5169b8885a29abf79f41bb03232a7dd4669",
+      "git_blob_sha": "e503910617761e789ce094465b2209f09f6ebb2c",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/ble/MeterBleManager.kt",
+      "bytes": 4470,
+      "sha256": "bd247d53d157e3f94b6a6f78042dd73ea534f7ddaece28efe719169c995cb5ea",
+      "git_blob_sha": "cd71e1ba506cdc18cf781a9535c028746f4efc4b",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/ble/MeterScanner.kt",
+      "bytes": 1820,
+      "sha256": "413b4bb040d895be3a941671d1dff4a5312044b0212d723af873f04b3695fabd",
+      "git_blob_sha": "bbe941ddc0fc93caa605b123ba0c166e67542c95",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/data/AppSettings.kt",
+      "bytes": 4152,
+      "sha256": "56c9bf642e5801bbfac5a4349cc99ecf42536c4cc8246c62bba68792183bbd02",
+      "git_blob_sha": "f97fc59bfbf623e65c7d32b77241f8f1e6df8313",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/data/CookStore.kt",
+      "bytes": 2285,
+      "sha256": "a1ac3dd088374c7278d9c5b5835811e92617798d8442d66e00d7f37a096b8bb3",
+      "git_blob_sha": "264a77cac9cf87ee68992bfb38ab7a9303c63727",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/data/DepthEstimator.kt",
+      "bytes": 3715,
+      "sha256": "1430e0142187a104d8127eada88d22dafd297f88a9bb7cab847fb68dd9f48198",
+      "git_blob_sha": "a220c7238696baffb7c520ed0df2c1cd3eee1968",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/data/MeterViewModel.kt",
+      "bytes": 32761,
+      "sha256": "4c65adde6ca5c8ea50ca09e8a3135c82bec8e558cf7e1730db4ca3d858f19bc8",
+      "git_blob_sha": "9655a56ebf96c63015811b4fb22339a482a55c5c",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/protocol/Commands.kt",
+      "bytes": 2107,
+      "sha256": "965a7c202cb82cf71b3593794fe366ddb7d98eba1fdeebd1a48703a87ce1a68f",
+      "git_blob_sha": "a474d77f073886b631af0fbe8ce10967809d28fd",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/protocol/DeviceEvent.kt",
+      "bytes": 6313,
+      "sha256": "bdd4d61f0bff1656ec480aff998fc55311a4a83335c83d9e1c833e0b2042b494",
+      "git_blob_sha": "4ce126410b641ecc536740bd064af3c6751f6316",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/protocol/ImageAssembler.kt",
+      "bytes": 2440,
+      "sha256": "89bfc2e35b5316c370113b905ef6b191da5cc8a5c358468ce6142eca92eb3756",
+      "git_blob_sha": "bb87cfc5abaa453078d24f02355bbb623a7a834d",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/protocol/LineAssembler.kt",
+      "bytes": 744,
+      "sha256": "1e130172d7b8bf1e3cba4e31fb016db117e36ae447fce88a89cc70220ee77a5b",
+      "git_blob_sha": "a107e8f27beb67a249f2a46834c4c2da4833caf2",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/ui/ConnectScreen.kt",
+      "bytes": 2870,
+      "sha256": "299a35b54a8f27c3969c78467c77d4fe54db2af837d966ea082441b1606c6c10",
+      "git_blob_sha": "699952447e30240c56c889261a9d908fd2614320",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/ui/CookScreen.kt",
+      "bytes": 13371,
+      "sha256": "50dfcee05232e8acd0c6dc9c332b1ba6a5c21eb1534bac99074dbcf1a4d4ef33",
+      "git_blob_sha": "c2ffda2e3ad1f044bf389f62ca91c5a5e1b0d515",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/ui/LogScreen.kt",
+      "bytes": 2172,
+      "sha256": "2e6ed953ef0af49a585000590a0348559a267b997ca4fee93375b12ecb30d3e7",
+      "git_blob_sha": "510dbbc051f6ccc6d723a4482b5fc5a05e1d1646",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/ui/MeasureScreen.kt",
+      "bytes": 8519,
+      "sha256": "af948d2df50754b7ea9741b4a8b8469438e18547737035ef1f3830a60fb2fc83",
+      "git_blob_sha": "76f9125ddd4ca53dbba7b7dbaad309b20799847d",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/ui/MeterApp.kt",
+      "bytes": 4230,
+      "sha256": "620b1abb9b6c8f2a1d45916452acc663fe44a7eb9d844da2209fa1e434e598c1",
+      "git_blob_sha": "cb97b81a66d4805bb1bb92c3ebee96b3a7fab129",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/ui/SetupScreen.kt",
+      "bytes": 6811,
+      "sha256": "ecba7e57676e14121892f52e2cf42616d4969c64f0a1207c121eed4b63a4085e",
+      "git_blob_sha": "872c43945645358015e43b222877ae9993c16637",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/java/com/aisalt/meter/ui/Widgets.kt",
+      "bytes": 2627,
+      "sha256": "6c53cb973e23a6363e37e90b58c92d8f3d84ed7ca13167e585dcefb6fc440cef",
+      "git_blob_sha": "09888c78effbe4dbb2dd50538652ca772ae76c31",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/main/res/values/strings.xml",
+      "bytes": 75,
+      "sha256": "464eb7a0428b688d7f60750a63c19603276f7bdfc850545867471f2b5c9ec45f",
+      "git_blob_sha": "acfe5444861c9e662da66146993ea246ffb4d4a4",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/test/java/com/aisalt/meter/analysis/MethodsTest.kt",
+      "bytes": 6600,
+      "sha256": "18576e965cd8464c2df11aa1ccf7f9270a8c8c7e6de5ecee0a3b22ff3070cc4b",
+      "git_blob_sha": "06c999c35498cfd89b79a344b1801cbec99b9331",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/test/java/com/aisalt/meter/analysis/SaltGuideTest.kt",
+      "bytes": 1699,
+      "sha256": "e123b209b2d0d9d11b54baad536ea0898c460eecfdf0710eaa8519dad46d2cb4",
+      "git_blob_sha": "fb9c5ea46bd7e67f6acfe189e422646b05310779",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/test/java/com/aisalt/meter/analysis/SegmenterTest.kt",
+      "bytes": 1440,
+      "sha256": "e1add35fcfca6df35058023ccfdd9e13676ce592d310527c38be769216080803",
+      "git_blob_sha": "61218cff1d99fb5e0f4300966fa1b7948ac43f4f",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/test/java/com/aisalt/meter/analysis/VolumeTest.kt",
+      "bytes": 4171,
+      "sha256": "dfc437a6ab61d4e870792c3ef9a8afcffdb66d97d0497b1b8c58e1fe6237b7b9",
+      "git_blob_sha": "cfce63a83c6ad22b58d19a500ae56d0bf0ebe4ac",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/app/src/test/java/com/aisalt/meter/protocol/ProtocolTest.kt",
+      "bytes": 2702,
+      "sha256": "322a879af627d51f288b8f5cd71af593494654904241b3fdebbd76505b73d337",
+      "git_blob_sha": "08d6ccbd87c007f3357a226de00c3ec33be61f4e",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/build.gradle.kts",
+      "bytes": 556,
+      "sha256": "8ace19dae8b680f9a3ec5c948b27bd95215c6fb43e63f125b5e4ac608126d501",
+      "git_blob_sha": "5a3079be0ce8e18fd7aab01539617f6cbefc91ad",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/gradle.properties",
+      "bytes": 237,
+      "sha256": "ca84b89075b4cf330e907f91b55dab47ddede11c87b883142bc6f4254c9afcc2",
+      "git_blob_sha": "8eb039586d087925779210b02fc65df9c08ce0ae",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/gradle/libs.versions.toml",
+      "bytes": 2038,
+      "sha256": "a6170761cd6fa58ae3ad31112fbf10458b79d8e601be849c2e347caf164a8469",
+      "git_blob_sha": "ef788247dbf7b360913488b86c83b43fdae49d1c",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/gradle/wrapper/gradle-wrapper.jar",
+      "bytes": 43504,
+      "sha256": "498495120a03b9a6ab5d155f5de3c8f0d986a449153702fb80fc80e134484f17",
+      "git_blob_sha": "2c3521197d7c4586c843d1d3e9090525f1898cde",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/gradle/wrapper/gradle-wrapper.properties",
+      "bytes": 250,
+      "sha256": "3d91f0932da99885c41e9dc4e85c9f9a2d3bfef4f0ad87473014dc0827a94884",
+      "git_blob_sha": "09523c0e5490700d1a647ecf95309b5f7f9a8199",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/gradlew",
+      "bytes": 8762,
+      "sha256": "a3648413b47ef77af21d5ebc36c687c7d103aaef3e17f33de7d4f080a6f300a3",
+      "git_blob_sha": "f5feea6d6b116baaca5a2642d4d9fa1f47d574a7",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/gradlew.bat",
+      "bytes": 2966,
+      "sha256": "57931b17dd228e5c24dac90e815d0bf82477e831a4618dfab4136f5446b42a9f",
+      "git_blob_sha": "9b42019c7915b971238526075306ffba3b666dd5",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "android/settings.gradle.kts",
+      "bytes": 327,
+      "sha256": "3f7120918f45d6b0887bd833e53e099141ff66c699fd678da6478a390a369b9a",
+      "git_blob_sha": "842e9cae73b4e49301b6e4d90baa2c4f2e3dba68",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/BleLink.cpp",
+      "bytes": 5503,
+      "sha256": "5e2237a48e1294d97872c0137011d9d1f7da2f00a45dc1bad4a8e94935401cd9",
+      "git_blob_sha": "8984727241fd97fa43c2ac3c3f8a828b8fe3f144",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/BleLink.h",
+      "bytes": 1114,
+      "sha256": "1f51fd5d80d9534c413cda6d5f4371c84cd4f2110d48a0f40c62076f5a4dee21",
+      "git_blob_sha": "de1f3177410b3e5472e15494eef514d2323fba81",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/Buttons.cpp",
+      "bytes": 2163,
+      "sha256": "a571407d90f62076dda3434066db351b83a8ebbfe3d51e86f2d7bba581fb9a0b",
+      "git_blob_sha": "95c75b80d75672185aa418ce020abafa45430869",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/Buttons.h",
+      "bytes": 579,
+      "sha256": "a4063c6d3cd1f3bf094b367caaf87cae2514905a6d4907e2b6bf8b61c6bda7cf",
+      "git_blob_sha": "98bb5e37c3f6357b0da413ee1dbe1a5c1e5c22b3",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/Buzzer.cpp",
+      "bytes": 1622,
+      "sha256": "776baedd1fd739e674393e020aa0bba2b1d6a7f9be3293ada72f238c45704720",
+      "git_blob_sha": "a6fb4a7b4f5b77800484ea6dba3d61d4d2400492",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/Buzzer.h",
+      "bytes": 536,
+      "sha256": "d7d5b6285a7ca98afbe3bd19fb09c3059b07fa2e37dc44cca57a81afdae5d501",
+      "git_blob_sha": "d983d4e15acdb8d2327d8047e06d5a383b2f5cf9",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/CalibrationTable.h",
+      "bytes": 581,
+      "sha256": "e3f4ff940d4fd9282daebd3d3ffe2cf20bcfa4dfa9ac7b24ff48db45fb27e868",
+      "git_blob_sha": "491d8a1ed10ce6471694a1ea0509af82941eb36f",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/CameraCapture.cpp",
+      "bytes": 3419,
+      "sha256": "d99e227403f610d6f787ffb36614cbcfe537b99d6d13ec4eabe817178d010668",
+      "git_blob_sha": "a9c78462ba8957687b77a8babd098381b94381c0",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/CameraCapture.h",
+      "bytes": 760,
+      "sha256": "743f828ee866802d8d37eb8459f90cc5984101dea1dbb43ee3e785a8e47006a0",
+      "git_blob_sha": "3f4d819928310dab04f603ee9250e584eb8e13bf",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/Config.h",
+      "bytes": 4418,
+      "sha256": "bf2222fb091442879b5ca1b690af4f81f35f201af5f28273b2d004e77e6727b8",
+      "git_blob_sha": "ee4d81dd9476ef290be026a11e47f52c9e08f812",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/Display.cpp",
+      "bytes": 1948,
+      "sha256": "f3e061ba368dc3d6646b64c91937db4572769a6fbd97a58f7a28cf77d8d8e25c",
+      "git_blob_sha": "184ccd4dad8194a6bea7b16e8fa77342f5c3e32f",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/Display.h",
+      "bytes": 632,
+      "sha256": "8689a8a2b92ff9e07df7a2c35b715cb58a56261d859da4128b9df218e3207b4d",
+      "git_blob_sha": "c3a3a2465675b5606cd71ef139e60dd7ed1bcc4a",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/JsonLine.h",
+      "bytes": 1665,
+      "sha256": "3789d576d2e5d8fd2d216fbc2dbcd4af8d6efc6d37787c0c5d6a8c32e4778757",
+      "git_blob_sha": "68c542f2a0a386990f47701c93ea26008226c22b",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/README.md",
+      "bytes": 15093,
+      "sha256": "2593d6700d877c4d2ce6d4aee219e48ab8dda2c901148d3631e0164713733745",
+      "git_blob_sha": "b6b0a803efabf7af95f4c95f91d42d61b811e37f",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/SalinityMeterApp.ino",
+      "bytes": 32995,
+      "sha256": "ca895376c0678c854c46cbd3ca0dc44fea8969cede25962ba27a0871307d4e24",
+      "git_blob_sha": "5abbd7946a92390a4228b0fc0f878f22f346e577",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/SalinityProbe.cpp",
+      "bytes": 9585,
+      "sha256": "34890900f90fa7b664d6b1702927104d377ac35714862e68e010e5a3a2a18a7a",
+      "git_blob_sha": "c08aebd4788bd807e935f04f117c8326a12c3146",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/SalinityProbe.h",
+      "bytes": 1559,
+      "sha256": "c02364cb11fbeb88c1d62c0588daa09742ad5c26cda4ccc6e81e99dda309895f",
+      "git_blob_sha": "41a66aea1bb284881816c06c7688b7ae21194088",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/SaltModel.cpp",
+      "bytes": 2540,
+      "sha256": "33a260f5d1e825e4f1924c570457192ee4575e1913ac60eee80dd606df72bf3a",
+      "git_blob_sha": "cd473d934bf0dcb1d44a1246da433046d71d47b4",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/SaltModel.h",
+      "bytes": 1211,
+      "sha256": "2c3bc108c0222717ba7d09f72d45fb2f70883425a574158ac8cb19a6f1a210bf",
+      "git_blob_sha": "4158e142eb5ab825c2360005c91772e85757299f",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/Storage.cpp",
+      "bytes": 2412,
+      "sha256": "1e1ae38f9125bd6bf9b150d1dd6e3c74a4a36fde35ac27df13186a6c11ea139f",
+      "git_blob_sha": "ec7ba24dc71e86221d0324582b26a9c41343dd28",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/Storage.h",
+      "bytes": 1520,
+      "sha256": "d96e6a736b740d45e96e3e036f1855229219b9a83f71fb618a5a3b251f4676ea",
+      "git_blob_sha": "f0e92aed0ef998ce5f63fa3b08c5fcfa0e715205",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/TofSensor.cpp",
+      "bytes": 2808,
+      "sha256": "b6a954de726192bf25ea13115a727efa33426d81eba68ef57902b910b8ee5831",
+      "git_blob_sha": "6069d6de26a8b6866cc0501939b411e16b979203",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "firmware/SalinityMeterApp/TofSensor.h",
+      "bytes": 796,
+      "sha256": "2afde8e5e689daf711b76f2045640038bcff6471ff4c862496c04451208c364c",
+      "git_blob_sha": "004f9f5eaa529c31d1435ef015ba5080bf0821c9",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
+    },
+    {
+      "repository_path": "tools/serial_client.py",
+      "bytes": 2846,
+      "sha256": "cd0ccc03f8ccdeef85d56f4cd82ab70a78e86083fb7b6207d8070afaa16d2bad",
+      "git_blob_sha": "f594c1a9de594310dd2b382be52dd94969db7db8",
+      "source": "R8.0 integrated firmware and Android app v0.2 2026-11-24",
+      "category": "current_R8_software"
     }
   ],
   "excluded": [
@@ -2765,5 +3317,6 @@
   "retired_pre_R71_binaries": [
     "firmware/releases/2026-11-24/SalinityMeterCalibrated.ino.bin",
     "firmware/releases/2026-11-24/SalinityMeterCalibrated.ino.merged.bin"
-  ]
+  ],
+  "software": "R8.0 integrated firmware (firmware/SalinityMeterApp) and Android app v0.2 (android): compiled/built and unit-tested; device upload, phone run and food accuracy not yet verified."
 }
