@@ -37,9 +37,11 @@ bool waitFrame(uint32_t started, uint32_t timeoutMs) {
 }  // namespace
 
 bool begin() {
-  sensor.setWireMaxPacketSize(128);
+  // The library allocates its I2C helper inside begin(); calling
+  // setWireMaxPacketSize() before that dereferences a null pointer and panics.
   ok = sensor.begin(cfg::kTofAddress, Wire);
   if (!ok) return false;
+  sensor.setWireMaxPacketSize(128);
   ok = sensor.setResolution(8 * 8) && sensor.setRangingFrequency(15);
   return ok;
 }
